@@ -27,6 +27,14 @@ Breve descripción del proyecto.
 
 Lista de materiales necesarios para instalar y utilizar el proyecto.
 
+1)Arduino nano 33 IoT
+
+2)Ultracortex EEG headset
+
+3)Fluke ProSim 4
+
+4)BiTalino
+
 ### Instalación
 
 Pasos necesarios para instalar el proyecto.

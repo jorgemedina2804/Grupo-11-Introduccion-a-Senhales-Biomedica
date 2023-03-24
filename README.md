@@ -23,7 +23,7 @@ Breve descripción del proyecto.
 
 ### Materiales
 
-Lista de materiales necesarios para instalar y utilizar el proyecto.
+Lista de materiales necesarios para la adquisición de las señales y el procesamiento inicial de tales datos.
 
 1)  Arduino nano 33 IoT
   

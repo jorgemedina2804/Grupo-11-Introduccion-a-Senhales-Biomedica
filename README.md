@@ -25,22 +25,22 @@ Breve descripción del proyecto.
 
 Lista de materiales necesarios para instalar y utilizar el proyecto.
 
-1) Arduino nano 33 IoT
+1)  Arduino nano 33 IoT
   
 <p align="center">
 <img src="Imagenes/nano.webp" alt="Arduino Nano" width="30%">
 
-2) Ultracortex EEG headset
+2)  Ultracortex EEG headset
   
 <p align="center">
 <img src="Imagenes/eeg.webp" alt="Arduino Nano" width="30%">
 
-3) Fluke ProSim 4
+3)  Fluke ProSim 4
   
 <p align="center">
 <img src="Imagenes/prosim.jpg" alt="Arduino Nano" width="30%">
 
-4) BiTalino
+4)  BiTalino
   
 <p align="center">
 <img src="Imagenes/bitalino.webp" alt="Arduino Nano" width="30%">

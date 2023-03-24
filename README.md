@@ -33,7 +33,8 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 <img src="Imagenes/nano.webp" alt="Arduino Nano" width="30%">
   
 2) Arduino TinyML kit
-<p align="center">  
+<p align="center">
+<img src="Imagenes/ArduinoTinyMachineLearningKit.jpg" alt="Arduino Nano" width="30%">
   
 3)  Ultracortex EEG headset
   

@@ -15,6 +15,9 @@ Breve descripción del proyecto.
 - [Licencia](#licencia)
 
 ### Integrantes:
+
+![Integrantes del proyecto](Imagenes/integrantes.jpg)
+
 * Erika Paola Uchuya Trocones (colaborador) - erika.uchuya@upch.pe
 * Hector Dair Alegria Cortez (colaborador) - hector.alegria@upch.pe
 * Jorge Eduardo Medina Celiz (colaborador) - jorge.medina@upch.pe

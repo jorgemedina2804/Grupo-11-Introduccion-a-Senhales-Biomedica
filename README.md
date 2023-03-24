@@ -30,6 +30,8 @@ Lista de materiales necesarios para instalar y utilizar el proyecto.
 
 2)Ultracortex EEG headset
 
+![img1](Grupo-11-Introduccion-a-Senhales-Biomedica/Imagenes/ppp.jpg)
+
 3)Fluke ProSim 4
 
 4)BiTalino

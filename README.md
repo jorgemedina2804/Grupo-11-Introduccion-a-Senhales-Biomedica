@@ -13,6 +13,8 @@ Breve descripción del proyecto.
 
 ### Integrantes:
 
+El equipo de trabajo está conformado por los siguientes estudiantes:
+
 <p align="center">
 <img src="Imagenes/integrantes.jpg" alt="Integrantes del proyecto" width="70%">
 

@@ -14,7 +14,7 @@ Breve descripción del proyecto.
 - [Contribuciones](#contribuciones)
 - [Licencia](#licencia)
 
-### Integrantes del Grupo 11:
+### Integrantes:
 * Erika Paola Uchuya Trocones (colaborador) - erika.uchuya@upch.pe
 * Hector Dair Alegria Cortez (colaborador) - hector.alegria@upch.pe
 * Jorge Eduardo Medina Celiz (colaborador) - jorge.medina@upch.pe

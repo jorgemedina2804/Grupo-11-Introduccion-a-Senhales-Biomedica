@@ -7,7 +7,7 @@ Breve descripción del proyecto.
 
 ### Tabla de contenidos
 
-- [Integrantes] (#Integrantes)
+- [Integrantes](#Integrantes)
 - [Materiales](#Materiales)
 - [Instalación](#instalación)
 - [Uso](#uso)

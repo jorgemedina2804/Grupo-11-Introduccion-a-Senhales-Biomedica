@@ -1,4 +1,4 @@
-# Grupo 11 Introduccion a Señales Biomedicas
+# Grupo 11 - Introduccion a Señales Biomedicas
 Bienvenidos al repositorio del grupo 11 del curso "Introduccion a Señales Biomedicas"
 
 ## Nombre del Proyecto
@@ -48,6 +48,8 @@ Lista de materiales necesarios para instalar y utilizar el proyecto.
 
 ### Documentacion
 
+Se resumen en esta sección los avances semanales del proyecto.
+  
 1. Semana 1:
   
 2. Semana 2:

@@ -29,15 +29,16 @@ Lista de materiales necesarios para instalar y utilizar el proyecto.
 
 1)Arduino nano 33 IoT
 
-![Arduino nano](C:\Users\USER\Desktop)
 
 2)Ultracortex EEG headset
 
-![img1](Grupo-11-Introduccion-a-Senhales-Biomedica/Imagenes/ppp.jpg)
 
 3)Fluke ProSim 4
 
+
 4)BiTalino
+
+
 
 ### Instalación
 

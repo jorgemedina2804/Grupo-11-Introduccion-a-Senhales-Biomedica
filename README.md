@@ -16,7 +16,7 @@ Breve descripción del proyecto.
 
 ### Integrantes:
 
-![Integrantes del proyecto](Imagenes/integrantes.jpg){ width=50% }
+![Integrantes del proyecto](Imagenes/integrantes.jpg=50%x)
 
 * Erika Paola Uchuya Trocones (colaborador) - erika.uchuya@upch.pe
 * Hector Dair Alegria Cortez (colaborador) - hector.alegria@upch.pe

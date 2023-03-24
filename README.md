@@ -9,10 +9,7 @@ Breve descripción del proyecto.
 
 - [Integrantes](#Integrantes)
 - [Materiales](#Materiales)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
+- [Documentacion](#Documentacion)
 
 ### Integrantes:
 
@@ -28,30 +25,22 @@ Breve descripción del proyecto.
 Lista de materiales necesarios para instalar y utilizar el proyecto.
 
 1)Arduino nano 33 IoT
+
 <img src="Imagenes/nano.webp" alt="Arduino Nano" width="50%">
 
 2)Ultracortex EEG headset
+
 <img src="Imagenes/eeg.webp" alt="Arduino Nano" width="50%">
 
 3)Fluke ProSim 4
+
 <img src="Imagenes/prosim.jpg" alt="Arduino Nano" width="50%">
 
 4)BiTalino
+
 <img src="Imagenes/bitalino.webp" alt="Arduino Nano" width="50%">
 
 
-### Instalación
+### Documentacion
 
-Pasos necesarios para instalar el proyecto.
-
-### Uso
-
-Instrucciones sobre cómo utilizar el proyecto.
-
-### Contribuciones
-
-Guía para contribuir al proyecto.
-
-### Licencia
-
-Indicación de la licencia bajo la cual se publica el proyecto.
+ndkñasndksalndklsandlkasndklasndskalndklas

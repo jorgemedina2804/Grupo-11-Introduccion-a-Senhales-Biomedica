@@ -1,5 +1,5 @@
 # Grupo-11 Introduccion a Señales Biomedicas
-Bienvenidos al repositorio del grupo 11 del curso "Introduccion a señales biomedicas"
+Bienvenidos al repositorio del grupo 11 del curso "Introduccion a Señales Biomedicas"
 
 ## Nombre del Proyecto
 
@@ -15,6 +15,9 @@ Breve descripción del proyecto.
 - [Licencia](#licencia)
 
 ### Integrantes:
+
+<img src="Imagenes/integrantes.jpg" alt="Integrantes del proyecto" width="50%">
+
 * Erika Paola Uchuya Trocones (colaborador) - erika.uchuya@upch.pe
 * Hector Dair Alegria Cortez (colaborador) - hector.alegria@upch.pe
 * Jorge Eduardo Medina Celiz (colaborador) - jorge.medina@upch.pe
@@ -26,15 +29,16 @@ Lista de materiales necesarios para instalar y utilizar el proyecto.
 
 1)Arduino nano 33 IoT
 
-![Arduino nano](C:\Users\USER\Desktop)
 
 2)Ultracortex EEG headset
 
-![img1](Grupo-11-Introduccion-a-Senhales-Biomedica/Imagenes/ppp.jpg)
 
 3)Fluke ProSim 4
 
+
 4)BiTalino
+
+
 
 ### Instalación
 

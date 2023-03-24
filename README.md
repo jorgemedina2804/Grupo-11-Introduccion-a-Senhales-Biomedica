@@ -1,4 +1,4 @@
-# Grupo-11 Introduccion a Señales Biomedicas
+# Grupo 11 Introduccion a Señales Biomedicas
 Bienvenidos al repositorio del grupo 11 del curso "Introduccion a Señales Biomedicas"
 
 ## Nombre del Proyecto

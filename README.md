@@ -29,6 +29,8 @@ Lista de materiales necesarios para instalar y utilizar el proyecto.
 
 1)Arduino nano 33 IoT
 
+![Arduino nano](C:\Users\USER\Desktop)
+
 2)Ultracortex EEG headset
 
 3)Fluke ProSim 4

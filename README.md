@@ -2,7 +2,7 @@
 Respositorio del Curso de Introducción a Señales Biomédicas
 
 Integrantes del Grupo 11:
-* Ericka Uchuya
+* Erika Paola Uchuya Trocones (colaborador) - erika.uchuya@upch.pe
 * Hector Dair Alegria Cortez (colaborador) - hector.alegria@upch.pe
 * Jorge Medina
 * Integrante 4

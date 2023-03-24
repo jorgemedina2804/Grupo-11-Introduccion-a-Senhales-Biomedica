@@ -17,28 +17,28 @@ Breve descripción del proyecto.
 
 ### Tabla de contenidos
 
-- [Descripción](#descripción)
-- [Documentación](#documentación)
-- [Materiales](#materiales)
-
-### Descripción
-
-El objetivo de este proyecto es diseñar y desarrollar un dispositivo biomédico que permita la adquisición de señales biomédicas y su posterior procesamiento. Este dispositivo está diseñado para su uso en [aplicación médica o de investigación]. 
-
-Este archivo README incluye información sobre la documentación y los materiales del proyecto.
-
-### Documentación
-
-En la carpeta [documentación], se encuentran los documentos relevantes para el proyecto, como:
-
-- Especificaciones de diseño
-- Informe de prueba
-- Informe técnico
+- [Materiales](#Materiales)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
 
 ### Materiales
 
-La carpeta [materiales] contiene los materiales necesarios para construir y ensamblar el dispositivo biomédico, como:
+Lista de materiales necesarios para instalar y utilizar el proyecto.
 
-- Esquemáticos y diagramas
-- Lista de materiales
-- Código fuente
+### Instalación
+
+Pasos necesarios para instalar el proyecto.
+
+### Uso
+
+Instrucciones sobre cómo utilizar el proyecto.
+
+### Contribuciones
+
+Guía para contribuir al proyecto.
+
+### Licencia
+
+Indicación de la licencia bajo la cual se publica el proyecto.

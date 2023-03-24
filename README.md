@@ -13,6 +13,7 @@ Breve descripción del proyecto.
 
 ### Integrantes:
 
+<p align="center">
 <img src="Imagenes/integrantes.jpg" alt="Integrantes del proyecto" width="50%">
 
 * Erika Paola Uchuya Trocones (colaborador) - erika.uchuya@upch.pe
@@ -25,22 +26,30 @@ Breve descripción del proyecto.
 Lista de materiales necesarios para instalar y utilizar el proyecto.
 
 1)Arduino nano 33 IoT
-
-<img src="Imagenes/nano.webp" alt="Arduino Nano" width="50%">
+  
+<p align="center">
+<img src="Imagenes/nano.webp" alt="Arduino Nano" width="30%">
 
 2)Ultracortex EEG headset
-
-<img src="Imagenes/eeg.webp" alt="Arduino Nano" width="50%">
+  
+<p align="center">
+<img src="Imagenes/eeg.webp" alt="Arduino Nano" width="30%">
 
 3)Fluke ProSim 4
-
-<img src="Imagenes/prosim.jpg" alt="Arduino Nano" width="50%">
+  
+<p align="center">
+<img src="Imagenes/prosim.jpg" alt="Arduino Nano" width="30%">
 
 4)BiTalino
-
-<img src="Imagenes/bitalino.webp" alt="Arduino Nano" width="50%">
+  
+<p align="center">
+<img src="Imagenes/bitalino.webp" alt="Arduino Nano" width="30%">
 
 
 ### Documentacion
 
-ndkñasndksalndklsandlkasndklasndskalndklas
+1. Semana 1:
+  
+2. Semana 2:
+
+3. Semana 3:

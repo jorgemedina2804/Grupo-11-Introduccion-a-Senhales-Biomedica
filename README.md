@@ -1,11 +1,13 @@
 # Grupo-11 Introduccion a Señales Biomedicas
 Respositorio del Curso de Introducción a Señales Biomédicas
+Bienvenidos al repositorio del grupo 11 del curso "Introduccion a señales biomedicas"
+Proyecto:
 
 Integrantes del Grupo 11:
 * Erika Paola Uchuya Trocones (colaborador) - erika.uchuya@upch.pe
 * Hector Dair Alegria Cortez (colaborador) - hector.alegria@upch.pe
-* Jorge Eduardo Medina Celiz (colaborador)- jorge.medina@upch.pe
-* Fernando Eduatdo Puipulivia Zarate (colaborador)- fernando.puipulivia@upch.pe
+* Jorge Medina
+* Integrante 4
 
 
 ## Nombre del Proyecto

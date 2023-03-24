@@ -21,6 +21,7 @@ Breve descripción del proyecto.
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Contribuciones](#contribuciones)
+- [Integrantes] (#integrantes)
 - [Licencia](#licencia)
 
 ### Materiales

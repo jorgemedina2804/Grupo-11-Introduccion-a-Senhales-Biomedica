@@ -1,1 +1,1 @@
-# Grupo-11-Introducci-n-a-Se-ales-Biom-dica
+# Grupo-11---Introduccion-a-Senales-Biomedicas

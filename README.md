@@ -79,5 +79,5 @@ Entregable 3
 
   3. Imagen del EMG obtenido en Python 
  <p align="center">
- <img src="Imagenes/EMG.jpg"  width="30%">
+ <img src="Imagenes/EMG.jpg"  alt="EMG obtenido en Python"  width="30%">
 

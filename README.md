@@ -63,7 +63,7 @@ Se resumen en esta sección los avances semanales del proyecto.
 <img src="Imagenes/conexion_b-c.jpg" alt="conexiones BITalino-cables" width="50%">
 
 <p align="center">
-<img src="Imagenes/20230405_112726.jpg" alt="conexiones electrodos-cuerpo" width="50%">
+<img src="Imagenes/20230405_112726.jpg" alt="conexiones electrodos-cuerpo" width="30%">
   
 2. Semana 2:
 

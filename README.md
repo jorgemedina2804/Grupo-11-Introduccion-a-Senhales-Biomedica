@@ -57,11 +57,15 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 
 Se resumen en esta sección los avances semanales del proyecto.
   
-1. Semana 1:
+### Entregable 3
+  1. Fotos de las conexiones usadas
+  1.1 Conexiones BITalino-cables
   
 <p align="center">
 <img src="Imagenes/conexion_b-c.jpg" alt="conexiones BITalino-cables" width="50%">
 
+  1.2 Conexiones electrodos-cuerpo
+  
 <p align="center">
 <img src="Imagenes/20230405_112726.jpg" alt="conexiones electrodos-cuerpo" width="30%">
   

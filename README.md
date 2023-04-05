@@ -74,5 +74,6 @@ Entregable 3
   
 <p align="center">
 <video="Imagenes/20230405_113441.mp4" alt="señal" width="30%">
-  
+  3. Imagen del EMG obtenido en Python 
+ <img src="Imagenes/EMG.jpg"  width="30%">
 

@@ -71,9 +71,12 @@ Entregable 3
 <img src="Imagenes/20230405_112726.jpg" alt="conexiones electrodos-cuerpo" width="30%">
 
   2.Video de señal en silencio eléctrico o reposo
-  
+
 <p align="center">
-<video="Imagenes/20230405_113441.mp4" alt="señal" width="30%">
+<video width="1920" height="1080" controls>
+  <source src="Imagenes/20230405_113441.mp4" type="video/mp4">
+</video>
+
   3. Imagen del EMG obtenido en Python 
  <img src="Imagenes/EMG.jpg"  width="30%">
 

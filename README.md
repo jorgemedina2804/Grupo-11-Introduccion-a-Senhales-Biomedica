@@ -59,7 +59,7 @@ Se resumen en esta sección los avances semanales del proyecto.
   
 1. Semana 1:
 <p align="center">
-<img src="20230504_112511.jpg" alt="Integrantes del proyecto" width="70%">
+<img src="imagener/20230504_112511.jpg" alt="conexiones BITalino-cables" width="70%">
   
 2. Semana 2:
 

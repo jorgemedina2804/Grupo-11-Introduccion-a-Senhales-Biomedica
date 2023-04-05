@@ -22,6 +22,7 @@ El equipo de trabajo está conformado por los siguientes estudiantes:
 * Hector Dair Alegria Cortez (colaborador) - hector.alegria@upch.pe
 * Jorge Eduardo Medina Celiz (colaborador) - jorge.medina@upch.pe
 * Fernando Eduardo Puipulivia Zarate (colaborador) - fernando.puipulivia@upch.pe
+* Felix Renato Rojas Arellanos (colaborador) - felix.rojas@upch.pe
 
 ### Materiales
 

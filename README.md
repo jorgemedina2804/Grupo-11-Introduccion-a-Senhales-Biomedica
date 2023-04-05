@@ -59,16 +59,20 @@ Se resumen en esta sección los avances semanales del proyecto.
   
 Entregable 3
   1. Fotos de las conexiones usadas
-  1.1 Conexiones BITalino-cables
+  
+    1.1 Conexiones BITalino-cables
   
 <p align="center">
 <img src="Imagenes/conexion_b-c.jpg" alt="conexiones BITalino-cables" width="50%">
 
-  1.2 Conexiones electrodos-cuerpo
+    1.2 Conexiones electrodos-cuerpo
   
 <p align="center">
 <img src="Imagenes/20230405_112726.jpg" alt="conexiones electrodos-cuerpo" width="30%">
-  
-2. Semana 2:
 
-3. Semana 3:
+  2.Video de señal en silencio eléctrico o reposo
+  
+<p align="center">
+<video="Imagenes/20230405_113441.mp4" alt="señal" width="30%">
+  
+

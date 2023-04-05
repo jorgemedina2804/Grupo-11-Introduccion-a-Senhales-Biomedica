@@ -58,6 +58,8 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 Se resumen en esta sección los avances semanales del proyecto.
   
 1. Semana 1:
+<p align="center">
+<img src="20230504_112511.jpg" alt="Integrantes del proyecto" width="70%">
   
 2. Semana 2:
 

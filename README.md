@@ -58,8 +58,9 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 Se resumen en esta sección los avances semanales del proyecto.
   
 1. Semana 1:
+  
 <p align="center">
-<img src="imagener/20230504_112511.jpg" alt="conexiones BITalino-cables" width="70%">
+<img src="Imagenes/20230504_112511.jpg" alt="conexiones BITalino-cables" width="70%">
   
 2. Semana 2:
 

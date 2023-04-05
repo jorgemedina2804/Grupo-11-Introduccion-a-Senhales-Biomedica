@@ -57,7 +57,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 
 Se resumen en esta sección los avances semanales del proyecto.
   
-### Entregable 3
+Entregable 3
   1. Fotos de las conexiones usadas
   1.1 Conexiones BITalino-cables
   

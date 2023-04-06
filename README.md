@@ -56,6 +56,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 ### Documentación
 
 Se resumen en esta sección los avances semanales del proyecto.
+### Entregables de laboratorios
   
 Entregable 3
   1. Fotos de las conexiones usadas

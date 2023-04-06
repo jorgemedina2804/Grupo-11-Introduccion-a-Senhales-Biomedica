@@ -83,6 +83,7 @@ Entregable 3
  <img src="Imagenes/EMG.jpeg"  alt="EMG obtenido en Python"  width="30%">
    
   4. Resumen y explicacion
+   
    En el estado basal se tuvo el brazo completamente extendido, luego se hizo puño para generar fuerza en el biceps y, con ello, variaciones en    la intensidad de la señal.Sin embargo, lo ideal hubiese sido realizar contracciones tanto isotónicas como isométricas para evaluar        
    correctamente la actividad eléctrica del músculo en cuestión.
 

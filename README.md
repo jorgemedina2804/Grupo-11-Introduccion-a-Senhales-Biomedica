@@ -1,5 +1,5 @@
-# Grupo 11 - Introduccion a Señales Biomedicas
-Bienvenidos al repositorio del grupo 11 del curso "Introduccion a Señales Biomedicas"
+# Grupo 11 - Introducción a Señales Biomédicas
+Bienvenidos al repositorio del grupo 11 del curso "Introducción a Señales Biomédicas"
 
 ## Nombre del Proyecto
 
@@ -82,7 +82,7 @@ Entregable 3
  <p align="center">
  <img src="Imagenes/EMG.jpeg"  alt="EMG obtenido en Python"  width="50%">
    
-  4. Resumen y explicacion
+  4. Resumen y explicación
       
    En el estado basal se tuvo el brazo completamente extendido, luego se hizo puño para generar fuerza en el biceps y,
    con ello, variaciones en    la intensidad de la señal.Sin embargo, lo ideal hubiese sido realizar contracciones tanto 

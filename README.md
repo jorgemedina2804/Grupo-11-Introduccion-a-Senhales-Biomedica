@@ -53,7 +53,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 <img src="Imagenes/bitalino.webp" alt="Arduino Nano" width="30%">
 
 
-### Documentacion
+### Documentación
 
 Se resumen en esta sección los avances semanales del proyecto.
   

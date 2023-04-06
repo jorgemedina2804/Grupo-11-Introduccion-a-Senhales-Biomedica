@@ -81,4 +81,16 @@ Entregable 3
   3. Imagen del EMG obtenido en Python 
  <p align="center">
  <img src="Imagenes/EMG.jpeg"  alt="EMG obtenido en Python"  width="30%">
+   
+  4. Resumen y explicacion
+   En el estado basal se tuvo el brazo completamente extendido, luego se hizo puño para generar fuerza en el biceps y, con ello, variaciones en    la intensidad de la señal.Sin embargo, lo ideal hubiese sido realizar contracciones tanto isotónicas como isométricas para evaluar        
+   correctamente la actividad eléctrica del músculo en cuestión.
+
+   Además, es importante tener en cuenta que la técnica utilizada para la medición de la actividad eléctrica del bíceps braquial durante la        contracción isométrica del brazo puede afectar significativamente la precisión y la confiabilidad de los resultados. En particular, la          elección del número y la ubicación de los electrodos puede ser un factor crítico en la medición del EMG.
+
+  En este sentido, es importante señalar que la medición de este ensayo se realizó utilizando solamente tres electrodos (dos de medición y uno     de tierra en la muñeca). Esto puede limitar la capacidad para diferenciar completamente la actividad eléctrica del bíceps del ruido generado     por otros músculos cercanos, lo cual podría afectar la interpretación de los resultados y la capacidad de detectar cambios significativos en     la actividad eléctrica del bíceps durante la contracción isométrica del brazo.
+
+  Por lo tanto, es importante tener en cuenta que la elección de una técnica de medición más precisa y específica, como la electromiografía de     superficie multicanal, podría mejorar significativamente la precisión y la confiabilidad de la medición de la actividad eléctrica del bíceps     braquial durante la contracción isométrica del brazo. Esta técnica permitiría diferenciar mejor la actividad del bíceps braquial del ruido       generado por otros músculos, lo cual podría mejorar la interpretación de los resultados y la detección de cambios significativos en la            actividad eléctrica del bíceps durante la contracción isométrica del brazo.
+
+   
 

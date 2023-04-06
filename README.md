@@ -24,7 +24,7 @@ El equipo de trabajo está conformado por los siguientes estudiantes:
 * Fernando Eduardo Puipulivia Zarate (colaborador) - fernando.puipulivia@upch.pe
 * Felix Renato Rojas Arellanos (colaborador) - felix.rojas@upch.pe
 
-### **Materiales**
+### Materiales:
 
 Lista de materiales necesarios para la adquisición de las señales y el procesamiento inicial de tales datos.
 

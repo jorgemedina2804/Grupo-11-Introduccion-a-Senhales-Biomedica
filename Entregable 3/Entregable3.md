@@ -3,7 +3,7 @@
     1.1 Conexiones BITalino-cables
   
 <p align="center">
-<img src="Imagenes/conexion_b-c.jpg" alt="conexiones BITalino-cables" width="50%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/conexion_b-c.jpg" alt="conexiones BITalino-cables" width="50%">
 
     1.2 Conexiones electrodos-cuerpo
   

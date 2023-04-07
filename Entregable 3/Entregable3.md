@@ -8,7 +8,7 @@
     1.2 Conexiones electrodos-cuerpo
   
 <p align="center">
-<img src="Imagenes/20230405_112726.jpg" alt="conexiones electrodos-cuerpo" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/20230405_112726.jpg" alt="conexiones electrodos-cuerpo" width="30%">
 
   2.Video de señal en silencio eléctrico o reposo
 

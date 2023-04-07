@@ -1,7 +1,7 @@
 # Entregable 3 - Uso de BiTalino para EMG
 ### Tabla de contenidos
 1. [Objetivos de la práctica de laboratorio](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md#1-objtivos-de-la-pr%C3%A1ctica-de-laboratorio)
-2. [Fotos de las conexiones usadas] 
+2. [Fotos de las conexiones usadas](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md#2-fotos-de-las-conexiones-usadas)
 3. [Video de señal en silencio eléctrico o reposo]
 4. [Imagen del EMG obtenido en Python]
 5. [Resumen y explicación]

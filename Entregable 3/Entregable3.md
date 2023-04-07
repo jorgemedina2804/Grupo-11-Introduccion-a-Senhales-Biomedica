@@ -13,10 +13,10 @@
 
 ### 2. Video de señal en silencio eléctrico o reposo
 
-    2.1 Video 1
+    2.1 Video 1. Haga click en la imagen para ser redirigido al enlace de Youtube
  [![Alt text](https://img.youtube.com/vi/s22qx3XjqHU/0.jpg)](https://www.youtube.com/watch?v=s22qx3XjqHU)
 
-    2.2 Video 2
+    2.2 Video 2. Haga click en la imagen para ser redirigido al enlace de Youtube
  [![Alt text](https://img.youtube.com/vi/usnvNjLywpk/0.jpg)](https://www.youtube.com/watch?v=usnvNjLywpk)
 
 ### 3. Imagen del EMG obtenido en Python 

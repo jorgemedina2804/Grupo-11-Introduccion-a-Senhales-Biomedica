@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/20230405_112726.jpg" alt="conexiones electrodos-cuerpo" width="30%">
 
-### 2.Video de señal en silencio eléctrico o reposo
+### 2. Video de señal en silencio eléctrico o reposo
 
     2.1 Video 1
  [![Alt text](https://img.youtube.com/vi/s22qx3XjqHU/0.jpg)](https://www.youtube.com/watch?v=s22qx3XjqHU)
@@ -26,7 +26,7 @@
 ### 4. Resumen y explicación
       
    En el estado basal se tuvo el brazo completamente extendido, luego se hizo puño para generar fuerza en el biceps y,
-   con ello, variaciones en    la intensidad de la señal.Sin embargo, lo ideal hubiese sido realizar contracciones tanto 
+   con ello, variaciones en la intensidad de la señal. Sin embargo, lo ideal hubiese sido realizar contracciones tanto 
    isotónicas como isométricas para evaluar correctamente la actividad eléctrica del músculo en cuestión.
 
    Además, es importante tener en cuenta que la técnica utilizada para la medición de la actividad eléctrica del bíceps

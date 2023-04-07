@@ -10,7 +10,7 @@ Breve descripción del proyecto.
 - [Integrantes](#Integrantes)
 - [Materiales](#Materiales)
 - [Documentacion](#Documentacion)
-- [Entregables de laboratorios] (#Entregables de laboratorios)
+- [Entregables de laboratorios] (https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica#entregables-de-laboratorios)
 
 ### Integrantes:
 

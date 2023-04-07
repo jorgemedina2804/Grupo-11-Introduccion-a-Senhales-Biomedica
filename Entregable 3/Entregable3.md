@@ -20,7 +20,7 @@
 
   3. Imagen del EMG obtenido en Python 
  <p align="center">
- <img src="Imagenes/EMG.jpeg"  alt="EMG obtenido en Python"  width="50%">
+ <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/EMG.jpeg"  alt="EMG obtenido en Python"  width="50%">
    
   4. Resumen y explicación
       

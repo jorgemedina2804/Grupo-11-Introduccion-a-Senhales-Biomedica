@@ -1,4 +1,5 @@
 # Entregable 3 - Uso de BiTalino para EMG
+### Tabla de contenidos
 ### 1. Objtivos de la práctica de laboratorio
 - Adquirir señales biomédicas de EMG y ECG.
 - Hacer una correcta configuración de BiTalino

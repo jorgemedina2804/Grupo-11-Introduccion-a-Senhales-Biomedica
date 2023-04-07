@@ -46,3 +46,7 @@
    una mejor diferenciación de la actividad del bíceps braquial y del ruido generado por otros músculos, lo cual podría 
    mejorar la interpretación de los resultados y la detección de cambios significativos en la actividad eléctrica del bíceps 
    durante la contracción isométrica del brazo.
+   
+### 5. Archivo de la señal ploteada en Python y de los datos de la señal ploteada
+- Señal ploteada en Python 
+- Datos de la señal ploteada

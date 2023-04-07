@@ -1,5 +1,5 @@
 # Grupo 11 - Introducción a Señales Biomédicas
-Bienvenidos al repositorio del grupo 11 del curso "Introducción a Señales Biomédicas"
+Bienvenidos al repositorio del grupo 11 del curso "Introducción a Señales Biomédicas" del ciclo 2023-1
 
 ## Nombre del Proyecto
 
@@ -14,7 +14,7 @@ Breve descripción del proyecto.
 
 ### Integrantes:
 
-El equipo de trabajo está conformado por los siguientes estudiantes:
+El equipo de trabajo está conformado por los siguientes estudiantes de Ingeniería Biomédica de la Pontificia Universidad Católica del Perú y la Universidad Peruana Cayetano Heredia:
 
 <p align="center">
 <img src="Imagenes/integrantes.jpg" alt="Integrantes del proyecto" width="70%">

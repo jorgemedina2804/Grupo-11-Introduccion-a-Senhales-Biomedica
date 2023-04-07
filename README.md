@@ -10,6 +10,7 @@ Breve descripción del proyecto.
 - [Integrantes](#Integrantes)
 - [Materiales](#Materiales)
 - [Documentacion](#Documentacion)
+- [Entregables de laboratorios] (#Entregables de laboratorios)
 
 ### Integrantes:
 

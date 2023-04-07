@@ -1,4 +1,4 @@
-# Entregable 3
+# Entregable 3 - Uso de BiTalino para EMG
 ### 1. Fotos de las conexiones usadas
   
     1.1 Conexiones BITalino-cables

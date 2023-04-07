@@ -1,4 +1,5 @@
-1. Fotos de las conexiones usadas
+# Entregable 3
+### 1. Fotos de las conexiones usadas
   
     1.1 Conexiones BITalino-cables
   
@@ -10,7 +11,7 @@
 <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/20230405_112726.jpg" alt="conexiones electrodos-cuerpo" width="30%">
 
-  2.Video de señal en silencio eléctrico o reposo
+### 2.Video de señal en silencio eléctrico o reposo
 
     2.1 Video 1
  [![Alt text](https://img.youtube.com/vi/s22qx3XjqHU/0.jpg)](https://www.youtube.com/watch?v=s22qx3XjqHU)
@@ -18,11 +19,11 @@
     2.2 Video 2
  [![Alt text](https://img.youtube.com/vi/usnvNjLywpk/0.jpg)](https://www.youtube.com/watch?v=usnvNjLywpk)
 
-  3. Imagen del EMG obtenido en Python 
+### 3. Imagen del EMG obtenido en Python 
  <p align="center">
  <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/EMG.jpeg"  alt="EMG obtenido en Python"  width="50%">
    
-  4. Resumen y explicación
+### 4. Resumen y explicación
       
    En el estado basal se tuvo el brazo completamente extendido, luego se hizo puño para generar fuerza en el biceps y,
    con ello, variaciones en    la intensidad de la señal.Sin embargo, lo ideal hubiese sido realizar contracciones tanto 

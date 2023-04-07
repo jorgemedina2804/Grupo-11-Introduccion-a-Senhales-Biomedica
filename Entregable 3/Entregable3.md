@@ -48,5 +48,5 @@
    durante la contracción isométrica del brazo.
    
 ### 5. Archivo de la señal ploteada en Python y de los datos de la señal ploteada
-- Señal ploteada en Python 
+- Señal ploteada en Python (https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/ploteo_emg_python.py)
 - Datos de la señal ploteada

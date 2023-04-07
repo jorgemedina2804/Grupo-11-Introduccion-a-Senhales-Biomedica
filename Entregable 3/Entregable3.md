@@ -37,6 +37,8 @@
    
    
 ### 5. Imagen del EMG obtenido en Open Signals
+   <p align="center">
+ <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/EMG%20Open%20Signals.JPG"  alt="EMG obtenido en Open Signals"  width="50%">
    
 ### 6. Resumen y explicación
       

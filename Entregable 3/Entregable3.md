@@ -4,8 +4,9 @@
 2. [Fotos de las conexiones usadas](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md#2-fotos-de-las-conexiones-usadas)
 3. [Video de señal en silencio eléctrico o reposo](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md#3-video-de-se%C3%B1al-en-silencio-el%C3%A9ctrico-o-reposo)
 4. [Imagen del EMG obtenido en Python](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md#4-imagen-del-emg-obtenido-en-python)
-5. [Resumen y explicación](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md#5-resumen-y-explicaci%C3%B3n)
-6. [Archivo de la señal ploteada en Python y de los datos de la señal ploteada](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md#6-archivo-de-la-se%C3%B1al-ploteada-en-python-y-de-los-datos-de-la-se%C3%B1al-ploteada)
+5. [Imagen del EMG obtenido en Open Signal]
+6. [Resumen y explicación](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md#5-resumen-y-explicaci%C3%B3n)
+7. [Archivo de la señal ploteada en Python y de los datos de la señal ploteada](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md#6-archivo-de-la-se%C3%B1al-ploteada-en-python-y-de-los-datos-de-la-se%C3%B1al-ploteada)
 ### 1. Objetivos de la práctica de laboratorio
 - Adquirir señales biomédicas de EMG y ECG.
 - Hacer una correcta configuración de BiTalino
@@ -33,8 +34,9 @@
 ### 4. Imagen del EMG obtenido en Python 
  <p align="center">
  <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/EMG.jpeg"  alt="EMG obtenido en Python"  width="50%">
+### 5. Imagen del EMG obtenido en Open Signals
    
-### 5. Resumen y explicación
+### 6. Resumen y explicación
       
    En el estado basal se tuvo el brazo completamente extendido, luego se hizo puño para generar fuerza en el biceps y,
    con ello, variaciones en la intensidad de la señal. Sin embargo, lo ideal hubiese sido realizar contracciones tanto 
@@ -58,6 +60,6 @@
    mejorar la interpretación de los resultados y la detección de cambios significativos en la actividad eléctrica del bíceps 
    durante la contracción isométrica del brazo.
    
-### 6. Archivo de la señal ploteada en Python y de los datos de la señal ploteada
+### 7. Archivo de la señal ploteada en Python y de los datos de la señal ploteada
 - [Señal ploteada en Python](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/ploteo_emg_python.py)
 - [Datos de la señal ploteada](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Archivo%20de%20datos%20de%20la%20se%C3%B1al%20ploteada.txt)

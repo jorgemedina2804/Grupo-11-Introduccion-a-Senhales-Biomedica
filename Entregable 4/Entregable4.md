@@ -20,5 +20,5 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
 - Hacer una correcta configuración de BiTalino
 - Extraer la información de las señales ECG del software OpenSignals (r)evolution
 
-### 3. Bibliografía
+### 3. Referencias
   [1]https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf

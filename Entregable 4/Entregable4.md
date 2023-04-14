@@ -49,7 +49,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Electrodos%20en%20usuario.JPG" width="400" height="400">
 
 </p>
-#### Videos de la señal
+  #### Videos de la señal
 
 
 

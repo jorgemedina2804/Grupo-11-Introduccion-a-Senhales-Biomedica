@@ -6,6 +6,11 @@
 ### Tabla de contenidos
 1. [Introducción](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#1-introducci%C3%B3n)
 2. [Objetivos de la práctica de laboratorio](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#1-objetivos-de-la-pr%C3%A1ctica-de-laboratorio)
+3. [Materiales y equipos]
+4. [Procedimiento]
+5. [Resultados]
+6. [Conclusiones]
+7. [Referencias]
 
 ### 1. Introducción
   El ECG es un gráfico en el que se muestran las diferencias de voltaje en relación al tiempo, así como la actividad eléctrica del corazón que se desarrolla en el    corazón durante un tiempo determinado (normalmente no suele pasar de 30 segundos). La actividad eléctrica del corazón recogida en el ECG se observa en forma de un trazado que presenta diferentes deflexiones (ondas del ECG) que se corresponden con el recorrido de los impulsos eléctricos a través de las diferentes estructuras del corazón, como sabemos en corazón posee 2 nodos, el nodo SA y AV, que están encargados de la autorritmicidad del corazón. La despolarizacion de los muscúlos cardiacos comienzan en el nodo SA y se traslada, primero a las aurículas, y luego al nodo AV donde posteriormente se dirige al haz de His (rama izquierda y derecha), para luego llegar a las paredes del ventrículo y toda la estructura del corazón mediante las fibras de Purkinje.
@@ -20,5 +25,5 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
 - Hacer una correcta configuración de BiTalino
 - Extraer la información de las señales ECG del software OpenSignals (r)evolution
 
-### 3. Referencias
+### 7. Referencias
   [1]https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf

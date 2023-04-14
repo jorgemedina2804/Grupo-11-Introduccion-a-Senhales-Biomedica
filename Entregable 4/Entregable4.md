@@ -41,6 +41,7 @@ Se utilizó la guía proporcionada por el curso respecto al uso de Bitalino para
 - Aguantando la respiración por 10 segundos
 - Luego de haber realizado ejercicio físico
 ### 5. Resultados
+  #### Conexión utilizada
 
 ### 6. Conclusiones
 ### 7. Referencias

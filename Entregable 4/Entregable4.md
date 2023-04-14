@@ -5,7 +5,7 @@
 
 ### Tabla de contenidos
 1. [Introducción](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#1-introducci%C3%B3n)
-2. [Objetivos de la práctica de laboratorio](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#1-objetivos-de-la-pr%C3%A1ctica-de-laboratorio)
+2. [Objetivos de la práctica de laboratorio](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#2-objetivos-de-la-pr%C3%A1ctica-de-laboratorio)
 3. [Materiales y equipos]
 4. [Procedimiento]
 5. [Resultados]

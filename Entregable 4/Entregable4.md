@@ -35,6 +35,9 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
 | <img width="200" height="250" src="https://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png"> |      ProSlim 4 Vital Sign Patient Simulator     |       1      |
 </div>
 
-### 4. Procedimiento  
+### 4. Procedimiento
+### 5. Resultados
+
+### 6. Conclusiones
 ### 7. Referencias
   [1]https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf

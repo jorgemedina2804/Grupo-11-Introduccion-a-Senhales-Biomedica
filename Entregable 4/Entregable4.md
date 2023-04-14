@@ -1,5 +1,5 @@
 # Entregable 4 - Uso de BiTalino para ECG
-
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/ECG%20gif.gif" alt="Arduino Nano" width="30%">
 
 
 ### Tabla de contenidos

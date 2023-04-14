@@ -56,7 +56,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 
 ### Documentación
 
-Se resumen en esta sección los avances semanales del proyecto.
+Se resume en esta sección los avances semanales del proyecto.
 ### Entregables de laboratorios
   - [Laboratorio 3](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md)
   - [Laboratorio 4](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md)

@@ -24,6 +24,15 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
 - Adquirir señales biomédicas de ECG.
 - Hacer una correcta configuración de BiTalino
 - Extraer la información de las señales ECG del software OpenSignals (r)evolution
+### 3. Materiales y equipos
+  
+  <div align="center">
 
+|  **Imagen**  | **Producto** | **Cantidad** |
+|:------------:|:---------------:|:------------:|
+| <img width="200" height="150" src="https://i.postimg.cc/VvLXqb8P/14022-01a.jpg"> |   Kit BITalino  |       1      |
+| <img width="200" height="150" src="https://i.postimg.cc/XNmdLX3Z/equipos.png"> |      Laptop     |       1      |
+  
+  
 ### 7. Referencias
   [1]https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf

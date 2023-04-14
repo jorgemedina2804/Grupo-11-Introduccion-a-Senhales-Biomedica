@@ -51,6 +51,8 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
   #### Videos de la señal
   #### Ploteo de la señal en OpenSignal
+  #### Señal haciendo uso del ProSlim 4 Vital Sign Patient Simulator
+  #### Ploteo de la señal en Python
 
 </p>
 

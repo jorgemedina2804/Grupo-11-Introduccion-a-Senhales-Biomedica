@@ -32,6 +32,8 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
 |:------------:|:---------------:|:------------:|
 | <img width="200" height="150" src="https://i.postimg.cc/VvLXqb8P/14022-01a.jpg"> |   Kit BITalino  |       1      |
 | <img width="200" height="150" src="https://www.pcspeed.com.pe/wp-content/uploads/2022/07/laptop-asus-rog-strix-g513ic-hn046w-amd-ryzen-7-4800h-16gb-512gb-ssd-t-video-rtx-3050-4gb-156-fhd-144hz-2.jpg"> |      Laptop     |       1      |
+| <img width="200" height="150" src="https://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png"> |   
+ProSim 4 Vital Signs Patient Simulator  |       1      |
   
   
 ### 7. Referencias

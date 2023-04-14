@@ -1,14 +1,5 @@
 # Entregable 4 - Uso de BiTalino para ECG
-![example.gif](media/result.gif)
 
-
-```shell
-ekgif media/bg.gif media/fg.gif > media/result.gif
-```
-
-| `media/bg.gif` | `media/fg.gif` |
-| --- | --- |
-| ![background_gif](media/bg.gif) | ![foreground_gif](media/fg.gif) |
 
 
 ### Tabla de contenidos

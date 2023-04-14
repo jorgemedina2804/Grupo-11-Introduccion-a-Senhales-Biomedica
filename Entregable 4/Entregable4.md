@@ -37,6 +37,9 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
 
 ### 4. Procedimiento
 Se utilizó la guía proporcionada por el curso respecto al uso de Bitalino para medir señales de ECG, junto con la hoja de datos y el manual de usuario. Además se realizó la toma de datos de la señal ECG en 3 momentos distintos: 
+- Adquirir señales biomédicas de ECG.
+- Hacer una correcta configuración de BiTalino
+- Extraer la información de las señales ECG del software OpenSignals (r)evolution
   -Estado de reposo
   -Aguantando la respiración por 10 segundos
   -Luego de haber realizado ejercicio físico

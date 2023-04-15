@@ -54,7 +54,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
   | Estado Basal | Mantener la respiración por 10 segundos |
 | ------------ |  :------------------------------------: |
 |<p align="center"><img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Estado%20de%20reposo.JPG" width="400" height="600"> |
-|<p align="center"><img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/10%20segundos.JPG" width="400" height="400"> |
+|<video src="https://user-images.githubusercontent.com/89707896/231574043-44222491-d595-4d5a-9ac8-112adb20757c.mp4" width="200" /> |
 
 
 | Reposo Basal |     Después de una actividad física     |

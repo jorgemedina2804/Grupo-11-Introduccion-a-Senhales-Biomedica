@@ -90,7 +90,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 | Después de una actividad física   |        
 | ------------ |  
-|<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Ejercicio.JPG" width="500"/>|
+|<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/ECG%20Actividad%20fisica%20Python.jpeg" width="500"/>|
 
 
   ### Archivos en Python

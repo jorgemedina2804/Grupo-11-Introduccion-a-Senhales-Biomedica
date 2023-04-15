@@ -59,6 +59,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 | ------------ |  
 |<video width="200"  src="https://user-images.githubusercontent.com/111662394/232174661-61f3257b-a256-4d2d-a317-1dbb4e3f99ae.mp4">|
 
+  </div>
 
   #### Ploteo de la señal en OpenSignals
   | Estado Basal | Mantener la respiración por 10 segundos |

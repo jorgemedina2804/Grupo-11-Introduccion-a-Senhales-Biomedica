@@ -73,7 +73,10 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
         a 0,12 segundos (3 cuadrados pequeños). El complejo QRS puede ser pequeño (o de bajo voltaje) en casos de 
         derrame pericárdico, IMC alto, enfisema, miocardiopatía y amiloide cardíaco
       
-      -Segmento ST: La elevación del segmento ST indica infarto. La depresión del complejo ST normalmente se debe a isquemia.
+      - Segmento ST: La elevación del segmento ST indica infarto. La depresión del complejo ST normalmente se debe a isquemia.
+      
+      - Intervalo QT:Es especialmente importante identificar un intervalo QT largo en pacientes con antecedentes de colapso o pérdida transitoria 
+        del conocimiento.
 
       
 ### 2. Objetivos de la práctica de laboratorio

@@ -53,7 +53,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
   #### Ploteo de la señal en OpenSignal
   | Estado Basal | Mantener la respiración por 10 segundos |
 | ------------ |  :------------------------------------: |
-| <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Estado%20de%20reposo.JPG" width="200" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/10%20segundos.JPG" width="200" /> |
+| <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Estado%20de%20reposo.JPG" width="400" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/10%20segundos.JPG" width="400" /> |
 </div>
 
 

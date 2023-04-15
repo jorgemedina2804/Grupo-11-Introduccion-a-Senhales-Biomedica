@@ -39,7 +39,7 @@
     
       
   <p align="justify">
-  Las ondas que se pueden ver en un ECG son la onda P que describe la despolarización de la aurículas que expulsan la sangre a hacía las ventrículas, luego la onda QRS que describe la despolarización ventricular como también la polarización auricular en este periodo la presión ventricular excede a las presiones de las arterias aorta y tronco pulmonar lo que genera que la sangre sea expulsada hacia al resto del cuerpo y hacia los pulmones,respectivamente , luego el segmento ST que describe el periodo de meseta o de relajación isovolumétrica de los ventrículos y por último la onda T que describe la polarización ventricular es decir la disminución de la presión ventricular lo que genera que las valvulas del corazón se abran, por último hay un periodo de relajación que representa el llenado ventricular, ya que las válvulas están abiertas en ese momento.
+  Las ondas que se pueden ver en un ECG son la onda P que describe la despolarización de la aurículas que expulsan la sangre a hacia las ventrículas, luego la onda QRS que describe la despolarización ventricular como también la polarización auricular en este periodo la presión ventricular excede a las presiones de las arterias aorta y tronco pulmonar lo que genera que la sangre sea expulsada hacia al resto del cuerpo y hacia los pulmones,respectivamente , luego el segmento ST que describe el periodo de meseta o de relajación isovolumétrica de los ventrículos y por último la onda T que describe la polarización ventricular es decir la disminución de la presión ventricular lo que genera que las valvulas del corazón se abran, por último hay un periodo de relajación que representa el llenado ventricular, ya que las válvulas están abiertas en ese momento.
   <p align="justify">
   La realización de un ECG es sencillo, un enfermero, un técnico o un médico le colocarán un total de 10 parches (electrodos). Se coloca uno en cada extremidad, formando así las seis derivaciones llamadas de los miembros. Los restantes seis parches se colocan en seis puntos específicos del pecho en la denominada región precordial, y hacen referencia a las seis derivaciones precordiales. Una derivación electrocardiográfica está constituida por la unión de dos electrodos.
     <p align="justify">
@@ -47,6 +47,16 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
       
       
 #### ¿Cómo interpretar un ECG?  
+         
+ <p align="justify">     
+      
+  Sabiendo las sigueintes representaciones:
+      - Onda P: contracción auricular
+      - Intervalo PR: representa el tiempo que tarda la excitación en propagarse desde el nódulo sinoauricular (SA) a través de la aurícula y hacia el músculo         ventricular a través del haz de His.
+      - QRS: contracción ventricular
+      - Segmento ST: relajación ventricular
+      - Onda T: repolarización ventricular
+      
       
 ### 2. Objetivos de la práctica de laboratorio
 ---

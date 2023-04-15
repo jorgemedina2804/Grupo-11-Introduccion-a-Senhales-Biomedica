@@ -114,7 +114,10 @@ Se utilizó la guía proporcionada por el curso respecto al uso de Bitalino para
   #### Conexión utilizada
 Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Electrodos%20en%20usuario.JPG" width="400" height="400">
-
+     
+<p align="center">
+Figura 2. Posición de los electrodos en el cuerpo
+     
 
   #### Videos de la señal obtenidas en OpenSignals
   | Estado Basal | Mantener la respiración por 10 segundos |

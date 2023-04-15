@@ -9,6 +9,7 @@
 3. [Materiales y equipos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#3-materiales-y-equipos)
 4. [Procedimiento](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#4-procedimiento)
 5. [Resultados](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#5-resultados)
+  5.1 [Conexión utilizada]
 6. [Conclusiones](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#6-conclusiones)
 7. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#7-referencias)
 

@@ -84,7 +84,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
   #### Ploteo de la señal en Python
   | Estado Basal | Mantener la respiración por 10 segundos |
   | ------------ |  :------------------------------------: |
-  | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/ECG%20Basal%20Python.jpeg" width="500" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/10%20segundos.JPG" width="500" /> |
+  | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/ECG%20Basal%20Python.jpeg" width="500" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/ECG%2010%20segundos%20Python.jpeg" width="500" /> |
   </div>
 
 

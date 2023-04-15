@@ -18,10 +18,10 @@
   El ECG es un gráfico en el que se muestran las diferencias de voltaje en relación al tiempo, así como la actividad eléctrica del corazón que se desarrolla en el    corazón durante un tiempo determinado (normalmente no suele pasar de 30 segundos). La actividad eléctrica del corazón recogida en el ECG se observa en forma de un trazado que presenta diferentes deflexiones (ondas del ECG) que se corresponden con el recorrido de los impulsos eléctricos a través de las diferentes estructuras del corazón, como sabemos en corazón posee 2 nodos, el nodo SA y AV, que están encargados de la autorritmicidad del corazón. La despolarizacion de los muscúlos cardiacos comienzan en el nodo SA y se trasladada, primero a las aurículas, y luego al nodo AV donde posteriormente se dirige al haz de His (rama izquierda y derecha), para luego llegar a las paredes del ventrículo y toda la estructura del corazón mediante las fibras de Purkinje.
     
     <p align="center">
-     <img width="500" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Electrocardiograma-con-sus-ondas-intervalos-segmentos-y-su-relacion-con-el-ciclo.png">
+   <img width="500" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Electrocardiograma-con-sus-ondas-intervalos-segmentos-y-su-relacion-con-el-ciclo.png">
       <p align="center">
    Fig 1. ECG con sus respectivas ondas [1]
-    </p>
+    
       
   <p align="justify">
   Las ondas que se pueden ver en un ECG son la onda P que describe la despolarización de la aurículas que expulsan la sangre a hacía las ventrículas, luego la onda QRS que describe la despolarización ventricular como también la polarización auricular en este periodo la presión ventricular excede a las presiones de las arterias aorta y tronco pulmonar lo que genera que la sangre sea expulsada hacia al resto del cuerpo y hacia los pulmones,respectivamente , luego el segmento ST que describe el periodo de meseta o de relajación isovolumétrica de los ventrículos y por último la onda T que describe la polarización ventricular es decir la disminución de la presión ventricular lo que genera que las valvulas del corazón se abran, por último hay un periodo de relajación que representa el llenado ventricular, ya que las válvulas están abiertas en ese momento.

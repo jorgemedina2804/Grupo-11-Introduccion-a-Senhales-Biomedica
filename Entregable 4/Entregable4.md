@@ -78,7 +78,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/30%20lpm.JPG" width="500" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/120%20lpm.JPG" width="500" /> |
 
 
-| 240 latidos por minuto | Arritmia Taquicardia ventricular 200 latidos por minuto |
+| 240 latidos por minuto | Arritmia Taquicárdica ventricular 200 latidos por minuto |
 | ------------ |  :------------------------------------: |
 | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/240%20lpm.JPG" width="500" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Arritmia%20Taq.JPG" width="500" /> |
   
@@ -99,7 +99,15 @@ Se posicionaron los electrodos en base las guías mencionadas:
 - [Señal brindada por los electrodos en el cuerpo ploteada en Python con un dominio del tiempo completo de recopilación de señal](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_completo.py)
 - [Señal brindada por el ProSim 8 ploteada en Python con un dominio de 3 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_prosim_3seg.py)
 </p>
-
+  ### Archivos de datos
+  - [Archivo de datos ECG estado basal]
+  - [Archivo de datos ECG manteniendo la respiración durante 10 segundos]
+  - [Archivo de datos ECG luego de realizar ejericicio]
+  - [Archivo de datos ECG 30 lpm ProSim]
+  - [Archivo de datos ECG 120 lpm ProSim]
+  - [Archivo de datos ECG 240 lpm ProSim]
+  - [Archivo de datos ECG Arritmia Taquicárdica ventricular 200 latidos por minuto ProSim]
+  
 ### 6. Conclusiones
 ### 7. Referencias
   [1]https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf

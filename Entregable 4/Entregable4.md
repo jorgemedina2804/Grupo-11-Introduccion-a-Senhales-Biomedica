@@ -72,6 +72,11 @@ Se posicionaron los electrodos en base las guías mencionadas:
 | ------------ |  
 |<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Ejercicio.JPG" width="500"/>|
   #### Señal haciendo uso del ProSlim 4 Vital Sign Patient Simulator
+| 30 latidos por minuto | 120 latidos por minuto |
+| ------------ |  :------------------------------------: |
+| <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/30%20lpm.JPG" width="500" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/120%20lpm.JPG" width="500" /> |
+</div>
+  
   #### Ploteo de la señal en Python
 
 </p>

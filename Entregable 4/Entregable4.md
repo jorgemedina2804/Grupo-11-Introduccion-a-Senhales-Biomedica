@@ -49,7 +49,16 @@ Se posicionaron los electrodos en base las guías mencionadas:
 <p align="center"><img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Electrodos%20en%20usuario.JPG" width="400" height="400">
 
 
-  #### Videos de la señal
+  #### Videos de la señal obtenidas en OpenSignals
+  | Estado Basal | Mantener la respiración por 10 segundos |
+| ------------ |  :------------------------------------: |
+| <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Video%20Ejercicio%20INTRO.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/231574043-44222491-d595-4d5a-9ac8-112adb20757c.mp4" width="200" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/10%20segundos.JPG" width="500" /> |
+</div>
+
+
+| Después de una actividad física   |        
+| ------------ |  
+|<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Ejercicio.JPG" width="500" />  |
   #### Ploteo de la señal en OpenSignals
   | Estado Basal | Mantener la respiración por 10 segundos |
 | ------------ |  :------------------------------------: |

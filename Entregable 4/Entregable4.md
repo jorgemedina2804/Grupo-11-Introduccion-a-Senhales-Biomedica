@@ -97,7 +97,8 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
 | <img width="200" height="150" src="https://www.pcspeed.com.pe/wp-content/uploads/2022/07/laptop-asus-rog-strix-g513ic-hn046w-amd-ryzen-7-4800h-16gb-512gb-ssd-t-video-rtx-3050-4gb-156-fhd-144hz-2.jpg"> |      Laptop     |       1      |
 | <img width="200" height="250" src="https://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png"> |      ProSim 4 Vital Sign Patient Simulator     |       1      |
 
-       <p align="center">
+<p align="center">
+            
 Tabla 1. Materiales a utilizar en el laboratorio 4
             
 </div>

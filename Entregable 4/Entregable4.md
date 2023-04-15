@@ -99,6 +99,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 - [Señal brindada por los electrodos en el cuerpo ploteada en Python con un dominio del tiempo completo de recopilación de señal](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_completo.py)
 - [Señal brindada por el ProSim 8 ploteada en Python con un dominio de 3 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_prosim_3seg.py)
 </p>
+
   ### Archivos de datos
   - [Archivo de datos ECG estado basal]
   - [Archivo de datos ECG manteniendo la respiración durante 10 segundos]

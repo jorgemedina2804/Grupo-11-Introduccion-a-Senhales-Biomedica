@@ -32,11 +32,12 @@
 De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permite obtener una visión electrocardiográfica diferente, representando 12 ventanas o puntos de observación distintos. Así, una anomalía que afecta a una parte concreta del corazón puede no ser advertida desde una derivación (ventana) y sí desde otra. Esta característica confiere valor al ECG para localizar la zona del corazón que puede encontrarse dañada. Cada derivación presenta un patrón del ECG característico con el que el médico está familiarizado, pero los principios expuestos en la descripción del ECG son aplicables a todas las derivaciones.[2]
   
 ### 2. Objetivos de la práctica de laboratorio
+---
 - Adquirir señales biomédicas de ECG.
 - Hacer una correcta configuración de BiTalino
 - Extraer la información de las señales ECG del software OpenSignals (r)evolution
 ### 3. Materiales y equipos
-  
+---
   <div align="center">
 
 |  **Imagen**  | **Producto** | **Cantidad** |
@@ -47,6 +48,7 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
 </div>
 
 ### 4. Procedimiento
+---
 Se utilizó la guía proporcionada por el curso respecto al uso de Bitalino para medir señales de ECG, junto con la hoja de datos y el manual de usuario. Además se realizó la toma de datos de la señal ECG en 3 momentos distintos: 
 - Estado de reposo
 - Aguantando la respiración por 10 segundos
@@ -118,6 +120,8 @@ Se posicionaron los electrodos en base las guías mencionadas:
   - [Archivo de datos ECG Arritmia Taquicárdica ventricular 200 latidos por minuto ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Arritmia%20Taq%20vent%20200%20lpm%20prosim.txt)
   
 ### 6. Conclusiones
+---
 ### 7. Referencias
+---
   [1]https://www.researchgate.net/figure/Electrocardiograma-con-sus-ondas-intervalos-segmentos-y-su-relacion-con-el-ciclo_fig2_333649418
   [2]https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf

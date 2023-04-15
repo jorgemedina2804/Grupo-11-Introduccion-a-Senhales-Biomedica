@@ -30,7 +30,10 @@
   La realización de un ECG es sencillo, un enfermero, un técnico o un médico le colocarán un total de 10 parches (electrodos). Se coloca uno en cada extremidad, formando así las seis derivaciones llamadas de los miembros. Los restantes seis parches se colocan en seis puntos específicos del pecho en la denominada región precordial, y hacen referencia a las seis derivaciones precordiales. Una derivación electrocardiográfica está constituida por la unión de dos electrodos.
     <p align="justify">
 De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permite obtener una visión electrocardiográfica diferente, representando 12 ventanas o puntos de observación distintos. Así, una anomalía que afecta a una parte concreta del corazón puede no ser advertida desde una derivación (ventana) y sí desde otra. Esta característica confiere valor al ECG para localizar la zona del corazón que puede encontrarse dañada. Cada derivación presenta un patrón del ECG característico con el que el médico está familiarizado, pero los principios expuestos en la descripción del ECG son aplicables a todas las derivaciones.[2]
-#### ¿Cómo interpretar un ECG?   
+      
+      
+#### ¿Cómo interpretar un ECG?  
+      
 ### 2. Objetivos de la práctica de laboratorio
 ---
 - Adquirir señales biomédicas de ECG.

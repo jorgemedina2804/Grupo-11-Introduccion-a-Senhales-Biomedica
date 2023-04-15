@@ -75,7 +75,8 @@ Se posicionaron los electrodos en base las guías mencionadas:
 | 30 latidos por minuto | 120 latidos por minuto |
 | ------------ |  :------------------------------------: |
 | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/30%20lpm.JPG" width="500" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/120%20lpm.JPG" width="500" /> |
-</div>
+
+
 | 240 latidos por minuto | Arritmia Taquicardia ventricular 200 latidos por minuto |
 | ------------ |  :------------------------------------: |
 | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/240%20lpm.JPG" width="500" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Arritmia%20Taq.JPG" width="500" /> |

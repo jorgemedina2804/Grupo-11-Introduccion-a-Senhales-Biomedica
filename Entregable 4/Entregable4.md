@@ -58,7 +58,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 | Después de una actividad física   |        
 | ------------ |  
-|<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Ejercicio.JPG" width="500" />  |
+|<img src="https://user-images.githubusercontent.com/111662394/232174016-ee45db25-0986-4062-b61b-46889f003547.mp4" width="500" />  |
   #### Ploteo de la señal en OpenSignals
   | Estado Basal | Mantener la respiración por 10 segundos |
 | ------------ |  :------------------------------------: |

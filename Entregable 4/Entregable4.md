@@ -52,9 +52,13 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
       
   Sabiendo las sigueintes representaciones:
       - Onda P: contracción auricular
+      
       - Intervalo PR: representa el tiempo que tarda la excitación en propagarse desde el nódulo sinoauricular (SA) a través de la aurícula y hacia el músculo         ventricular a través del haz de His.
+      
       - QRS: contracción ventricular
+      
       - Segmento ST: relajación ventricular
+      
       - Onda T: repolarización ventricular
       
       

@@ -57,7 +57,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 | Después de una actividad física   |        
 | ------------ |  
-|<img width="200" height="250" src="https://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png">|
+|<video width="200" height="250" src="https://user-images.githubusercontent.com/111662394/232174661-61f3257b-a256-4d2d-a317-1dbb4e3f99ae.mp4">|
 
 
   #### Ploteo de la señal en OpenSignals

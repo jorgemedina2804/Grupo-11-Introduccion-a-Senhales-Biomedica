@@ -71,7 +71,6 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
         o están presentes en otras derivaciones,son patológicas. El complejo QRS normalmente tiene una duración de menor
         a 0,12 segundos (3 cuadrados pequeños). El complejo QRS puede ser pequeño (o de bajo voltaje) en casos de 
         derrame pericárdico, IMC alto, enfisema, miocardiopatía y amiloide cardíaco
-      
       -Segmento ST: La elevación del segmento ST indica infarto. La depresión del complejo ST normalmente se debe a isquemia.
 
       

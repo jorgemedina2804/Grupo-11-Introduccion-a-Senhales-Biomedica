@@ -56,9 +56,9 @@ Se posicionaron los electrodos en base las guías mencionadas:
 </div>
 
 
-| Después de una actividad física  ||        
-| ------------ |  :------------------------------------: |
-|<video src="https://user-images.githubusercontent.com/111662394/232174016-ee45db25-0986-4062-b61b-46889f003547.mp4" width="200" />  | 
+| Después de una actividad física   |        
+| ------------ |  
+|<video src="https://user-images.githubusercontent.com/111662394/232174327-5c1e784a-875e-4597-b174-80c180146a9b.mp4" width="200""/>|
 
 
   #### Ploteo de la señal en OpenSignals

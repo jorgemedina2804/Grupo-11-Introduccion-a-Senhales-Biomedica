@@ -75,8 +75,8 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
       
       - Segmento ST: La elevación del segmento ST indica infarto. La depresión del complejo ST normalmente se debe a isquemia.
       
-      - Intervalo QT:Es especialmente importante identificar un intervalo QT largo en pacientes con antecedentes de colapso o pérdida transitoria 
-        del conocimiento.
+      - Intervalo QT:Es especialmente importante identificar un intervalo QT largo en pacientes con antecedentes de 
+        colapso o pérdida transitoria del conocimiento.
 
       
 ### 2. Objetivos de la práctica de laboratorio

@@ -78,7 +78,7 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
       - Intervalo QT:Es especialmente importante identificar un intervalo QT largo en pacientes con antecedentes de 
         colapso o pérdida transitoria del conocimiento.
       
-      - Onda T
+      - Onda T: Puede aplanarse o invertirse por varias razones: isquemia, hipopotasemia,digoxina,etc
       
 
       

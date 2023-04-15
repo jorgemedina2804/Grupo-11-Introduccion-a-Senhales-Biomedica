@@ -101,13 +101,13 @@ Se posicionaron los electrodos en base las guías mencionadas:
 </p>
 
   ### Archivos de datos
-  - [Archivo de datos ECG estado basal]
-  - [Archivo de datos ECG manteniendo la respiración durante 10 segundos]
-  - [Archivo de datos ECG luego de realizar ejericicio]
-  - [Archivo de datos ECG 30 lpm ProSim]
-  - [Archivo de datos ECG 120 lpm ProSim]
-  - [Archivo de datos ECG 240 lpm ProSim]
-  - [Archivo de datos ECG Arritmia Taquicárdica ventricular 200 latidos por minuto ProSim]
+  - [Archivo de datos ECG estado basal](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ECG%20tranquilo%20.txt)
+  - [Archivo de datos ECG manteniendo la respiración durante 10 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ecg%2010%20segundos%20respiracion.txt)
+  - [Archivo de datos ECG luego de realizar ejercicio](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ECG%20con%20ejercicio%20.txt)
+  - [Archivo de datos ECG 30 lpm ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/30%20lpm%20pro%20sim.txt)
+  - [Archivo de datos ECG 120 lpm ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/120%20lpm%20pro%20sim.txt)
+  - [Archivo de datos ECG 240 lpm ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/240%20lpm%20pro%20sim.txt)
+  - [Archivo de datos ECG Arritmia Taquicárdica ventricular 200 latidos por minuto ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Arritmia%20Taq%20vent%20200%20lpm%20prosim.txt)
   
 ### 6. Conclusiones
 ### 7. Referencias

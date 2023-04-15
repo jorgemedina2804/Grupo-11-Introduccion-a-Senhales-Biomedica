@@ -50,7 +50,7 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
          
  <p align="justify">     
       
-  Sabiendo las siguientes representaciones:
+  Sabiendo las siguientes representaciones [3]:
       
       - Onda P: contracción auricular
       
@@ -63,7 +63,9 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
       - Segmento ST: relajación ventricular
       
       - Onda T: repolarización ventricular
-      
+  Se puede interpretar lo siguiente [3]: 
+      - Onda P e intervalo PR: ¿Se puede visualizar una onda P? Si el ritmo es fibrilación auricular, aleteo auricular o taquicardia de la unión, es posible que no pueda hacerlo.
+
       
 ### 2. Objetivos de la práctica de laboratorio
 ---
@@ -159,3 +161,4 @@ Se posicionaron los electrodos en base las guías mencionadas:
 ---
   [1]https://www.researchgate.net/figure/Electrocardiograma-con-sus-ondas-intervalos-segmentos-y-su-relacion-con-el-ciclo_fig2_333649418
   [2]https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf
+  [3].https://oxfordmedicaleducation.com/ecgs/ecg-interpretation/

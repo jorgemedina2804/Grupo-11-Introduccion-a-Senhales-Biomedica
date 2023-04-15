@@ -50,16 +50,16 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 
   #### Videos de la señal
-  #### Ploteo de la señal en OpenSignal
+  #### Ploteo de la señal en OpenSignals
   | Estado Basal | Mantener la respiración por 10 segundos |
 | ------------ |  :------------------------------------: |
 | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Estado%20de%20reposo.JPG" width="500" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/10%20segundos.JPG" width="500" /> |
 </div>
 
 
-| Reposo Basal |     Después de una actividad física     |
-| ------------ |  :------------------------------------: |
-|<video src="https://user-images.githubusercontent.com/89707896/231574106-c6608652-e7dd-4194-b84f-53ea09ec712c.mp4" width="200"/> | <video src="https://user-images.githubusercontent.com/89707896/231574355-354b84ab-f131-4c7e-962c-d6c0341358ed.mp4" width="200" />  |
+| Después de una actividad física   |        
+| ------------ |  
+|<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Ejercicio.JPG" width="500" />  |
   #### Señal haciendo uso del ProSlim 4 Vital Sign Patient Simulator
   #### Ploteo de la señal en Python
 

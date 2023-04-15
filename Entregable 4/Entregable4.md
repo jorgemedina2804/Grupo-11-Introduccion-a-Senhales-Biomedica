@@ -10,7 +10,6 @@
 4. [Procedimiento](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#4-procedimiento)
 5. [Resultados](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#5-resultados)\
   5.1 [Conexión utilizada](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#conexi%C3%B3n-utilizada)
-  
   5.2 [Videos de la señal obtenidas en OpenSignals](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#videos-de-la-se%C3%B1al-obtenidas-en-opensignals)
   
   5.3 [Ploteo de la señal en OpenSignals](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#ploteo-de-la-se%C3%B1al-en-opensignals)

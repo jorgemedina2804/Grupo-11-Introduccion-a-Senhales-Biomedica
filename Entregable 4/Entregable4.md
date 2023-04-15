@@ -82,6 +82,18 @@ Se posicionaron los electrodos en base las guías mencionadas:
 | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/240%20lpm.JPG" width="500" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Arritmia%20Taq.JPG" width="500" /> |
   
   #### Ploteo de la señal en Python
+  | Estado Basal | Mantener la respiración por 10 segundos |
+  | ------------ |  :------------------------------------: |
+  | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/ECG%20Basal%20Python.jpeg" width="500" /> | <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/10%20segundos.JPG" width="500" /> |
+  </div>
+
+
+| Después de una actividad física   |        
+| ------------ |  
+|<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Ejercicio.JPG" width="500"/>|
+
+
+  ### Archivos en Python
 
 </p>
 

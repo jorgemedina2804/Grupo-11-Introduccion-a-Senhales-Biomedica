@@ -55,7 +55,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 | ------------ |  :------------------------------------: |
 |<p align="center"><img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Estado%20de%20reposo.JPG" width="400" height="600"> |
 |<p align="center"><img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/10%20segundos.JPG" width="400" height="400"> |
-</div>
+
 
 | Reposo Basal |     Después de una actividad física     |
 | ------------ |  :------------------------------------: |

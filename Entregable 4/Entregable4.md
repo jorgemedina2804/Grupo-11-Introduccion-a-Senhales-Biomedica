@@ -178,4 +178,4 @@ Se posicionaron los electrodos en base las guías mencionadas:
   
   [2]https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf
   
-  [3]
+  [3]https://oxfordmedicaleducation.com/ecgs/ecg-interpretation/

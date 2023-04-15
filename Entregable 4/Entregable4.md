@@ -66,7 +66,8 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
   Se puede interpretar lo siguiente [3]: 
       
       - Onda P e intervalo PR: ¿Se puede visualizar una onda P? Si el ritmo es fibrilación auricular, aleteo auricular o 
-       taquicardia de la unión, es posible que no pueda hacerlo.
+        taquicardia de la unión, es posible que no pueda hacerlo.
+      - Onda Q y complejo QRS: Si las ondas Q son más grandes que 0.04 segundos y 2 mm de profundidad o están presentes en otras derivaciones,son                     patológicas.
 
       
 ### 2. Objetivos de la práctica de laboratorio

@@ -56,7 +56,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 </div>
 
 
-| Después de una actividad física   |        
+| Después de una actividad física  ||        
 | ------------ |  :------------------------------------: |
 |<video src="https://user-images.githubusercontent.com/111662394/232174016-ee45db25-0986-4062-b61b-46889f003547.mp4" width="200" />  | 
 

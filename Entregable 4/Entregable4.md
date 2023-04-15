@@ -58,7 +58,9 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 | Después de una actividad física   |        
 | ------------ |  
-|<img src="https://user-images.githubusercontent.com/111662394/232174016-ee45db25-0986-4062-b61b-46889f003547.mp4" width="500" />  |
+|<<video src="https://user-images.githubusercontent.com/89707896/231574043-44222491-d595-4d5a-9ac8-112adb20757c.mp4" width="200" />  |
+
+
   #### Ploteo de la señal en OpenSignals
   | Estado Basal | Mantener la respiración por 10 segundos |
 | ------------ |  :------------------------------------: |

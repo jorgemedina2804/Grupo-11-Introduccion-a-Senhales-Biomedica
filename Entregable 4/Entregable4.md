@@ -34,7 +34,7 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
 |:------------:|:---------------:|:------------:|
 | <img width="200" height="150" src="https://i.postimg.cc/VvLXqb8P/14022-01a.jpg"> |   Kit BITalino  |       1      |
 | <img width="200" height="150" src="https://www.pcspeed.com.pe/wp-content/uploads/2022/07/laptop-asus-rog-strix-g513ic-hn046w-amd-ryzen-7-4800h-16gb-512gb-ssd-t-video-rtx-3050-4gb-156-fhd-144hz-2.jpg"> |      Laptop     |       1      |
-| <img width="200" height="250" src="https://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png"> |      ProSlim 4 Vital Sign Patient Simulator     |       1      |
+| <img width="200" height="250" src="https://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png"> |      ProSim 4 Vital Sign Patient Simulator     |       1      |
 </div>
 
 ### 4. Procedimiento
@@ -94,7 +94,10 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 
   ### Archivos en Python
-
+  [Señal brindada por los electrodos en el cuerpo ploteada en Python con un dominio de 3 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_seccionada_3seg.py)
+  [Señal brindada por los electrodos en el cuerpo ploteada en Python con un dominio del tiempo completo de recopilación de señal](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_completo.py)
+  [Señal brindada por el ProSim 8 ploteada en Python con un dominio de 3 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_prosim_3seg.py)
+  
 </p>
 
 ### 6. Conclusiones

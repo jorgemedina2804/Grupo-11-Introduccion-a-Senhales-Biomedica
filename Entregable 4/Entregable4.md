@@ -96,6 +96,10 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
 | <img width="200" height="150" src="https://i.postimg.cc/VvLXqb8P/14022-01a.jpg"> |   Kit BITalino  |       1      |
 | <img width="200" height="150" src="https://www.pcspeed.com.pe/wp-content/uploads/2022/07/laptop-asus-rog-strix-g513ic-hn046w-amd-ryzen-7-4800h-16gb-512gb-ssd-t-video-rtx-3050-4gb-156-fhd-144hz-2.jpg"> |      Laptop     |       1      |
 | <img width="200" height="250" src="https://www.flukebiomedical.com/sites/default/files/styles/slideshow_image/public/prosim4front_0.png"> |      ProSim 4 Vital Sign Patient Simulator     |       1      |
+
+       <p align="center">
+Tabla 1. Materiales a utilizar en el laboratorio 4
+            
 </div>
 
 ### 4. Procedimiento
@@ -174,8 +178,8 @@ Se posicionaron los electrodos en base las guías mencionadas:
 ---
 ### 7. Referencias
 ---
-  [1]E. Zamarrón, “Electrocardiografía dirigida para áreas críticas,” IntensiveQare, 2019. 
+  [1]. E. Zamarrón, “Electrocardiografía dirigida para áreas críticas,” IntensiveQare, 2019. 
   
-  [2]L. Azcona, “Capítulo 4 El electrocardiograma,” Fundación BBVA. [Online]. Available:  https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf. [Accessed: 15-Apr-2023]. 
+  [2]. L. Azcona, “Capítulo 4 El electrocardiograma,” Fundación BBVA. [Online]. Available:  https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf. [Accessed: 15-Apr-2023]. 
   
-  [3]Oxford Medical Education, “ECG (EKG) interpretation,” Oxford Medical Education, 12-Apr-2016. [Online]. Available: https://oxfordmedicaleducation.com/ecgs/ecg-interpretation/. [Accessed: 14-Apr-2023]. 
+  [3]. Oxford Medical Education, “ECG (EKG) interpretation,” Oxford Medical Education, 12-Apr-2016. [Online]. Available: https://oxfordmedicaleducation.com/ecgs/ecg-interpretation/. [Accessed: 14-Apr-2023]. 

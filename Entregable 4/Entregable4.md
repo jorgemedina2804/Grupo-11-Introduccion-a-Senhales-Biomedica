@@ -70,7 +70,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
 | Después de una actividad física   |        
 | ------------ |  
-|<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Ejercicio.JPG" width="200"/>|
+|<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Imagenes/Ejercicio.JPG" width="500"/>|
   #### Señal haciendo uso del ProSlim 4 Vital Sign Patient Simulator
   #### Ploteo de la señal en Python
 

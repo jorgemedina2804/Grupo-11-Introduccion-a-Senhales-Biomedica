@@ -24,8 +24,7 @@
   
      5.7 [Archivos de datos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#archivos-de-datos)
   
-6. [Conclusiones](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#6-conclusiones)
-7. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#7-referencias)
+6. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md#7-referencias)
 
 ### 1. Introducción
 ---
@@ -179,9 +178,8 @@ Figura 2. Posición de los electrodos en el cuerpo
   - [Archivo de datos ECG 240 lpm ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/240%20lpm%20pro%20sim.txt)
   - [Archivo de datos ECG Arritmia Taquicárdica ventricular 200 latidos por minuto ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Arritmia%20Taq%20vent%20200%20lpm%20prosim.txt)
   
-### 6. Conclusiones
----
-### 7. Referencias
+
+### 6. Referencias
 ---
   [1]. E. Zamarrón, “Electrocardiografía dirigida para áreas críticas,” IntensiveQare, 2019. 
   

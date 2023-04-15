@@ -51,6 +51,14 @@ Se posicionaron los electrodos en base las guías mencionadas:
 
   #### Videos de la señal
   #### Ploteo de la señal en OpenSignal
+  | Estado Basal | Mantener la respiración por 10 segundos |
+| ------------ |  :------------------------------------: |
+| <video src="https://user-images.githubusercontent.com/89707896/231572641-61aeebae-f397-4627-aebc-913bb9464915.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/231574043-44222491-d595-4d5a-9ac8-112adb20757c.mp4" width="200" /> |
+</div>
+
+| Reposo Basal |     Después de una actividad física     |
+| ------------ |  :------------------------------------: |
+|<video src="https://user-images.githubusercontent.com/89707896/231574106-c6608652-e7dd-4194-b84f-53ea09ec712c.mp4" width="200"/> | <video src="https://user-images.githubusercontent.com/89707896/231574355-354b84ab-f131-4c7e-962c-d6c0341358ed.mp4" width="200" />  |
   #### Señal haciendo uso del ProSlim 4 Vital Sign Patient Simulator
   #### Ploteo de la señal en Python
 

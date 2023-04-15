@@ -175,5 +175,7 @@ Se posicionaron los electrodos en base las guías mencionadas:
 ### 7. Referencias
 ---
   [1]https://www.researchgate.net/figure/Electrocardiograma-con-sus-ondas-intervalos-segmentos-y-su-relacion-con-el-ciclo_fig2_333649418
+  
   [2]https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf
+  
   [3]

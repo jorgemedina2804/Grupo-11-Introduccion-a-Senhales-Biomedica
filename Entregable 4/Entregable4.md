@@ -176,6 +176,6 @@ Se posicionaron los electrodos en base las guías mencionadas:
 ---
   [1]E. Zamarrón, “Electrocardiografía dirigida para áreas críticas,” IntensiveQare, 2019. 
   
-  [2]https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf
+  [2]L. Azcona, “Capítulo 4 El electrocardiograma,” Fundación BBVA. [Online]. Available:  https://www.fbbva.es/microsites/salud_cardio/mult/fbbva_libroCorazon_cap4.pdf. [Accessed: 15-Apr-2023]. 
   
-  [3]https://oxfordmedicaleducation.com/ecgs/ecg-interpretation/
+  [3]Oxford Medical Education, “ECG (EKG) interpretation,” Oxford Medical Education, 12-Apr-2016. [Online]. Available: https://oxfordmedicaleducation.com/ecgs/ecg-interpretation/. [Accessed: 14-Apr-2023]. 

@@ -64,7 +64,8 @@ De esta forma, es posible conseguir un total de 12 derivaciones. Cada una permit
       
       - Onda T: repolarización ventricular
   Se puede interpretar lo siguiente [3]: 
-      - Onda P e intervalo PR: ¿Se puede visualizar una onda P? Si el ritmo es fibrilación auricular, aleteo auricular o taquicardia de la unión, es posible que no pueda hacerlo.
+      
+      - Onda P e intervalo PR: ¿Se puede visualizar una onda P? Si el ritmo es fibrilación auricular, aleteo auricular o taquicardia de la unión, es posible           que no pueda hacerlo.
 
       
 ### 2. Objetivos de la práctica de laboratorio

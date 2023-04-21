@@ -14,15 +14,12 @@
   
   
 5. [Resultados](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md#5-resultados)
----
-  #### Conexión utilizada
-  Se posicionaron los electrodos en base las guías mencionadas:
-</div>
-</p>
 
 
 6. [Discusión](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md#6-discusi%C3%B3n)
+  
 7. [Conclusiones](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md#7-conclusiones)
+  
 8. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md#8-referencias)
   
 ### 1. Introducción
@@ -30,6 +27,13 @@
 ### 3. Materiales y equipos
 ### 4. Procedimiento
 ### 5. Resultados
+---
+  #### Conexión utilizada
+  Se posicionaron los electrodos en base las guías mencionadas:
+</div>
+</p>
+
+
 ### 6. Discusión
 ### 7. Conclusiones
 ### 8. Referencias

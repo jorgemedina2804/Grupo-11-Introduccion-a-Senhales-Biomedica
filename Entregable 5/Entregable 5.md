@@ -18,6 +18,6 @@
 ### 3. Materiales y equipos
 ### 4. Procedimiento
 ### 5. Resultados
-### 6. Discusión]
-### 7. Conclusiones]
-### 8. [Referencias]
+### 6. Discusión
+### 7. Conclusiones
+### 8. Referencias

@@ -17,8 +17,10 @@
 ---
   #### Conexión utilizada
   Se posicionaron los electrodos en base las guías mencionadas:
-  </div>
-  
+</div>
+</p>
+
+
 6. [Discusión](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md#6-discusi%C3%B3n)
 7. [Conclusiones](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md#7-conclusiones)
 8. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md#8-referencias)

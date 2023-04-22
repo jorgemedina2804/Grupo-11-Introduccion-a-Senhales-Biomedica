@@ -38,7 +38,7 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 |:------------:|:---------------:|:------------:|
 | <img width="200" height="150" src="https://i.postimg.cc/VvLXqb8P/14022-01a.jpg"> |   Kit BITalino  |       1      |
 | <img width="200" height="150" src="https://www.pcspeed.com.pe/wp-content/uploads/2022/07/laptop-asus-rog-strix-g513ic-hn046w-amd-ryzen-7-4800h-16gb-512gb-ssd-t-video-rtx-3050-4gb-156-fhd-144hz-2.jpg"> |      Laptop     |       1      |
-| <img width="200" height="250" src="https://cdn.shopify.com/s/files/1/0613/9353/products/DSC02861_900x.jpg?v=1652731236"> |      Ultracortex "Mark IV" EEG headset      |       1      |
+| <img width="200" height="250" src="https://cdn.shopify.com/s/files/1/0613/9353/products/DSC02861_900x.jpg?v=1652731236"> |      Ultracortex "Mark IV" EEG headset      |       1      | | <img width="200" height="250" src="https://cdn.shopify.com/s/files/1/0613/9353/products/DSC02779_900x.jpg?v=1614761059"> |      OpenBCI Cyton 8-channel Board      |       1      |
 
 
 </div>

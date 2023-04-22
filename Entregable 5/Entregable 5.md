@@ -52,11 +52,11 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
    Los electrodos deben ser posicionados siguiendo el sistema internacional 10/20 para así describir la localización de los electrodos en el usuario. Se le dice 10/20    debido a que al porcentaje (10 y 20) de distancia en la que deben estar colocados los electrodos en la parte frontal, occipital, de lado derecho e izquierda del        cráneo.
    Cada sitio tiene una letra para identificar el lóbulo y un número para identificar la ubicación del hemisferio:
     
-    - Electrodo F:Lóbulo Frontal
-    - Electrodo T: Lóbulo Temporal
-    - Electrodo C: Lóbulo Central 
-    - Electrodo P: Lóbulo Parietal
-    - Electrodo O: Lóbulo Occipital 
+   - Electrodo F:Lóbulo Frontal
+   - Electrodo T: Lóbulo Temporal
+   - Electrodo C: Lóbulo Central 
+   - Electrodo P: Lóbulo Parietal
+   - Electrodo O: Lóbulo Occipital 
     
 ### 2. Objetivos de la práctica de laboratorio
   - Adquirir señales biomédicas de EEG.

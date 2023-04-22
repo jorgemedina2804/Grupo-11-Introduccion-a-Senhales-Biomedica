@@ -102,6 +102,14 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 
 
 ### 6. Discusión
+En el primer experimento de los ojos cerrados en ambos casos (BiTalino y EEG headset) observamos que las ondas no se ven alteradas a lo largo de los 40 segundos de medicion, esto debido al estado constante  del sujeto de prueba. Las ondas observadas son de aproximadamente 8-12Hz que son consideradas ondas alfa.
+
+En el segundo experimento las ondas en ambos caso, al pasar de ojos cerrados a ojos abiertos y viceversa, se ven ligeramente alteradas con picos superiores e inferiores con amplitud de aproximadamente el doble del estado basal, esto coincidiendo con el cambio de estado.
+
+En el tercer caso mientras se le esta haciendo la pregunta al sujeto de prueba se observa que las ondas se mantienen en estado basal. Al momento de responder la pregunta ls ondas en ambos casos se ven alteradas considerablemente en cuanto a amplitud y frecuencia lo cual representa un cambio en la alteracion cerebral mas intensa en comparacion a las anteriores.
+
+En el cuarto experimento realizado solo para para el caso del bitalino mientras el sujeto esta con los ojos completamente tapados se observa un estado basal constante, el cual se ve alterado al momento de retirar la benda y exposicion al flash. Este es un cambio sumamente notorio en la amplitud y frecuencia, incluso superior al de las ondas mientras se estan respondiendo las preguntas. Esto pude ser debido al cambio repentino de exposicion a la luz ya que luego de unos segudos se observa que las ondas si bien no estan en estado basal, si se mantienen constantes con una frecuencia superior a las ondas alfa.
+
 ### 7. Conclusiones
 ### 8. Referencias
 [1] “Electroencefalografía (EEG),” Mayo Clinic, 19-Jul-2022. [Online]. Available: https://www.mayoclinic.org/es-es/tests-procedures/eeg/about/pac-20393875. [Accessed: 21-Apr-2023]. 

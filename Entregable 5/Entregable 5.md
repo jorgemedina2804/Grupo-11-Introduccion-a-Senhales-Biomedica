@@ -112,6 +112,19 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 </div>
 </p>
 
+#### Videos de EEG en OpenBCI GUI
+  </p>
+
+| Ojos cerrados | Intervalo 5 segundos ojos abiertos/ojos cerrados |
+|:-------------:|:-------------:|
+| <video src="https://user-images.githubusercontent.com/111662394/233754931-c9a684fc-7e02-4849-a4a8-a1949985ab3b.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233755503-6f94f7fe-c1f0-48b7-8226-2329ed39e6d0.mp4" width="100" /> |
+</div>
+
+
+| Problema matemático | Flash luego de tener los ojos tapados|
+|:-------------:|:-------------:|
+| <video src="https://user-images.githubusercontent.com/111662394/233757053-bbe14db2-49b6-4898-bf49-29023e54d6b2.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233757252-d2a2b67d-350c-4cf1-bf2d-aa650f22e1df.mp4" width="100" /> |
+</div>
 
 ### 6. Discusión
 En el primer experimento de los ojos cerrados en ambos casos (BiTalino y EEG headset) observamos que las ondas no se ven alteradas a lo largo de los 40 segundos de medicion, esto debido al estado constante  del sujeto de prueba. Las ondas observadas son de aproximadamente 8-12Hz que son consideradas ondas alfa.

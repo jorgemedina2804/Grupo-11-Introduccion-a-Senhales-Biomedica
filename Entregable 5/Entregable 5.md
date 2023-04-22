@@ -117,8 +117,12 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 
 | Ojos cerrados | Intervalo 5 segundos ojos abiertos/ojos cerrados |
 |:-------------:|:-------------:|
-| <video src="https://user-images.githubusercontent.com/111662394/233754931-c9a684fc-7e02-4849-a4a8-a1949985ab3b.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233755503-6f94f7fe-c1f0-48b7-8226-2329ed39e6d0.mp4" width="100" /> |
+| <video src="https://user-images.githubusercontent.com/111662394/233791918-ce8af4fd-20f8-4cfa-ac58-97cef2478579.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233755503-6f94f7fe-c1f0-48b7-8226-2329ed39e6d0.mp4" width="100" /> |
 </div>
+
+
+
+
 
 
 | Problema matemático | Flash luego de tener los ojos tapados|

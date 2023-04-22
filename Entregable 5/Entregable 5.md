@@ -29,7 +29,7 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 ### 2. Objetivos de la práctica de laboratorio
   - Adquirir señales biomédicas de EEG.
   - Hacer una correcta configuración de BiTalino y Ultracortex
-  - Extraer la información de las señales ECG del software OpenSignals (r)evolution y OpenBCI GUI
+  - Extraer la información de las señales EEG del software OpenSignals (r)evolution y OpenBCI GUI
   
 ### 3. Materiales y equipos
 <div align="center">
@@ -102,10 +102,10 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
   <img width="200" height="200" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Colocacion%20de%20electrodos%20Bitalino.png">
   
   
-  <img width="200" height="200" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG.JPG">
+  <img width="200" height="200" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Casco%201.jpeg">
   
   
-  <img width="200" height="200" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG%202.JPG">
+  <img width="200" height="200" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Casco%202.jpeg">
 </p>
 <p align="center">
   

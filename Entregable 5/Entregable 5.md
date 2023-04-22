@@ -207,5 +207,7 @@ También se puede ver cambios de ondas alpha a beta o gamma por preguntas cognit
   
 ### 8. Referencias
 [1] “Electroencefalografía (EEG),” Mayo Clinic, 19-Jul-2022. [Online]. Available: https://www.mayoclinic.org/es-es/tests-procedures/eeg/about/pac-20393875. [Accessed: 21-Apr-2023]. 
+  
 [2]. https://fisiologia.facmed.unam.mx/wp-content/uploads/2019/09/UTI-pr%C3%A1ctica-7-a.-Electroencefalograma.-AnexoManual.pdf
+  
 [3]. https://bitalino.com/storage/uploads/media/homeguide3-eeg.pdf

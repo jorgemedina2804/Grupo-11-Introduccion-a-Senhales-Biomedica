@@ -72,8 +72,12 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 
 | Ojos cerrados | Ojos abiertos |
 |:-------------:|:-------------:|
-| <video src="https://user-images.githubusercontent.com/89707896/233197727-682b0923-7b51-4526-8751-70370731e366.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/233197777-92d52158-9e99-42b4-be4b-fcc7c056249f.mp4" width="200" /> |
+| <video src="https://user-images.githubusercontent.com/111662394/233754931-c9a684fc-7e02-4849-a4a8-a1949985ab3b.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/89707896/233197777-92d52158-9e99-42b4-be4b-fcc7c056249f.mp4" width="200" /> |
 </div>
+
+
+
+
 
 | Ejercicio complejo |     Problema matemático     |
 | ------------ |  :------------------------------------: |

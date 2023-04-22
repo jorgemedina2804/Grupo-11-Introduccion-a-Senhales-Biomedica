@@ -33,11 +33,11 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 
   En un EEG se pueden identificar varios tipos de ondas, que se clasifican según su frecuencia y amplitud. Los principales tipos de ondas en un EEG son:
 
-   -Ondas delta: son ondas de baja frecuencia y alta amplitud que se observan típicamente en adultos durante el sueño profundo y en niños pequeños en estado       de vigilia.
   - Ondas theta: son ondas de frecuencia intermedia que se observan durante el sueño ligero y en algunas condiciones patológicas, como en casos de lesiones       cerebrales o trastornos del sueño.
   - Ondas alfa: son ondas de frecuencia media que se observan en la corteza cerebral en estado de reposo y relajación, con los ojos cerrados.
   - Ondas beta: son ondas de alta frecuencia y baja amplitud que se observan en la corteza cerebral en estado de alerta, atención y actividad mental.
   - Ondas gamma: son ondas de alta frecuencia y baja amplitud que se observan en la corteza cerebral durante procesos cognitivos complejos y de percepción         visual.
+  - Ondas delta: son ondas de baja frecuencia y alta amplitud que se observan típicamente en adultos durante el sueño profundo y en niños pequeños en estado       de vigilia.
 
  </p>
 <p align="center">

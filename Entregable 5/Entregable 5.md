@@ -62,6 +62,7 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 <p align="center">
   
   <img width="200" height="200" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Colocacion%20de%20electrodos%20Bitalino.png">
+  Figura 2. Posición de los electrodos según la guía de Bitalino. [2]
   
   <img width="200" height="200" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG.JPG">
   
@@ -103,3 +104,4 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 ### 7. Conclusiones
 ### 8. Referencias
 [1] “Electroencefalografía (EEG),” Mayo Clinic, 19-Jul-2022. [Online]. Available: https://www.mayoclinic.org/es-es/tests-procedures/eeg/about/pac-20393875. [Accessed: 21-Apr-2023]. 
+[2]. https://bitalino.com/storage/uploads/media/homeguide3-eeg.pdf

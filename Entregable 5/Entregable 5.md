@@ -30,7 +30,7 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 <p align="center">
   
   <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Imagen%20introduccion.JPG">
-  Fig 2. Ondas de EEG. Fuente: Sant Pau Centre Terapèutic
+  
 
   En un EEG se pueden identificar varios tipos de ondas, que se clasifican según su frecuencia y amplitud. Los principales tipos de ondas en un EEG son:
 
@@ -44,7 +44,7 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 <p align="center">
   
   <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Ondas%20EEG.JPG">
-  
+  Fig 2. Ondas de EEG. Fuente: Sant Pau Centre Terapèutic
   
 ### 2. Objetivos de la práctica de laboratorio
   - Adquirir señales biomédicas de EEG.

@@ -68,6 +68,7 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
   
   
   <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG%202.JPG">
+  
 </p>
 <p align="center">
   
@@ -84,6 +85,18 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 |:-------------:|:-------------:|
 | <video src="https://user-images.githubusercontent.com/111662394/233757053-bbe14db2-49b6-4898-bf49-29023e54d6b2.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233757252-d2a2b67d-350c-4cf1-bf2d-aa650f22e1df.mp4" width="100" /> |
 </div>
+  
+  ### Gráficas de EEG obtenidas de Open Signals ploteadas en Python
+  </p>
+<p align="center">
+  
+  <img width="300" height="300" src="">
+  
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG.JPG">
+  
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG%202.JPG">
   
   
   #### Conexión utilizada para EEG en Ultracortex
@@ -111,23 +124,24 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 | <video src="https://user-images.githubusercontent.com/111662394/233791918-ce8af4fd-20f8-4cfa-ac58-97cef2478579.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233792316-d629299e-3580-49fe-8c1a-083616e0440f.mp4" width="100" /> |
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 | Problema matemático 1 | Problema matemático 2|
 |:-------------:|:-------------:|
 | <video src="https://user-images.githubusercontent.com/111662394/233792491-ad66ba3c-f68f-411e-9552-94ac4c98cbf9.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233792593-42a7f976-a05b-4c2d-a794-c6c504c41c1c.mp4" width="100" /> |
 </div>
+
+### Gráficas de EEG obtenidas de OpenBCI GUI ploteadas en Python
+  </p>
+<p align="center">
+  
+  <img width="300" height="300" src="">
+  
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG.JPG">
+  
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG%202.JPG">
+
+
 
 ### 6. Discusión
 En el primer experimento de los ojos cerrados en ambos casos (BiTalino y EEG headset) observamos que las ondas no se ven alteradas a lo largo de los 40 segundos de medicion, esto debido al estado constante  del sujeto de prueba. Las ondas observadas son de aproximadamente 8-12Hz que son consideradas ondas alfa.

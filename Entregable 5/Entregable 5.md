@@ -210,7 +210,13 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
   
   
   <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/eeg_multichannel_CASCO_psd3.png">
-
+  
+### Archivos en Python de EEG usando Ultracortex "Mark IV" EEG headset 
+- [Señal en Python para el PSD del Ultracortex "Mark IV" EEG headset](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/casco_eeg_psd.py)
+  
+- [Señal en Python final del Ultracortex "Mark IV" EEG headset](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/casco_eeg_final.py)
+  
+</p>
 
 
 ### 6. Discusión

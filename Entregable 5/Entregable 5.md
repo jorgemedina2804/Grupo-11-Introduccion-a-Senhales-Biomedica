@@ -117,7 +117,7 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
   - [Archivo de datos EEG cuando se abren y cierran los ojos en intervalos de 5 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/2.%20Intervalos%205%20segundos.txt)
   - [Archivo de datos EEG cuando se hace la resolución de problemas matemáticos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/4.%20Ejercicio%20matematico.txt)
 - [Archivo de datos EEG cuando se pasa un flash por los ojos luego de mantener los ojos vendados](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/5.%20Flash.txt)
-  
+- [Archivo de datos EEG repetición paso 1](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/3.%20Repeticion%20paso%201.txt)  
   
   #### Conexión utilizada para EEG en Ultracortex
   </p>

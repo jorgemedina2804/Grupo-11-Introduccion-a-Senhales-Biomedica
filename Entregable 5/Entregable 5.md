@@ -50,7 +50,7 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
   Fig 2. Ondas de EEG. Fuente: Sant Pau Centre Terapèutic
   
    Los electrodos deben ser posicionados siguiendo el sistema internacional 10/20 para así describir la localización de los electrodos en el usuario. Se le dice 10/20    debido a que al porcentaje (10 y 20) de distancia en la que deben estar colocados los electrodos en la parte frontal, occipital, de lado derecho e izquierda del        cráneo.
-   Cada sitio tiene una letra para identificar el lóbulo y un número para identificar la ubicación del hemisferio:
+   Cada sitio tiene una letra para identificar el lóbulo y un número para identificar la ubicación del hemisferio [2]:
     
    - Electrodo F:Lóbulo Frontal
    - Electrodo T: Lóbulo Temporal
@@ -88,7 +88,7 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 ### 5. Resultados
 ---
   #### Conexión utilizada para EEG en BiTalino
-  Se posicionaron los electrodos en base las guías mencionadas:
+  Se posicionaron los electrodos en base la guía de Bitalino [3]:
   
 </p>
 <p align="center">
@@ -207,4 +207,5 @@ También se puede ver cambios de ondas alpha a beta o gamma por preguntas cognit
   
 ### 8. Referencias
 [1] “Electroencefalografía (EEG),” Mayo Clinic, 19-Jul-2022. [Online]. Available: https://www.mayoclinic.org/es-es/tests-procedures/eeg/about/pac-20393875. [Accessed: 21-Apr-2023]. 
-[2]. https://bitalino.com/storage/uploads/media/homeguide3-eeg.pdf
+[2]. https://fisiologia.facmed.unam.mx/wp-content/uploads/2019/09/UTI-pr%C3%A1ctica-7-a.-Electroencefalograma.-AnexoManual.pdf
+[3]. https://bitalino.com/storage/uploads/media/homeguide3-eeg.pdf

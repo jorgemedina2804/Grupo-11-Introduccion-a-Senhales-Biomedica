@@ -41,7 +41,7 @@ Ondas gamma: son ondas de alta frecuencia y baja amplitud que se observan en la 
  </p>
 <p align="center">
   
-  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Imagen%20introduccion.JPG">
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Ondas%20EEG.JPG">
   
   
 ### 2. Objetivos de la práctica de laboratorio

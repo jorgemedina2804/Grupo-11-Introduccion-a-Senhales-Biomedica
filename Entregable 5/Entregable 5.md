@@ -112,17 +112,15 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 - [Señal cuando se cierra los ojos por 30 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_seccionada_3seg.py)
 - [Señal cuando se abren y cierran los ojos en intervalos de 5 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_completo.py)
 - [Señal cuando se hace la resolución de problemas matemáticos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_prosim_3seg.py)
+- [Señal cuando se pasa un flash por los ojos  luego de mantener los ojos vendados](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_prosim_3seg.py)
 </p>
 
 
   ### Archivos de datos de EEG usando Bitalino 
-  - [Archivo de datos ECG estado basal](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ECG%20tranquilo%20.txt)
-  - [Archivo de datos ECG manteniendo la respiración durante 10 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ecg%2010%20segundos%20respiracion.txt)
-  - [Archivo de datos ECG luego de realizar ejercicio](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ECG%20con%20ejercicio%20.txt)
-  - [Archivo de datos ECG 30 lpm ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/30%20lpm%20pro%20sim.txt)
-  - [Archivo de datos ECG 120 lpm ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/120%20lpm%20pro%20sim.txt)
-  - [Archivo de datos ECG 240 lpm ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/240%20lpm%20pro%20sim.txt)
-  - [Archivo de datos ECG Arritmia Taquicárdica ventricular 200 latidos por minuto ProSim](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Arritmia%20Taq%20vent%20200%20lpm%20prosim.txt)
+  - [Archivo de datos EEG cuando se cierra los ojos por 30 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ECG%20tranquilo%20.txt)
+  - [Archivo de datos EEG cuando se abren y cierran los ojos en intervalos de 5 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ecg%2010%20segundos%20respiracion.txt)
+  - [Archivo de datos EEG cuando se hace la resolución de problemas matemáticos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ECG%20con%20ejercicio%20.txt)
+- [Archivo de datos EEG cuando se pasa un flash por los ojos luego de mantener los ojos vendados]
   
   
   #### Conexión utilizada para EEG en Ultracortex

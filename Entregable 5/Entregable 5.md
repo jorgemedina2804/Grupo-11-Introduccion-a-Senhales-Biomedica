@@ -90,14 +90,17 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
   </p>
 <p align="center">
   
-  <img width="300" height="300" src="">
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/EEG%20Open%20Signals%2030%20segundos.jpeg">
   
   
-  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG.JPG">
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/EEG%20Open%20Signals%20Intervalo%205%20segundos.jpeg">
   
   
-  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG%202.JPG">
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/EEG%20Open%20Signals%20Ejercicio%20matematico.jpeg">
   
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/EEG%20Open%20Signals%20Flash.jpeg">
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/EEG%20Open%20Signals%20Repeticion%20paso%201.jpeg">
   
   #### Conexión utilizada para EEG en Ultracortex
   </p>

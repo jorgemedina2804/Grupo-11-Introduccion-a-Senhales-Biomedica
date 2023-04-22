@@ -81,9 +81,13 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 
 
 
+
+
+
+
 | Problema matemático | Flash luego de tener los ojos tapados|
 |:-------------:|:-------------:|
-| <video src="https://user-images.githubusercontent.com/111662394/233757053-bbe14db2-49b6-4898-bf49-29023e54d6b2.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233755503-6f94f7fe-c1f0-48b7-8226-2329ed39e6d0.mp4" width="100" /> |
+| <video src="https://user-images.githubusercontent.com/111662394/233757053-bbe14db2-49b6-4898-bf49-29023e54d6b2.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233757252-d2a2b67d-350c-4cf1-bf2d-aa650f22e1df.mp4" width="100" /> |
 </div>
   
   

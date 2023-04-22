@@ -216,6 +216,8 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
   
 - [Señal en Python final del Ultracortex "Mark IV" EEG headset](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/casco_eeg_final.py)
   
+### Archivos de datos de EEG usando Bitalino 
+  - [Archivo de datos EEG usando Ultracortex "Mark IV" EEG headset](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Datos%20Ultracortex.txt) 
 </p>
 
 

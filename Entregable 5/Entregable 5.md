@@ -55,8 +55,11 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 
 ### 5. Resultados
 ---
-  #### Conexión utilizada
+  #### Conexión utilizada para ECG en BiTalino
   Se posicionaron los electrodos en base las guías mencionadas:
+  
+  #### Conexión utilizada para ECG en Ultracortex
+  
 </div>
 </p>
 

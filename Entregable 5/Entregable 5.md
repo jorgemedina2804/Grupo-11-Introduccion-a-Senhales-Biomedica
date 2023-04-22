@@ -62,9 +62,12 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 <p align="center">
   
   <img width="200" height="200" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Colocacion%20de%20electrodos%20Bitalino.png">
+  
   Figura 2. Posición de los electrodos según la guía de Bitalino. [2]
   
+  
   <img width="200" height="200" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG.JPG">
+  
   
   <img width="200" height="200" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG%202.JPG">
 </p>

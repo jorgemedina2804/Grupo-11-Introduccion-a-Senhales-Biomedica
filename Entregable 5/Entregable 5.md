@@ -177,6 +177,12 @@ En el tercer caso mientras se le esta haciendo la pregunta al sujeto de prueba s
 En el cuarto experimento realizado solo para para el caso del bitalino mientras el sujeto esta con los ojos completamente tapados se observa un estado basal constante, el cual se ve alterado al momento de retirar la benda y exposicion al flash. Este es un cambio sumamente notorio en la amplitud y frecuencia, incluso superior al de las ondas mientras se estan respondiendo las preguntas. Esto pude ser debido al cambio repentino de exposicion a la luz ya que luego de unos segudos se observa que las ondas si bien no estan en estado basal, si se mantienen constantes con una frecuencia superior a las ondas alfa.
 
 ### 7. Conclusiones
+  
+Mediante las pruebas realizadas se pueden verificar que mediante estímulos sensitivos como la prueba de la luz o el abrir y cerrar los ojos se pasa del estado basal (ondas alpha) a un estado de concentracion (ondas beta)
+También se puede ver cambios de ondas alpha a beta o gamma por preguntas cognitivas, esto se debe a que los lóbulos frontales y temporales, las cuales están relacionadas con la cognición y memoria, aumentan su actividad neuronal para las respuestas matemáticas mientras que en las pruebas sensitivas visuales se puede ver un aumenta de la actividad cerebral, específicamente del área sensitiva visual la cual se encuentra en el lóbulo parietal 
+  
+  
+  
 ### 8. Referencias
 [1] “Electroencefalografía (EEG),” Mayo Clinic, 19-Jul-2022. [Online]. Available: https://www.mayoclinic.org/es-es/tests-procedures/eeg/about/pac-20393875. [Accessed: 21-Apr-2023]. 
 [2]. https://bitalino.com/storage/uploads/media/homeguide3-eeg.pdf

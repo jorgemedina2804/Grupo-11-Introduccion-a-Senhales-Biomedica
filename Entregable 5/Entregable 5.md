@@ -38,8 +38,8 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
   - Ondas theta: son ondas de frecuencia intermedia que se observan durante el sueño ligero y en algunas condiciones patológicas, como en casos de lesiones       cerebrales o trastornos del sueño.
   - Ondas alfa: son ondas de frecuencia media que se observan en la corteza cerebral en estado de reposo y relajación, con los ojos cerrados.
   - Ondas beta: son ondas de alta frecuencia y baja amplitud que se observan en la corteza cerebral en estado de alerta, atención y actividad mental.
-  - Ondas gamma: son ondas de alta frecuencia y baja amplitud que se observan en la corteza cerebral durante procesos cognitivos complejos y de percepción         visual.
-  - Ondas delta: son ondas de baja frecuencia y alta amplitud que se observan típicamente en adultos durante el sueño profundo y en niños pequeños en estado       de vigilia.
+  - Ondas gamma: son ondas de alta frecuencia y baja amplitud que se observan en la corteza cerebral durante procesos cognitivos complejos y de percepción                 visual.
+  - Ondas delta: son ondas de baja frecuencia y alta amplitud que se observan típicamente en adultos durante el sueño profundo y en niños pequeños en estado       de       vigilia.
 
  </p>
 <p align="center">
@@ -49,6 +49,15 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
   <p align="center">
   Fig 2. Ondas de EEG. Fuente: Sant Pau Centre Terapèutic
   
+   Los electrodos deben ser posicionados siguiendo el sistema internacional 10/20 para así describir la localización de los electrodos en el usuario. Se le dice 10/20    debido a que al porcentaje (10 y 20) de distancia en la que deben estar colocados los electrodos en la parte frontal, occipital, de lado derecho e izquierda del        cráneo.
+   Cada sitio tiene una letra para identificar el lóbulo y un número para identificar la ubicación del hemisferio:
+    
+    - Electrodo F:Lóbulo Frontal
+    - Electrodo T: Lóbulo Temporal
+    - Electrodo C: Lóbulo Central 
+    - Electrodo P: Lóbulo Parietal
+    - Electrodo O: Lóbulo Occipital 
+    
 ### 2. Objetivos de la práctica de laboratorio
   - Adquirir señales biomédicas de EEG.
   - Hacer una correcta configuración de BiTalino y Ultracortex

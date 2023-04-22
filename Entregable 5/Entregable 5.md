@@ -57,9 +57,15 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 ---
   #### Conexión utilizada para ECG en BiTalino
   Se posicionaron los electrodos en base las guías mencionadas:
+  
+</p>
+<p align="center">
+  
   <img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG.JPG">
   
   <img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG%202.JPG">
+</p>
+<p align="center">
   
   #### Conexión utilizada para ECG en Ultracortex
   

@@ -98,10 +98,15 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 
 <p align="justify">
 Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, luego realizar los siguientes pasos:
+  
 - Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal, sin movimientos oculares/ojos cerrados) durante 30 segundos.
+  
 - Repetir un ciclo de ojos abiertos - ojos cerrados cinco veces, manteniendo ambas fases durante cinco segundos.
+  
 - Registrar otra fase de referencia de 30 segundos (paso 1).
+  
 - Un compañeros lee en voz alta una serie de ejercicios matemáticos y quien tiene los electrodos resuelve cada uno de ellos mentalmente enfocando su     mirada en un punto específico para evitar artefactos (el tiempo entre pregunta y pregunta es de 12 segundos)
+  
 - Cubrir los ojos con un objeto por 60 segundos y luego realizar fotoestimulación con el flash de un celular (realizar barridos de lado a lado)
 
 ### 5. Resultados

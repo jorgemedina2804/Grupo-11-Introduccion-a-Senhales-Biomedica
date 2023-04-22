@@ -25,7 +25,13 @@
 ### 1. Introducción
   El electroencefalograma (EEG) es un estudio que mide la actividad eléctrica en el cerebro mediante pequeños discos de metal (electrodos) colocados sobre el cuero cabelludo. Las neuronas cerebrales se comunican a través de impulsos eléctricos y están activas todo el tiempo, incluso mientras duermes. Esta actividad se manifiesta como líneas onduladas en un registro electroencefalográfico [1]
 Un electroencefalograma es uno de los estudios principales para diagnosticar o tratar la epilepsia, encefalopatías, tumores cerebrales, accidentes cerebrovasculares, entre otros. [1]
+  
+  </p>
+<p align="center">
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Imagen%20introduccion.JPG">
 
+  
 ### 2. Objetivos de la práctica de laboratorio
   - Adquirir señales biomédicas de EEG.
   - Hacer una correcta configuración de BiTalino y Ultracortex

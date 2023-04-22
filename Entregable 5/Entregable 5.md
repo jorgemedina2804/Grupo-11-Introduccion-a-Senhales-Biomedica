@@ -109,12 +109,8 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
   <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/EEG%20Open%20Signals%20Repeticion%20paso%201.jpeg">
   
   ### Archivos en Python de EEG usando Bitalino 
-- [Señal cuando se cierra los ojos por 30 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_seccionada_3seg.py)
-- [Señal cuando se abren y cierran los ojos en intervalos de 5 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_completo.py)
-- [Señal cuando se hace la resolución de problemas matemáticos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_prosim_3seg.py)
-- [Señal cuando se pasa un flash por los ojos  luego de mantener los ojos vendados](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ploteo_ecg_prosim_3seg.py)
+- [Señal en Python para todos los ejercicios en Bitalino](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/bitalino_eeg.py)
 </p>
-
 
   ### Archivos de datos de EEG usando Bitalino 
   - [Archivo de datos EEG cuando se cierra los ojos por 30 segundos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/ECG%20tranquilo%20.txt)

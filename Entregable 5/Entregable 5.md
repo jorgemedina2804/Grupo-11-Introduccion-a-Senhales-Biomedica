@@ -66,6 +66,8 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
   <img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Bitalino%20EEG%202.JPG">
 </p>
 <p align="center">
+  #### Videos de ECG en BiTalino
+  
   
   #### Conexión utilizada para ECG en Ultracortex
   

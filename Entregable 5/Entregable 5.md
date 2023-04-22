@@ -46,7 +46,7 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 </p>  
   
 ### 4. Procedimiento
-- Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, luego realizar los siguientes pasos:
+Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, luego realizar los siguientes pasos:
 - Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal, sin movimientos oculares/ojos cerrados) durante 30 segundos.
 - Repetir un ciclo de ojos abiertos - ojos cerrados cinco veces, manteniendo ambas fases durante cinco segundos.
 - Registrar otra fase de referencia de 30 segundos (paso 1).

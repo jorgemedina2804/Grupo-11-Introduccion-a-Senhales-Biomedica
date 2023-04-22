@@ -30,7 +30,8 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 <p align="center">
   
   <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Imagen%20introduccion.JPG">
-  
+  <p align="center">
+   Fig 1. Descripción general de un electroencefalograma. Fuente: Mayo Clinic
 
   En un EEG se pueden identificar varios tipos de ondas, que se clasifican según su frecuencia y amplitud. Los principales tipos de ondas en un EEG son:
 

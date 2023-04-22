@@ -23,6 +23,9 @@
 8. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md#8-referencias)
   
 ### 1. Introducción
+  
+  <p align="justify">
+    
   El electroencefalograma (EEG) es un estudio que mide la actividad eléctrica en el cerebro mediante pequeños discos de metal (electrodos) colocados sobre el cuero cabelludo. Las neuronas cerebrales se comunican a través de impulsos eléctricos y están activas todo el tiempo, incluso mientras duermes. Esta actividad se manifiesta como líneas onduladas en un registro electroencefalográfico [1]
 Un electroencefalograma es uno de los estudios principales para diagnosticar o tratar la epilepsia, encefalopatías, tumores cerebrales, accidentes cerebrovasculares, entre otros. [1]
   
@@ -33,6 +36,8 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
   <p align="center">
    Fig 1. Descripción general de un electroencefalograma. Fuente: Mayo Clinic
 
+    
+    <p align="justify">
   En un EEG se pueden identificar varios tipos de ondas, que se clasifican según su frecuencia y amplitud. Los principales tipos de ondas en un EEG son:
 
   - Ondas theta: son ondas de frecuencia intermedia que se observan durante el sueño ligero y en algunas condiciones patológicas, como en casos de lesiones       cerebrales o trastornos del sueño.
@@ -49,6 +54,8 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
   <p align="center">
   Fig 2. Ondas de EEG. Fuente: Sant Pau Centre Terapèutic
   
+    
+   <p align="justify">
    Los electrodos deben ser posicionados siguiendo el sistema internacional 10/20 para así describir la localización de los electrodos en el usuario. Se le dice 10/20    debido a que al porcentaje (10 y 20) de distancia en la que deben estar colocados los electrodos en la parte frontal, occipital, de lado derecho e izquierda del        cráneo.
    Cada sitio tiene una letra para identificar el lóbulo y un número para identificar la ubicación del hemisferio [2]:
     
@@ -87,6 +94,8 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 </p>  
   
 ### 4. Procedimiento
+
+<p align="justify">
 Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, luego realizar los siguientes pasos:
 - Registrar una línea base de señal con poco ruido y sin movimientos (respiración normal, sin movimientos oculares/ojos cerrados) durante 30 segundos.
 - Repetir un ciclo de ojos abiertos - ojos cerrados cinco veces, manteniendo ambas fases durante cinco segundos.
@@ -199,6 +208,8 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 
 
 ### 6. Discusión
+  
+ <p align="justify">
 En el primer experimento de los ojos cerrados en ambos casos (BiTalino y EEG headset) observamos que las ondas no se ven alteradas a lo largo de los 40 segundos de medicion, esto debido al estado constante  del sujeto de prueba. Las ondas observadas son de aproximadamente 8-12Hz que son consideradas ondas alfa.
 
 En el segundo experimento las ondas en ambos caso, al pasar de ojos cerrados a ojos abiertos y viceversa, se ven ligeramente alteradas con picos superiores e inferiores con amplitud de aproximadamente el doble del estado basal, esto coincidiendo con el cambio de estado.
@@ -209,6 +220,7 @@ En el cuarto experimento realizado solo para para el caso del bitalino mientras 
 
 ### 7. Conclusiones
   
+ <p align="justify">
 Mediante las pruebas realizadas se pueden verificar que mediante estímulos sensitivos como la prueba de la luz o el abrir y cerrar los ojos se pasa del estado basal (ondas alpha) a un estado de concentracion (ondas beta)
 También se puede ver cambios de ondas alpha a beta o gamma por preguntas cognitivas, esto se debe a que los lóbulos frontales y temporales, las cuales están relacionadas con la cognición y memoria, aumentan su actividad neuronal para las respuestas matemáticas mientras que en las pruebas sensitivas visuales se puede ver un aumenta de la actividad cerebral, específicamente del área sensitiva visual la cual se encuentra en el lóbulo parietal 
   

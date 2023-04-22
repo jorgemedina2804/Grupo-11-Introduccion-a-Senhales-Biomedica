@@ -55,7 +55,7 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 
 ### 5. Resultados
 ---
-  #### Conexión utilizada para ECG en BiTalino
+  #### Conexión utilizada para EEG en BiTalino
   Se posicionaron los electrodos en base las guías mencionadas:
   
 </p>
@@ -71,7 +71,7 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 </p>
 <p align="center">
   
-  #### Videos de ECG en BiTalino
+  #### Videos de EEG en BiTalino
   </p>
 
 | Ojos cerrados | Intervalo 5 segundos ojos abiertos/ojos cerrados |
@@ -95,7 +95,7 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 </div>
   
   
-  #### Conexión utilizada para ECG en Ultracortex
+  #### Conexión utilizada para EEG en Ultracortex
   </p>
 <p align="center">
   

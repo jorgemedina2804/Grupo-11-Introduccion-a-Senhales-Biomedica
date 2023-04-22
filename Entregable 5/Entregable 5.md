@@ -24,6 +24,11 @@
   
 ### 1. Introducción
 ### 2. Objetivos de la práctica de laboratorio
+  
+- Adquirir señales biomédicas de EEG.
+- Hacer una correcta configuración de BiTalino y Ultracortex
+- Extraer la información de las señales ECG del software OpenSignals (r)evolution y OpenBCI GUI
+  
 ### 3. Materiales y equipos
 ### 4. Procedimiento
 ### 5. Resultados

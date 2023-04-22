@@ -41,7 +41,8 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 | <img width="200" height="250" src="https://cdn.shopify.com/s/files/1/0613/9353/products/DSC02861_900x.jpg?v=1652731236"> |      Ultracortex "Mark IV" EEG headset      |       1      |
 
 
-  
+</div>
+</p>  
   
 ### 4. Procedimiento
 ### 5. Resultados

@@ -120,9 +120,13 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 
 
 
+
+
+
+
 | Problema matemático 1 | Problema matemático 2|
 |:-------------:|:-------------:|
-| <video src="https://user-images.githubusercontent.com/111662394/233792491-ad66ba3c-f68f-411e-9552-94ac4c98cbf9.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233757252-d2a2b67d-350c-4cf1-bf2d-aa650f22e1df.mp4" width="100" /> |
+| <video src="https://user-images.githubusercontent.com/111662394/233792491-ad66ba3c-f68f-411e-9552-94ac4c98cbf9.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233792593-42a7f976-a05b-4c2d-a794-c6c504c41c1c.mp4" width="100" /> |
 </div>
 
 ### 6. Discusión

@@ -63,7 +63,7 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
   <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Posicion%20casco%20para%20EEG%20intro.JPG">
   
   <p align="center">
-  Fig 3. Ondas de EEG. Fuente: Sant Pau Centre Terapèutic
+  Fig 3. Localización de electrodos siguiendo el sistema 10/20. Fuente: Facultad de Medicina UNAM
     
     
     

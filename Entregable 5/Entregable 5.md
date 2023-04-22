@@ -76,9 +76,9 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
 </div>
 
 
-| Ejercicio complejo |     Problema matemático     |
-| ------------ |  :------------------------------------: |
-|[![Alt text](https://user-images.githubusercontent.com/89707896/233475103-641c8ac2-f9cc-4e0e-852a-472243cdac1a.png)](https://www.youtube.com/watch?v=4BzJMYcEY1Q) | [![Alt text](https://user-images.githubusercontent.com/89707896/233475711-3b68ac28-3830-48b7-a954-9d2bc0fd9f28.png)](https://www.youtube.com/watch?v=nz4uyiFYvuM)  |
+| Problema matemático | Flash luego de tener los ojos tapados|
+|:-------------:|:-------------:|
+| <video src="https://user-images.githubusercontent.com/111662394/233754931-c9a684fc-7e02-4849-a4a8-a1949985ab3b.mp4" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233755503-6f94f7fe-c1f0-48b7-8226-2329ed39e6d0.mp4" width="100" /> |
 </div>
   
   

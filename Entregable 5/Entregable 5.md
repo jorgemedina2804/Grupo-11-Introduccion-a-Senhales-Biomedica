@@ -44,6 +44,8 @@ Un electroencefalograma es uno de los estudios principales para diagnosticar o t
 <p align="center">
   
   <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Ondas%20EEG.JPG">
+  
+  <p align="center">
   Fig 2. Ondas de EEG. Fuente: Sant Pau Centre Terapèutic
   
 ### 2. Objetivos de la práctica de laboratorio

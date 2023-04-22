@@ -203,6 +203,12 @@ Ubicar los electrodos según el Sistema Internacional de Posicionamiento 10/20, 
   </p>
 <p align="center">
   
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/eeg_multichannel_CASCO_1.png">
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/eeg_multichannel_CASCO_2.png">
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/eeg_multichannel_CASCO_3.png">
+  
   <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/eeg_multichannel_CASCO_psd1.png">
   
   

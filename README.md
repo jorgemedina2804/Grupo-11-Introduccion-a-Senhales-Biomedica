@@ -58,6 +58,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 
 Se resume en esta sección los avances semanales del proyecto.
 ### Entregables de laboratorios
-  - [Laboratorio 3](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md)
-  - [Laboratorio 4](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md)
-  - [Laboratorio 5](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md)
+  - [Laboratorio 3 - EMG](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%203/Entregable3.md)
+  - [Laboratorio 4- ECG](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md)
+  - [Laboratorio 5- EEG](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md)
+  - [Laboratorio 6- Creación de data tabular de la señales fisiológicas obtenidas en los laboratorios]

@@ -15,7 +15,14 @@
 8. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#8-referencias)
 
 ### 1. Introducción 
+  
+  
 ### 2. Objetivos de la práctica de laboratorio 
+  Objetivos
+  Diseñar un filtro FIR usando el dataset de ECG obtenido el laboratorio pasado
+  Diseñar un filtro IIR usando el dataset de ECG obtenido el laboratorio pasado
+  Comparar la señal cruda con la señal filtrada.
+
 ### 3. Materiales y equipos
 ### 4. Procedimiento
 ### 5. Resultados

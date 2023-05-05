@@ -13,3 +13,12 @@
 6. [Discusión]
 7. [Conclusiones]
 8. [Referencias]
+
+### 1. Introducción
+### 2. Objetivos de la práctica de laboratorio
+### 3. Materiales y equipos
+### 4. Procedimiento
+### 5. Resultados
+### 6. Discusión
+### 7. Conclusiones
+  

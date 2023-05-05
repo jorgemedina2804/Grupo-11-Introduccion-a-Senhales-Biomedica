@@ -15,7 +15,12 @@
 8. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#8-referencias)
 
 ### 1. Introducción 
+  Los filtros son 
   
+  Los filtros pueden ser divididos en dos grandes grupos: filtros analógicos y filtros digitales
+  
+   #### Filtros analógicos
+   #### Filtros digitales
   
 ### 2. Objetivos de la práctica de laboratorio 
   - Objetivos

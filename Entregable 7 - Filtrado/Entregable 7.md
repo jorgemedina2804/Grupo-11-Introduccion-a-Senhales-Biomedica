@@ -156,7 +156,8 @@ En el espectro de frecuencias de nuestra señal ECG podemos ver una señal no co
 Fig 8. Espectro de frecuencias adquiridas pre filtrado Notch en el caso de estado basal
 
 ### 7. Conclusiones    
-  
+La importancia de analizar una señal en el dominio de la frecuencia es que nos permite reconocer interferencias para poder ser eliminados por filtro de tipo FIR o IIR, en nuestro caso hemos concluido que el filtro IIR es más eficiente para poder eliminar interferencias en una señal ECG
+
 ### 8. Referencias  
     
 [1].  J. G. Proakis and D. G. Manolakis, “5.4 Sistemas LTI como filtros de frecuencia,” in Tratamiento Digital De Señales, Madrid: Pearson Educación, 2009. 

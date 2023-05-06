@@ -36,7 +36,7 @@
   
 <p align="center">
   
-Figura 1. Representación gráfica de los filtros analógicos
+  Figura 1. Representación gráfica de los filtros analógicos
 
 
 

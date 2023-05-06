@@ -117,11 +117,13 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 |----------|----------|----------|
 | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645760-490bfce3-9249-4dee-ad58-b9d0bfad6881.JPG"> | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645797-03adc3da-67ea-43d9-abbe-45b809ae425e.JPG"> |
 
-| Señal Cruda | Transformada Rápida de Fourier - Espectro de frecuencias |Transformada Rápida de Fourier - Espectro de fase | 
+| Filtrado Normal con Pasabajas | Filtrado "filtfilt" |Transformada Rápida de Fourier - Espectro de fase | 
 |----------|----------|----------|
-| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645627-220b593b-3b3f-4952-b7d5-64db63017667.JPG"> | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645669-75dc4ca7-0b3e-41ef-94c9-4a4ae938d22a.JPG"> |
+| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645627-220b593b-3b3f-4952-b7d5-64db63017667.JPG"> | 
 
-
+| Espectro de frecuencias post filtrado  |Espectro de fase post filtrado | 
+|----------|----------|
+| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645760-490bfce3-9249-4dee-ad58-b9d0bfad6881.JPG"> | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645797-03adc3da-67ea-43d9-abbe-45b809ae425e.JPG"> |
 
 
 |Filtrado Normal con Pasabajas | Filtrado "filtfilt"|

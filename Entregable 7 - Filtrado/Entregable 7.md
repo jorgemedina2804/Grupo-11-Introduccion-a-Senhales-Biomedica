@@ -34,7 +34,7 @@
   
   <img src="https://user-images.githubusercontent.com/111662394/236588405-fa6b201a-70a1-45f3-9b8f-a22d08961336.JPG" width="50%">  
   <p align="center">
-   Fig 1. Descripción general de un electroencefalograma. Fuente: Mayo Clinic
+   Fig 1. Representación gráfica de los filtros analógicos
 
 
 

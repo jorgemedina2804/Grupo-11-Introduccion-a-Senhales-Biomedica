@@ -111,9 +111,9 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 ### 5. Resultados
 
-| Campo | Señal Cruda | Filtro Notch | Filtro  | Filtro |
+| Campo | Señal Cruda | Transformada Rápida de Fourier | Filtro  | Filtro |
 |----------|----------|----------|----------|----------|
-| Basal    | <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |  <img width="300" height="150" src="">    | <img width="300" height="150" src="">     | <img width="300" height="150" src="">     |
+| Basal    | <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |  <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637657-f37d08e4-0867-462e-bb92-042425a4e645.png">    | <img width="300" height="150" src="">     | <img width="300" height="150" src="">     |
 | Post-Ejercicio    | <img width="300" height="150" src="">  |       <img width="300" height="150" src="">        |       <img width="300" height="150" src="">           |       <img width="300" height="150" src="">           |
 | Respiracion   | <img width="300" height="150" src="">  |       <img width="300" height="150" src="">        |       <img width="300" height="150" src="">           |       <img width="300" height="150" src="">           |
 

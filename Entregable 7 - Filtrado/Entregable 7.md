@@ -99,6 +99,8 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
 ### 4. Procedimiento
 
 Se sigue el procedimiento establecido por la guía del laboratorio 7 proporcionada por el curso: 
+
+
 **Filtros IIR**
 
 

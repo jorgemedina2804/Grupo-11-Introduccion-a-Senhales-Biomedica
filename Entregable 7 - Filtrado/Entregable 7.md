@@ -126,6 +126,8 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646213-56e15138-a062-49cb-abe2-11d34db1378a.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646484-84e86aea-0a2a-4791-af87-859d8c9a8644.JPG"> |
 
 
+  #### Ejercicio
+  #### Respiración
 
 
 
@@ -133,7 +135,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 
 
-El resto de imágenes pueden ser encontradas en los siguientes notebooks:
+
 
 [Notebook Estado Basal](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Notebooks/Laboratorio_7_BASAL.ipynb)
 

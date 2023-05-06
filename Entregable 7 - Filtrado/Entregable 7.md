@@ -118,7 +118,9 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 | Post-Ejercicio    | <img width="150" height="150" src="">  | <img width="150" height="150" src="">        |       <img width="150" height="150" src="">           |       <img width="150" height="150" src="">           |<img width="150" height="150" src="">|
 | Respiracion   | <img width="150" height="150" src="">  |       <img width="150" height="150" src="">        |       <img width="150" height="150" src="">           |       <img width="150" height="150" src="">           |<img width="150" height="150" src="">|
 
-El resto de imágenes pueden ser encontradas en los siguientes notebooks
+
+
+El resto de imágenes pueden ser encontradas en los siguientes notebooks:
 
 [Notebook Estado Basal](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Notebooks/Laboratorio_7_BASAL.ipynb)
 

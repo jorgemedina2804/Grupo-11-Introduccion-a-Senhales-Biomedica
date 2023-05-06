@@ -115,7 +115,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 | Señal Cruda | Transformada Rápida de Fourier | Filtro Notch  | 
 |----------|----------|----------|
-| <img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> | 
+| <img width="300" height="300" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> | | <img width="300" height="300" src="https://user-images.githubusercontent.com/111662394/236645322-a04cf7a1-9911-4a31-a576-8d1a15a42b85.png"> |
 
 
 |Filtrado Normal con Pasabajas | Filtrado "filtfilt"|
@@ -134,6 +134,7 @@ Una de las importancias de analizar un ECG en el dominio del tiempo es más efic
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/111662394/236633822-67f601bd-8823-4493-bf9b-c8a83417ddce.JPG" width="50%">
+
 
 <p align="center">
 Fig 5. Espectro de la señal ECG, ruido de línea de potencia eléctrica y de la señal compuesta por la suma de ambas señales. 

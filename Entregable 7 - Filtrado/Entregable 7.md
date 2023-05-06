@@ -125,6 +125,11 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 |----------|----------|
 | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646213-56e15138-a062-49cb-abe2-11d34db1378a.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646484-84e86aea-0a2a-4791-af87-859d8c9a8644.JPG"> |
 
+<p align="center">
+  
+  <img src="https://user-images.githubusercontent.com/111662394/236647588-1b11a65f-8f14-4dba-bb28-87f8258509f7.png" width="50%"> 
+
+  
 
 
   #### Ejercicio

@@ -20,13 +20,13 @@
   Los filtros pueden ser divididos en dos grandes grupos: filtros analógicos y filtros digitales
   
    **Filtros analógicos**: Un filtro analógico es usado para señales en tiempo continuo, se pueden clasificar en filtros pasivos o activos de acuerdo al tipo de elementos que se utilizan [1]. Hay cuatro tipos básicos de filtros: 
-  - Filtro pasa-bajas: permite el paso de todas las frecuencias menores a la 
+  - **Filtro pasa-bajas:** permite el paso de todas las frecuencias menores a la 
     frecuencia de corte, atenuando aquellas que son mayores a esta última.
-  - Filtro pasa-altas: atenúa todas las frecuencias bajas y permite el paso de 
+  - **Filtro pasa-altas:** atenúa todas las frecuencias bajas y permite el paso de 
     aquellas por encima de la frecuencia de corte.
-  - Filtro pasa-bandas: deja pasar las frecuencias comprendidas entre 
+  - **Filtro pasa-bandas:** deja pasar las frecuencias comprendidas entre 
     la frecuencia de corte inferior y la frecuencia de corte superior, atenuando las demás.
-  - Filtro rechaza-bandas: atenúa las frecuencias comprendidas entre la 
+  - **Filtro rechaza-bandas:** atenúa las frecuencias comprendidas entre la 
     frecuencia de corte inferior y la frecuencia de corte superior, dejando pasar las demás [2]
   
   
@@ -37,10 +37,10 @@
    Fig 1. Representación gráfica de los filtros analógicos
    
    Los filtros activos se pueden clasificar, de acuerdo a la aproximación matemática empleada, en:
-  - Butterworth: tiene objetivo una respuesta de ganancia plana en la banda de paso. Esto se consigue mediante una región de transición de caída lenta y una respuesta       de fase no lineal alrededor de la frecuencia de corte
-  - Chebyshev: tiene como objetivo maximizar la pendiente de la característica de ganancia en la región de transición. Presenta un cierto rizado en la banda de paso,       que se incrementa al aumentar el orden de filtro.
-  - Bessel: tiene como objetivo lograr una respuesta de fase lineal en un margen de frecuencias amplio en torno a la frecuencia de corte. La ganancia en la banda de         paso no es tan plana como en un filtro Butterworth ni la pendiente en la banda de transición tan acentuada como en un filtro Chebyshev
-  - Elíptica: se caracteriza por tener ondulaciones constantes tanto en la banda de paso como en la banda de corte. [2]
+  - **Butterworth:** tiene objetivo una respuesta de ganancia plana en la banda de paso. Esto se consigue mediante una región de transición de caída lenta y una respuesta       de fase no lineal alrededor de la frecuencia de corte
+  - **Chebyshev:** tiene como objetivo maximizar la pendiente de la característica de ganancia en la región de transición. Presenta un cierto rizado en la banda de paso,       que se incrementa al aumentar el orden de filtro.
+  - **Bessel:** tiene como objetivo lograr una respuesta de fase lineal en un margen de frecuencias amplio en torno a la frecuencia de corte. La ganancia en la banda de         paso no es tan plana como en un filtro Butterworth ni la pendiente en la banda de transición tan acentuada como en un filtro Chebyshev
+  - **Elíptica:** se caracteriza por tener ondulaciones constantes tanto en la banda de paso como en la banda de corte. [2]
 
   <p align="center">
   

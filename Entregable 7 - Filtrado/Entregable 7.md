@@ -133,10 +133,12 @@ Fig 6. Amplitud de rango de frecuencias de algunas señales biomedicas
   
 Otra de las ventajas de analizar una señal en el dominio de la frecuencia es que es más fácil reconocer interferencias o ruidos no deseados. La siguiente imagen muestra las interferencias más comunes en un ECG las cuales son el movimiento, ruido muscular o por la corriente eléctrica.
 
+  
 <p align="center">
 <img src="https://user-images.githubusercontent.com/111662394/236633897-16a83d67-629d-4a9f-9029-f8a076f76c0c.jpeg" width="50%">
 
-
+<p align="center">
+Fig 7. Espectro de frecuencias de una señal ECG, complejo QRS y algunos tipos de ruido
 
 ### 7. Conclusiones
 ### 8. Referencias  

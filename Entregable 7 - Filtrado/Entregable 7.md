@@ -113,7 +113,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 | Campo | Señal Cruda | Filtro Notch | Filtro  | Filtro |
 |----------|----------|----------|----------|----------|
-| Basal    | <img width="300" height="150" src=""> |  <img width="300" height="150" src="">    | <img width="300" height="150" src="">     | <img width="300" height="150" src="">     |
+| Basal    | <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |  <img width="300" height="150" src="">    | <img width="300" height="150" src="">     | <img width="300" height="150" src="">     |
 | Post-Ejercicio    | <img width="300" height="150" src="">  |       <img width="300" height="150" src="">        |       <img width="300" height="150" src="">           |       <img width="300" height="150" src="">           |
 | Respiracion   | <img width="300" height="150" src="">  |       <img width="300" height="150" src="">        |       <img width="300" height="150" src="">           |       <img width="300" height="150" src="">           |
 

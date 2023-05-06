@@ -62,4 +62,4 @@ Se resume en esta sección los avances semanales del proyecto.
   - [Laboratorio 4- ECG](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%204/Entregable4.md)
   - [Laboratorio 5- EEG](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%205/Entregable%205.md)
   - [Laboratorio 6- Creación de data tabular de la señales fisiológicas obtenidas en los laboratorios](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main/Entregable%206-%20Creaci%C3%B3n%20de%20data%20tabular%20de%20la%20se%C3%B1ales%20fisiol%C3%B3gicas%20obtenidas%20en%20los%20laboratorios)
-  - [Laboratorio 7- Filtrado de la data tabular de la señales fisiológicas obtenidas en los laboratorios]
+  - [Laboratorio 7- Filtrado de la data tabular de la señales fisiológicas obtenidas en los laboratorios](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main/Entregable%207%20-%20Filtrado)

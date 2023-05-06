@@ -135,7 +135,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 | Filtrado Normal con Pasabajas | Filtrado "filtfilt" | 
 |----------|----------|
-| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646083-1f569069-4ce9-47e7-b626-8ba862e95453.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646101-97d55bcd-75ed-41c6-958a-6b106ea79f6d.png"> | 
+| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646705-49724c5c-f81b-4f5d-b61f-796f4c963505.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646101-97d55bcd-75ed-41c6-958a-6b106ea79f6d.png"> | 
 
 | Espectro de frecuencias post filtrado  |Espectro de fase post filtrado | 
 |----------|----------|

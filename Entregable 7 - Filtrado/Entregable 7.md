@@ -95,7 +95,11 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
 ### 7. Conclusiones
 ### 8. Referencias  
 [1]. “INTRODUCCIÓN A FILTROS ANALÓGICOS CAPÍTULO 1.” Available: http://catarina.udlap.mx/u_dl_a/tales/documentos/lem/torres_d_ld/capitulo1.pdf
+    
 [2]. A, Perez Garcia et al. (2014) Instrumentación Electrónica. Madrid: Paraninfo. 
+    
 [3]. D, Ballesteros & D,Torres (2018) Introducción a los filtros digitales. EE.UU: Redipe.
+    
 [4]. “Electrónica II - Bioingeniería -1ra. Parte Filtros Analógicos” Disponible en: http://dea.unsj.edu.ar/pdselo/Apuntes/Filtros-analogicos-1ra-parte.pdf
+    
 [5].Roshni Y, “Difference Between FIR Filter and IIR Filter (with Comparison chart) - Circuit Globe,” Circuit Globe, Mar. 24, 2020. https://circuitglobe.com/difference-between-fir-filter-and-iir-filter.html (accessed May 05, 2023). 

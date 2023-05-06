@@ -88,6 +88,12 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
   - Comparar la señal cruda con la señal filtrada.
 
 ### 3. Materiales y equipos
+    
+|  **Imagen**  | **Producto** | **Cantidad** |
+|:------------:|:---------------:|:------------:|
+| <img width="200" height="150" src="https://i.postimg.cc/VvLXqb8P/14022-01a.jpg"> |   Kit BITalino  |       1      |
+| <img width="200" height="150" src="https://www.pcspeed.com.pe/wp-content/uploads/2022/07/laptop-asus-rog-strix-g513ic-hn046w-amd-ryzen-7-4800h-16gb-512gb-ssd-t-video-rtx-3050-4gb-156-fhd-144hz-2.jpg"> |      Laptop     |       1      |
+    
 ### 4. Procedimiento
 ### 5. Resultados
 ### 6. Discusión

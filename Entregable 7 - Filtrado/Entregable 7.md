@@ -89,7 +89,7 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
 
 ### 3. Materiales y equipos
     
-<p align="center">
+<div align="center">
     
 |  **Imagen**  | **Producto** | **Cantidad** |
 |:------------:|:---------------:|:------------:|

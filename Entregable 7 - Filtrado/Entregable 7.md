@@ -11,8 +11,7 @@
 4. [Procedimiento](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#4-procedimiento)
 5. [Resultados](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#5-resultados)
 6. [Discusión](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#6-discusi%C3%B3n)
-7. [Conclusiones](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#7-conclusiones)
-8. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#8-referencias)
+7. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#8-referencias)
 
 ### 1. Introducción 
 Un filtro es un dispositivo que discrimina, de acuerdo con algún atributo de los objetos aplicados a su entrada, lo que pasa a su través. En este caso, se hablará sobre filtros selectivos de frecuencia que dejan pasar señales con componentes de frecuencia en determinadas bandas mientras que atenúan señales que contienen frecuencias en otras bandas [1].
@@ -154,8 +153,7 @@ En el espectro de frecuencias de nuestra señal ECG podemos ver una señal no co
 <p align="center">
 Fig 8. Espectro de frecuencias adquiridas pre filtrado Notch en el caso de estado basal
 
-### 7. Conclusiones
-### 8. Referencias  
+### 7. Referencias  
     
 [1].  J. G. Proakis and D. G. Manolakis, “5.4 Sistemas LTI como filtros de frecuencia,” in Tratamiento Digital De Señales, Madrid: Pearson Educación, 2009. 
 [2]. “INTRODUCCIÓN A FILTROS ANALÓGICOS CAPÍTULO 1.” Available: http://catarina.udlap.mx/u_dl_a/tales/documentos/lem/torres_d_ld/capitulo1.pdf

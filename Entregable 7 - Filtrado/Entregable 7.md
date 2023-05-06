@@ -49,9 +49,6 @@ Un filtro es un dispositivo que discrimina, de acuerdo con algún atributo de lo
    Fig 2. Comparación de los filtros analógicos activos
 
   
- 
-
-  
    #### Filtros digitales
     
 Los filtros digitales son sistemas que operan sobre señales en tiempo discreto con el propósito de modificar el comportamiento en frecuencia de la señal. A diferencia de los filtros analógicos, los filtros digitales son fácilmente ajustables, y funcionan como soluciones software en un PC o hardware en dispositivos como DSPs o FPGAs. 
@@ -100,6 +97,15 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
 </p>   
 
 ### 4. Procedimiento
+
+Se sigue el procedimiento establecido por la guía del laboratorio 7 proporcionada por el curso: 
+**Filtros IIR**
+
+
+
+**Filtros FIR**
+
+
 ### 5. Resultados
 ### 6. Discusión
 ### 7. Conclusiones

@@ -123,7 +123,9 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 | Espectro de frecuencias post filtrado  |Espectro de fase post filtrado | 
 |----------|----------|
-| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645760-490bfce3-9249-4dee-ad58-b9d0bfad6881.JPG"> | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645797-03adc3da-67ea-43d9-abbe-45b809ae425e.JPG"> |
+| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646213-56e15138-a062-49cb-abe2-11d34db1378a.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645760-490bfce3-9249-4dee-ad58-b9d0bfad6881.JPG"> | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646394-aa123490-3269-4c75-9e75-01df240afed6.JPG"> |
+
+
 
 
 

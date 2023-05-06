@@ -122,9 +122,10 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 Una de las importancias de analizar un ECG en el dominio del tiempo es más eficaz desde la perspectiva electrónica, computacional y algorítmica. La señal de ECG tiene un espectro frecuencial que va desde 0 a 100Hz
 
-<img src="https://user-images.githubusercontent.com/111662394/236633714-53f49f09-30a9-460b-bc35-b005280e0819.jpeg" width="50%">
+<img src="https://user-images.githubusercontent.com/111662394/236633822-67f601bd-8823-4493-bf9b-c8a83417ddce.JPG" width="50%">
 
-<img src="https://user-images.githubusercontent.com/111662394/236633735-165ea6a7-24fc-44bd-8634-337f8ffee893.jpegg" width="50%">
+
+
 
 
 

@@ -69,8 +69,16 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
   <p align="center">
   Fig 3. Estructura de un filtro FIR 
    
-    
-    
+  - **Filtros IIR:** generan una respuesta infinita en el tiempo en respuesta a una señal de entrada. A diferencia de los filtros FIR, estos filtros tienen una respuesta de impulso infinita y son recursivos, lo que significa que la salida depende tanto de la entrada actual como de las salidas anteriores (es decir, tiene retroalimentación) [5]
+  
+   <p align="center">
+  
+  <img src="https://user-images.githubusercontent.com/111662394/236589918-2670176e-6044-469f-a944-949b9034ec15.JPG" width="50%">  
+  
+
+  <p align="center">
+  Fig 4. Estructura de un filtro IIR
+
     
 
     

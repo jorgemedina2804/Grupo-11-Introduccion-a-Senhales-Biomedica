@@ -111,9 +111,9 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 ### 5. Resultados
 
-| Campo | Señal Cruda | Transformada Rápida de Fourier | Filtro Notch  | Filtro |
+| Campo | Señal Cruda | Transformada Rápida de Fourier | Filtro Notch  | Filtrado Normal con Pasabajas |
 |----------|----------|----------|----------|----------|
-| Basal    | <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |  <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637657-f37d08e4-0867-462e-bb92-042425a4e645.png">    | <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637704-37da6534-24cd-440f-9535-684c5dd01b15.png">     | <img width="300" height="150" src="">     |
+| Basal    | <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |  <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637657-f37d08e4-0867-462e-bb92-042425a4e645.png">    | <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637704-37da6534-24cd-440f-9535-684c5dd01b15.png">     | <img width="300" height="150" src="https://user-images.githubusercontent.com/111662394/236637771-fa155755-0922-4430-a2c5-bb6868b0c82e.png">     |
 | Post-Ejercicio    | <img width="300" height="150" src="">  |       <img width="300" height="150" src="">        |       <img width="300" height="150" src="">           |       <img width="300" height="150" src="">           |
 | Respiracion   | <img width="300" height="150" src="">  |       <img width="300" height="150" src="">        |       <img width="300" height="150" src="">           |       <img width="300" height="150" src="">           |
 

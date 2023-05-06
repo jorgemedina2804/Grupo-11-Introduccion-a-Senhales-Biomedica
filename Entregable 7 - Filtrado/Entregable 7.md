@@ -131,7 +131,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
   
   | Señal Cruda | Espectro de frecuencias previo al filtrado  |Espectro de fase previo al filtrado | 
 |----------|----------|----------|
-| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646576-0956aad1-b848-4ce4-9fed-f759e9527f59.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645760-490bfce3-9249-4dee-ad58-b9d0bfad6881.JPG"> | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645797-03adc3da-67ea-43d9-abbe-45b809ae425e.JPG"> |
+| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646576-0956aad1-b848-4ce4-9fed-f759e9527f59.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646624-93c49127-ad2e-4ce9-ad41-6653c67e931a.JPG"> | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645797-03adc3da-67ea-43d9-abbe-45b809ae425e.JPG"> |
 
 | Filtrado Normal con Pasabajas | Filtrado "filtfilt" | 
 |----------|----------|

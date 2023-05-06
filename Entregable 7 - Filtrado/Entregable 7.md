@@ -42,10 +42,15 @@
   - Bessel: tiene como objetivo lograr una respuesta de fase lineal en un margen de frecuencias amplio en torno a la frecuencia de corte. La ganancia en la banda de         paso no es tan plana como en un filtro Butterworth ni la pendiente en la banda de transición tan acentuada como en un filtro Chebyshev
   - Elíptica: se caracteriza por tener ondulaciones constantes tanto en la banda de paso como en la banda de corte. [2]
 
-
+  <p align="center">
+  
+  <img src="https://user-images.githubusercontent.com/111662394/236588834-b4c65400-2749-4f27-87e8-81b6a7be25fe.JPG" width="50%">  
+  <p align="center">
+   Fig 2. Comparación de los filtros analógicos activos
 
   
-  
+ 
+
   
    #### Filtros digitales
   

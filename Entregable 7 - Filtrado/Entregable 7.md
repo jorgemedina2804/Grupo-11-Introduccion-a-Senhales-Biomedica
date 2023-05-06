@@ -146,7 +146,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 |----------|----------|
 | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646959-e241e742-5c5f-4b75-a130-113d5461f02d.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646987-cf040ecb-0ad3-4068-b1df-7a50339219c7.JPG"> |
   
-  
+  <img src="https://user-images.githubusercontent.com/111662394/236647744-2f4036f0-2149-4891-ba95-f8a6f573e979.png" width="80%"> 
   
   #### Respiración
   

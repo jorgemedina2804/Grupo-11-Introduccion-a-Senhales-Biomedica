@@ -178,9 +178,10 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 [Notebook Estado Basal](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Notebooks/Laboratorio_7_BASAL.ipynb)
 
-[Notebook Ejercicio](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Notebooks/Laboratorio_7_Ejercicio.ipynb)
+[Notebook Ejercicio](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Notebooks/Laboratorio_7_EJERCICIO.ipynb)
 
-[Notebook Respiracion](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Notebooks/Laboratorio_7_Respiracion.ipynb)
+[Notebook Respiracion](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Notebooks/Laboratorio_7_RESPIRACION.ipynb)
+  
 ### 6. Discusión
 
 Una de las importancias de analizar un ECG en el dominio del tiempo es más eficaz desde la perspectiva electrónica, computacional y algorítmica. La señal de ECG tiene un espectro frecuencial que va desde 0 a 100Hz

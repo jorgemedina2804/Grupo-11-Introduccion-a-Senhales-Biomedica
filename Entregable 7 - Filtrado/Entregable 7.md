@@ -126,7 +126,21 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646213-56e15138-a062-49cb-abe2-11d34db1378a.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646484-84e86aea-0a2a-4791-af87-859d8c9a8644.JPG"> |
 
 
+
   #### Ejercicio
+  
+  | Señal Cruda | Espectro de frecuencias previo al filtrado  |Espectro de fase previo al filtrado | 
+|----------|----------|----------|
+| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646576-0956aad1-b848-4ce4-9fed-f759e9527f59.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645760-490bfce3-9249-4dee-ad58-b9d0bfad6881.JPG"> | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645797-03adc3da-67ea-43d9-abbe-45b809ae425e.JPG"> |
+
+| Filtrado Normal con Pasabajas | Filtrado "filtfilt" | 
+|----------|----------|
+| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646083-1f569069-4ce9-47e7-b626-8ba862e95453.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646101-97d55bcd-75ed-41c6-958a-6b106ea79f6d.png"> | 
+
+| Espectro de frecuencias post filtrado  |Espectro de fase post filtrado | 
+|----------|----------|
+| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646213-56e15138-a062-49cb-abe2-11d34db1378a.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646484-84e86aea-0a2a-4791-af87-859d8c9a8644.JPG"> |
+  
   #### Respiración
 
 

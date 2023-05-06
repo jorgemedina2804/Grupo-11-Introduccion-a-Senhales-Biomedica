@@ -115,7 +115,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 | Señal Cruda | Transformada Rápida de Fourier | Filtro Notch  | 
 |----------|----------|----------|
-| <img width="300" height="300" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |<img width="500" height="300" src="https://user-images.githubusercontent.com/111662394/236645322-a04cf7a1-9911-4a31-a576-8d1a15a42b85.png"> | <img width="500" height="300" src="https://user-images.githubusercontent.com/111662394/236645380-b72a93e0-dc68-42bf-b417-ba92bdb79048.png"> |
+| <img width="300" height="300" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |<img width="700" height="300" src="https://user-images.githubusercontent.com/111662394/236645322-a04cf7a1-9911-4a31-a576-8d1a15a42b85.png"> | <img width="700" height="300" src="https://user-images.githubusercontent.com/111662394/236645380-b72a93e0-dc68-42bf-b417-ba92bdb79048.png"> |
 
 
 

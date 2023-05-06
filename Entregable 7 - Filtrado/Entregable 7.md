@@ -140,6 +140,9 @@ Otra de las ventajas de analizar una señal en el dominio de la frecuencia es qu
 <p align="center">
 Fig 7. Espectro de frecuencias de una señal ECG, complejo QRS y algunos tipos de ruido
 
+  
+En el espectro de frecuencias de nuestra señal ECG podemos ver una señal no común en el espectro de frecuencias de una ECG que tiene una frecuencia de 60Hz, la cual hemos identificado como una interferencia generada por corriente eléctrica
+
 ### 7. Conclusiones
 ### 8. Referencias  
     

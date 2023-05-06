@@ -117,7 +117,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 | Post-Ejercicio    | <img width="150" height="150" src="">  | <img width="150" height="150" src="">        |       <img width="150" height="150" src="">           |       <img width="150" height="150" src="">           |<img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236637915-f8f8535a-03aa-4e25-afd9-329a123bee23.png">|
 | Respiracion   | <img width="150" height="150" src="">  |       <img width="150" height="150" src="">        |       <img width="150" height="150" src="">           |       <img width="150" height="150" src="">           |<img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236637915-f8f8535a-03aa-4e25-afd9-329a123bee23.png">|
 
-
+[Notebook Estado Basal]()
 ### 6. Discusión
 
 Una de las importancias de analizar un ECG en el dominio del tiempo es más eficaz desde la perspectiva electrónica, computacional y algorítmica. La señal de ECG tiene un espectro frecuencial que va desde 0 a 100Hz

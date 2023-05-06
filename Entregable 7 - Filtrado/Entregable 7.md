@@ -117,6 +117,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 |----------|----------|----------|----------|----------|
 | <img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> | 
 
+
 |Filtrado Normal con Pasabajas | Filtrado "filtfilt"|
 |----------|----------|
 

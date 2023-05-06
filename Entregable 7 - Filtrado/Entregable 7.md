@@ -65,9 +65,10 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
   
   <img src="https://user-images.githubusercontent.com/111662394/236589561-c86a5a91-a516-455c-9769-13701ab25f2e.JPG" width="50%">  
   
+  
   <p align="center">
-    
-   Fig 3. Estructura de un filtro FIR
+  Fig 3. Estructura de un filtro FIR 
+   
     
     
     

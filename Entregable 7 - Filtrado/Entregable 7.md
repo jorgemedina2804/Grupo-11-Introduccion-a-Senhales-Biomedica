@@ -155,6 +155,9 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 |----------|----------|
 | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236647443-c2b1e51e-49d3-43d5-b1d1-6a44ec263160.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236647462-41c2c063-d116-4efb-9b32-43f97b690c3f.JPG"> |
 
+<p align="center">
+  
+  <img src="https://user-images.githubusercontent.com/111662394/236647550-3a42b660-201c-4680-a42d-80d124568fab.JPG" width="50%">  
 
 
 

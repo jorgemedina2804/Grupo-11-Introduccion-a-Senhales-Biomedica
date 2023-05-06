@@ -119,15 +119,16 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 | Filtrado Normal con Pasabajas | Filtrado "filtfilt" | 
 |----------|----------|
-| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645627-220b593b-3b3f-4952-b7d5-64db63017667.JPG"> | 
+| <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646083-1f569069-4ce9-47e7-b626-8ba862e95453.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646101-97d55bcd-75ed-41c6-958a-6b106ea79f6d.png"> | 
 
 | Espectro de frecuencias post filtrado  |Espectro de fase post filtrado | 
 |----------|----------|
 | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645760-490bfce3-9249-4dee-ad58-b9d0bfad6881.JPG"> | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645797-03adc3da-67ea-43d9-abbe-45b809ae425e.JPG"> |
 
 
-|Filtrado Normal con Pasabajas | Filtrado "filtfilt"|
-|----------|----------|
+
+
+
 
 El resto de imágenes pueden ser encontradas en los siguientes notebooks:
 

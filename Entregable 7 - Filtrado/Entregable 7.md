@@ -35,6 +35,12 @@
   <img src="https://user-images.githubusercontent.com/111662394/236588405-fa6b201a-70a1-45f3-9b8f-a22d08961336.JPG" width="50%">  
   <p align="center">
    Fig 1. Representación gráfica de los filtros analógicos
+   
+   Los filtros activos se pueden clasificar, de acuerdo a la aproximación matemática empleada, en:
+  - Butterworth: tiene objetivo una respuesta de ganancia plana en la banda de paso. Esto se consigue mediante una región de transición de caída lenta y una respuesta       de fase no lineal alrededor de la frecuencia de corte
+  - Chebyshev: tiene como objetivo maximizar la pendiente de la característica de ganancia en la región de transición. Presenta un cierto rizado en la banda de paso,       que se incrementa al aumentar el orden de filtro.
+  - Bessel: tiene como objetivo lograr una respuesta de fase lineal en un margen de frecuencias amplio en torno a la frecuencia de corte. La ganancia en la banda de         paso no es tan plana como en un filtro Butterworth ni la pendiente en la banda de transición tan acentuada como en un filtro Chebyshev
+  - Elíptica: se caracteriza por tener ondulaciones constantes tanto en la banda de paso como en la banda de corte. [2]
 
 
 

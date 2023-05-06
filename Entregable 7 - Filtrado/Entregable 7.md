@@ -127,7 +127,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 <p align="center">
   
-  <img src="https://user-images.githubusercontent.com/111662394/236647588-1b11a65f-8f14-4dba-bb28-87f8258509f7.png" width="500"  height="500" > 
+  <img src="https://user-images.githubusercontent.com/111662394/236647588-1b11a65f-8f14-4dba-bb28-87f8258509f7.png" width="80%" > 
 
   
 

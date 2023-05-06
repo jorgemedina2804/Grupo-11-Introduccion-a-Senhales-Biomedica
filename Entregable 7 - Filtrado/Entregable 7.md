@@ -107,6 +107,7 @@ Se sigue el procedimiento establecido por la guía del laboratorio 7 proporciona
   5. Se realiza la transformada bilineal de H(s) a H(z)
   6. Se aplica el filtro a la señal de interés
 
+
 ### 5. Resultados
 ### 6. Discusión
 ### 7. Conclusiones

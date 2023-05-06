@@ -107,10 +107,11 @@ Se sigue el procedimiento establecido por la guía del laboratorio 7 proporciona
   5. Se realiza la transformada bilineal de H(s) a H(z)
   6. Se aplica el filtro a la señal de interés
 
+Sin embargo también existe la alternativa de utilizar la librería recomendada para Bitalino para ser utilizada en Python. Si se desea más información sobre esta librería puede hacer uso del siguiente [link](https://github.com/pluxbiosignals/biosignalsnotebooks) y del siguiente [notebook](http://notebooks.pluxbiosignals.com/notebooks/Categories/Pre-Process/digital_filtering_filtfilt_rev.html )
 
 ### 5. Resultados
 
-| Campo | Señal Cruda | Filtro IIR | Filtro FIR 1 | Filtro FIR 2|
+| Campo | Señal Cruda | Filtro Notch | Filtro  | Filtro |
 |----------|----------|----------|----------|----------|
 | Basal    | <img width="300" height="150" src=""> |  <img width="300" height="150" src="">    | <img width="300" height="150" src="">     | <img width="300" height="150" src="">     |
 | Post-Ejercicio    | <img width="300" height="150" src="">  |       <img width="300" height="150" src="">        |       <img width="300" height="150" src="">           |       <img width="300" height="150" src="">           |

@@ -28,6 +28,14 @@
     la frecuencia de corte inferior y la frecuencia de corte superior, atenuando las demás.
   - Filtro rechaza-bandas: atenúa las frecuencias comprendidas entre la 
     frecuencia de corte inferior y la frecuencia de corte superior, dejando pasar las demás [2]
+  
+  
+  <p align="center">
+  
+  <img src="https://user-images.githubusercontent.com/111662394/236588405-fa6b201a-70a1-45f3-9b8f-a22d08961336.JPG" width="50%">  
+  
+    Figura 1. Representación gráfica de los filtros analógicos
+
 
 
   

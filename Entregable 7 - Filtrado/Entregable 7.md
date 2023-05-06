@@ -53,6 +53,11 @@
 
   
    #### Filtros digitales
+    
+Los filtros digitales son sistemas que operan sobre señales en tiempo discreto con el propósito de modificar el comportamiento en frecuencia de la señal. A diferencia de los filtros analógicos, los filtros digitales son fácilmente ajustables, y funcionan como soluciones software en un PC o hardware en dispositivos como DSPs o FPGAs. 
+Dado que las señales de trabajo son discretas, los filtros digitales se modelan en el dominio Z, o a partir de una ecuación en diferencias. Si el sistema es lineal e invariante en el tiempo (LTI), el filtro digital se expresa utilizando la notación de ecuación en diferencias.
+Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR: finite impulse response) y respuesta al impulso infinita (IIR: infinite impulse response). [3] 
+ 
   
 ### 2. Objetivos de la práctica de laboratorio 
   - Objetivos

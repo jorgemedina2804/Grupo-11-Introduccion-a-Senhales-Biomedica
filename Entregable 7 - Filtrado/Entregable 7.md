@@ -111,12 +111,11 @@ Se sigue el procedimiento establecido por la guía del laboratorio 7 proporciona
 Sin embargo también existe la alternativa de utilizar la librería recomendada para Bitalino para ser utilizada en Python. Si se desea más información sobre esta librería puede hacer uso del siguiente [link](https://github.com/pluxbiosignals/biosignalsnotebooks) y del siguiente [notebook](http://notebooks.pluxbiosignals.com/notebooks/Categories/Pre-Process/digital_filtering_filtfilt_rev.html )
 
 ### 5. Resultados
+  #### Estado basal
 
 | Campo | Señal Cruda | Transformada Rápida de Fourier | Filtro Notch  | Filtrado Normal con Pasabajas | Filtrado "filtfilt"|
 |----------|----------|----------|----------|----------|----------|
-| Basal    | <img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |  <img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236637657-f37d08e4-0867-462e-bb92-042425a4e645.png">    | <img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236637704-37da6534-24cd-440f-9535-684c5dd01b15.png">     | <img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236637771-fa155755-0922-4430-a2c5-bb6868b0c82e.png"> |<img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236637915-f8f8535a-03aa-4e25-afd9-329a123bee23.png">|
-| Post-Ejercicio    | <img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236644257-596b2315-3a39-464e-9fe0-468227b5fb6b.png">  | <img width="150" height="150" src="">        |       <img width="150" height="150" src="">           |       <img width="150" height="150" src="">           |<img width="150" height="150" src="">|
-| Respiracion   | <img width="150" height="150" src="">  |       <img width="150" height="150" src="">        |       <img width="150" height="150" src="">           |       <img width="150" height="150" src="">           |<img width="150" height="150" src="">|
+| Basal    | <img width="150" height="150" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> | 
 
 
 

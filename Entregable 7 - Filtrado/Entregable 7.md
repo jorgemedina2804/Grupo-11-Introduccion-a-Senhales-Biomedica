@@ -232,3 +232,5 @@ Los filtros digitales IIR frente a los FIR es que normalmente requieren menores 
 [5]. “Electrónica II - Bioingeniería -1ra. Parte Filtros Analógicos” Disponible en: http://dea.unsj.edu.ar/pdselo/Apuntes/Filtros-analogicos-1ra-parte.pdf
     
 [6].Roshni Y, “Difference Between FIR Filter and IIR Filter (with Comparison chart) - Circuit Globe,” Circuit Globe, Mar. 24, 2020. https://circuitglobe.com/difference-between-fir-filter-and-iir-filter.html (accessed May 05, 2023). 
+  
+  

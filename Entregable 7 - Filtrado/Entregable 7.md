@@ -146,6 +146,8 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 |----------|----------|
 | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646959-e241e742-5c5f-4b75-a130-113d5461f02d.JPG"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236646987-cf040ecb-0ad3-4068-b1df-7a50339219c7.JPG"> |
   
+  
+  
   #### Respiración
   
  | Señal Cruda | Espectro de frecuencias previo al filtrado  |Espectro de fase previo al filtrado | 
@@ -162,7 +164,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 
 <p align="center">
   
-  <img src="https://user-images.githubusercontent.com/111662394/236647550-3a42b660-201c-4680-a42d-80d124568fab.JPG" width="50%">  
+  <img src="https://user-images.githubusercontent.com/111662394/236647550-3a42b660-201c-4680-a42d-80d124568fab.JPG" width="80%">  
 
 
 

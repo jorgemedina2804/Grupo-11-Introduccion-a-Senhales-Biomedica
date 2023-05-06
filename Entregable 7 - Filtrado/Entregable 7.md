@@ -128,6 +128,7 @@ Una de las importancias de analizar un ECG en el dominio del tiempo es más efic
 <p align="center">
 Fig 5. Espectro de la señal ECG, ruido de línea de potencia eléctrica y de la señal compuesta por la suma de ambas señales. 
 
+<p align="center">
 Fig 6. Amplitud de rango de frecuencias de algunas señales biomedicas
   
 Otra de las ventajas de analizar una señal en el dominio de la frecuencia es que es más fácil reconocer interferencias o ruidos no deseados. La siguiente imagen muestra las interferencias más comunes en un ECG las cuales son el movimiento, ruido muscular o por la corriente eléctrica.

@@ -156,7 +156,9 @@ En el espectro de frecuencias de nuestra señal ECG podemos ver una señal no co
 Fig 8. Espectro de frecuencias adquiridas pre filtrado Notch en el caso de estado basal
 
 ### 7. Conclusiones    
-La importancia de analizar una señal en el dominio de la frecuencia es que nos permite reconocer interferencias para poder ser eliminados por filtro de tipo FIR o IIR, en nuestro caso hemos concluido que el filtro IIR es más eficiente para poder eliminar interferencias en una señal ECG
+La importancia de analizar una señal en el dominio de la frecuencia es que nos permite reconocer interferencias para poder ser eliminados por filtro de tipo FIR o IIR, en nuestro caso hemos concluido que el filtro IIR es más eficiente para poder eliminar interferencias en una señal ECG.
+
+Los filtros digitales IIR frente a los FIR es que normalmente requieren menores coeficientes para hacer operaciones similares de filtrado. Por lo tanto, los filtros IIR se ejecutan más rápido y no requieren de memoria extra.
 
 ### 8. Referencias  
     

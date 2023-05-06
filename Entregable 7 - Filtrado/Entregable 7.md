@@ -100,13 +100,12 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
 
 Se sigue el procedimiento establecido por la guía del laboratorio 7 proporcionada por el curso: 
 
-
-**Filtros IIR**
-
-
-
-**Filtros FIR**
-
+  1. Se realiza la creación de las señales en Python 
+  2. Se realiza la transformada rápida de Fourier para pasar la señal al dominio de la frecuencia 
+  3. Se calcula la frecuencia de corte deseada
+  4. Se diseña un filtro pasa baja ya sea FIR o IIR 
+  5. Se realiza la transformada bilineal de H(s) a H(z)
+  6. Se aplica el filtro a la señal de interés
 
 ### 5. Resultados
 ### 6. Discusión

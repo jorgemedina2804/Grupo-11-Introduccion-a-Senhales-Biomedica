@@ -148,7 +148,7 @@ En el espectro de frecuencias de nuestra señal ECG podemos ver una señal no co
 <img src="https://user-images.githubusercontent.com/111662394/236634284-e20fa2f0-65ed-457b-aac4-70b6bb9a47ad.JPG" width="50%">
 
 <p align="center">
-Fig 8. Espectro de frecuencias adquiridas pre filtrado Notch
+Fig 8. Espectro de frecuencias adquiridas pre filtrado Notch en el caso de estado basal
 
 ### 7. Conclusiones
 ### 8. Referencias  

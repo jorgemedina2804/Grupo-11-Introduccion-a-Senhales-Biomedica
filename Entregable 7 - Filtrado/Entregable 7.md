@@ -91,7 +91,7 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
     
 <div align="center">
     
-|  **Imagen**  | **Producto** | **Cantidad** |
+|  **Imagen**  | **Producto/Programa** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
 | <img width="200" height="150" src="https://user-images.githubusercontent.com/111662394/236591622-748d54e3-5b66-49bc-8e8c-47df132ea7cf.png"> |   Python |       1      |
 | <img width="200" height="150" src="https://www.pcspeed.com.pe/wp-content/uploads/2022/07/laptop-asus-rog-strix-g513ic-hn046w-amd-ryzen-7-4800h-16gb-512gb-ssd-t-video-rtx-3050-4gb-156-fhd-144hz-2.jpg"> |      Laptop     |       1      |

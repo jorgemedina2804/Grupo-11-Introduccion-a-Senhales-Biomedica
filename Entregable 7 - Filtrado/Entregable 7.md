@@ -113,7 +113,7 @@ Sin embargo también existe la alternativa de utilizar la librería recomendada 
 ### 5. Resultados
   #### Estado basal
 
-| Señal Cruda | Espectro de frecuencias  |Espectro de fase previo al filtrado | 
+| Señal Cruda | Espectro de frecuencias previo al filtrado  |Espectro de fase previo al filtrado | 
 |----------|----------|----------|
 | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236637551-301802bb-95df-4b77-9d63-7b319fb933d5.png"> |<img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645760-490bfce3-9249-4dee-ad58-b9d0bfad6881.JPG"> | <img width="500" height="500" src="https://user-images.githubusercontent.com/111662394/236645797-03adc3da-67ea-43d9-abbe-45b809ae425e.JPG"> |
 

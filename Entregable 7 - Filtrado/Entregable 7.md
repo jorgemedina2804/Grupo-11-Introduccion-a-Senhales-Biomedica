@@ -60,10 +60,13 @@ Dado que las señales de trabajo son discretas, los filtros digitales se modelan
 
 Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR: finite impulse response) y respuesta al impulso infinita (IIR: infinite impulse response). [3] 
  - **Filtros FIR:** produce una respuesta de salida finita en respuesta a una señal de entrada, y se llama FIR porque la respuesta se limita a un tiempo finito. A diferencia de otros filtros, los filtros FIR no tienen retroalimentación y solo operan en valores de entrada del pasado y del presente. La salida se genera a partir de una suma de un número limitado de muestras de la señal de entrada. Esta característica los hace muy estables y evita cualquier posible oscilación en la salida [4]
-    <p align="center">
+    
+  <p align="center">
   
   <img src="https://user-images.githubusercontent.com/111662394/236589561-c86a5a91-a516-455c-9769-13701ab25f2e.JPG" width="50%">  
+  
   <p align="center">
+    
    Fig 3. Estructura de un filtro FIR
     
     

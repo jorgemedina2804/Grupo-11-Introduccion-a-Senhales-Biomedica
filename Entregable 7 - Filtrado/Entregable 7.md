@@ -89,6 +89,8 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
 
 ### 3. Materiales y equipos
     
+<p align="center">
+    
 |  **Imagen**  | **Producto** | **Cantidad** |
 |:------------:|:---------------:|:------------:|
 | <img width="200" height="150" src="https://i.postimg.cc/VvLXqb8P/14022-01a.jpg"> |   Kit BITalino  |       1      |

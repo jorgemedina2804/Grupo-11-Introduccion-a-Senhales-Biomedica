@@ -11,7 +11,7 @@
 4. [Procedimiento](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#4-procedimiento)
 5. [Resultados](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#5-resultados)
 6. [Discusión](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#6-discusi%C3%B3n)
-7.[Conclusiones](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#7-conclusiones)
+7. [Conclusiones](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#7-conclusiones)
 8. [Referencias](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Entregable%207%20-%20Filtrado/Entregable%207.md#8-referencias)
 
 

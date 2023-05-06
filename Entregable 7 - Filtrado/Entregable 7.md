@@ -59,8 +59,7 @@ Los filtros digitales son sistemas que operan sobre señales en tiempo discreto 
 Dado que las señales de trabajo son discretas, los filtros digitales se modelan en el dominio Z, o a partir de una ecuación en diferencias. Si el sistema es lineal e invariante en el tiempo (LTI), el filtro digital se expresa utilizando la notación de ecuación en diferencias.
 
 Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR: finite impulse response) y respuesta al impulso infinita (IIR: infinite impulse response). [3] 
- - **Filtro pasa-bajas:** permite el paso de todas las frecuencias menores a la 
-    frecuencia de corte, atenuando aquellas que son mayores a esta última.
+ - **Filtros FIR:** produce una respuesta de salida finita en respuesta a una señal de entrada, y se llama FIR porque la respuesta se limita a un tiempo finito. A diferencia de otros filtros, los filtros FIR no tienen retroalimentación y solo operan en valores de entrada del pasado y del presente. La salida se genera a partir de una suma de un número limitado de muestras de la señal de entrada. Esta característica los hace muy estables y evita cualquier posible oscilación en la salida [4]
   
 ### 2. Objetivos de la práctica de laboratorio 
   - Objetivos

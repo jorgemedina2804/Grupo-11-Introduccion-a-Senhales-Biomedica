@@ -102,7 +102,7 @@ Los filtros digitales se dividen en filtros de respuesta al impulso finito (FIR:
 ### 7. Conclusiones
 ### 8. Referencias  
     
-[1].  Proakis, J. G., & Manolakis, D. G. (2009). 5.4 Sistemas LTI como filtros de frecuencia. In Tratamiento Digital De Señales. essay, Pearson Educación. 
+[1].  J. G. Proakis and D. G. Manolakis, “5.4 Sistemas LTI como filtros de frecuencia,” in Tratamiento Digital De Señales, Madrid: Pearson Educación, 2009. 
 [2]. “INTRODUCCIÓN A FILTROS ANALÓGICOS CAPÍTULO 1.” Available: http://catarina.udlap.mx/u_dl_a/tales/documentos/lem/torres_d_ld/capitulo1.pdf
     
 [3]. A, Perez Garcia et al. (2014) Instrumentación Electrónica. Madrid: Paraninfo. 

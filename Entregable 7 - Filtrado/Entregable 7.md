@@ -144,8 +144,7 @@ Fig 7. Espectro de frecuencias de una señal ECG, complejo QRS y algunos tipos d
 En el espectro de frecuencias de nuestra señal ECG podemos ver una señal no común en el espectro de frecuencias de una ECG que tiene una frecuencia de 60Hz, la cual hemos identificado como una interferencia generada por corriente eléctrica
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/111662394/236634213-60e4bfb0-619a-40c2-ba0b-1bdfccef0d2f.JPG
-" width="50%">
+<img src="https://user-images.githubusercontent.com/111662394/236634284-e20fa2f0-65ed-457b-aac4-70b6bb9a47ad.JPG" width="50%">
 Fig 8. Espectro de frecuencias adquiridas pre filtrado Notch
 
 ### 7. Conclusiones

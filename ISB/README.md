@@ -6,6 +6,31 @@
 * [Curso de Introducción a Señales Biomédicas](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/README.md#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
 * [Docentes del curso](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/README.md#docentes-del-curso)
 
+### Recursos
+1)  Arduino nano 33 IoT
+  
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/ab4b75c2-717e-45a3-b116-e177d1a44233)" width="30%">
+  
+2) Arduino TinyML kit
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/312c3759-9217-47d9-8234-79a902ce3b88" alt="Arduino Nano" width="30%">
+  
+3)  Ultracortex EEG headset
+  
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/11a99bf3-9d5d-4118-94df-7db6ba43a0aa" alt="Arduino Nano" width="30%">
+
+4)  Fluke ProSim 4
+  
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/df01c5a5-a111-4707-87ae-5d5f07b0297c" alt="Arduino Nano" width="30%">
+
+5)  BiTalino
+  
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/d90c6f27-b9e3-4a48-becc-48c65e589eba)" alt="Arduino Nano" width="30%">
+
 
 ### Curso de Introducción a Señales Biomédicas
 <p align="justify">

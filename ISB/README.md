@@ -41,17 +41,17 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 3)  Ultracortex EEG headset
   
 <p align="center">
-<img src="Imagenes/eeg.webp" alt="Arduino Nano" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/11a99bf3-9d5d-4118-94df-7db6ba43a0aa" alt="Arduino Nano" width="30%">
 
 4)  Fluke ProSim 4
   
 <p align="center">
-<img src="Imagenes/prosim.jpg" alt="Arduino Nano" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/df01c5a5-a111-4707-87ae-5d5f07b0297c" alt="Arduino Nano" width="30%">
 
 5)  BiTalino
   
 <p align="center">
-<img src="Imagenes/bitalino.webp" alt="Arduino Nano" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/d90c6f27-b9e3-4a48-becc-48c65e589eba)" alt="Arduino Nano" width="30%">
 
 
 ### Documentación

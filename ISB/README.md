@@ -36,7 +36,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
   
 2) Arduino TinyML kit
 <p align="center">
-<img src="Imagenes/ArduinoTinyMachineLearningKit.jpg" alt="Arduino Nano" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/312c3759-9217-47d9-8234-79a902ce3b88" alt="Arduino Nano" width="30%">
   
 3)  Ultracortex EEG headset
   

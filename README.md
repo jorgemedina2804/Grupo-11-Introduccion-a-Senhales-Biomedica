@@ -6,7 +6,6 @@ Bienvenidos al repositorio del grupo 11 del curso "Introducción a Señales Biom
 Se realizará un wearable que sea capaz de analizar y realizar la detección semiautomática de arritmias a través de la señal de ECG. Se obtendrá, preprocesará y extraerá la información haciendo uso de los conocimientos proporcionados por el curso.
 
 ### Tabla de contenidos
-
 - [Integrantes](#Integrantes)
 - [Materiales](#Materiales)
 - [Documentacion](#Documentacion)
@@ -33,21 +32,12 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/ab4b75c2-717e-45a3-b116-e177d1a44233)" width="30%">
   
-2) Arduino TinyML kit
-<p align="center">
-<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/312c3759-9217-47d9-8234-79a902ce3b88" alt="Arduino Nano" width="30%">
-  
-3)  Ultracortex EEG headset
-  
-<p align="center">
-<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/11a99bf3-9d5d-4118-94df-7db6ba43a0aa" alt="Arduino Nano" width="30%">
-
-4)  Fluke ProSim 4
+2)  Fluke ProSim 4
   
 <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/df01c5a5-a111-4707-87ae-5d5f07b0297c" alt="Arduino Nano" width="30%">
 
-5)  BiTalino
+3)  BiTalino
   
 <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/d90c6f27-b9e3-4a48-becc-48c65e589eba)" alt="Arduino Nano" width="30%">

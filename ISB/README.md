@@ -4,7 +4,7 @@
 * [Señales Biomédicas]()
 * [Recursos]()
 * [Curso de Introducción a Señales Biomédicas]()
-* [Docentes del curso]()
+* [Docentes del curso](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/README.md#docentes-del-curso)
 
 
 ### Docentes del curso

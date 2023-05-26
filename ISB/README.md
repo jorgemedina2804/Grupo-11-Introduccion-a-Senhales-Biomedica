@@ -32,7 +32,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 1)  Arduino nano 33 IoT
   
 <p align="center">
-<img src="Imagenes/nano.webp" alt="Arduino Nano" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/ab4b75c2-717e-45a3-b116-e177d1a44233)" width="30%">
   
 2) Arduino TinyML kit
 <p align="center">

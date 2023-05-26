@@ -1,9 +1,9 @@
 # Grupo 11 - Introducción a Señales Biomédicas
 Bienvenidos al repositorio del grupo 11 del curso "Introducción a Señales Biomédicas" del ciclo 2023-1
 
-## Nombre del Proyecto
+## Detección semiautomática de arritmias utilizando la señal de ECG
 
-Breve descripción del proyecto.
+Se realizará un wearable que sea capaz de analizar y realizar la detección semiautomática de arritmias a través de la señal de ECG. Se obtendrá, preprocesará y extraerá la información haciendo uso de los conocimientos proporcionados por el curso.
 
 ### Tabla de contenidos
 

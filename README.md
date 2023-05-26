@@ -10,7 +10,6 @@ Se realizará un wearable que sea capaz de analizar y realizar la detección sem
 - [Integrantes](#Integrantes)
 - [Materiales](#Materiales)
 - [Documentacion](#Documentacion)
-- [Entregables de laboratorios](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/README.md#entregables-de-laboratorios)
 
 ### Integrantes:
 

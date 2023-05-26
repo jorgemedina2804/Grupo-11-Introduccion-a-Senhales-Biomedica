@@ -1,4 +1,4 @@
-# Introducción a Señales Biomédicas - Grupo 11
+# Sobre el curso: Introducción a Señales Biomédicas - Grupo 11
 
 ## Tabla de contenidos:
 * [Señales Biomédicas]()
@@ -6,6 +6,7 @@
 * [Curso de Introducción a Señales Biomédicas](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/README.md#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
 * [Docentes del curso](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/README.md#docentes-del-curso)
 
+### Señales biomédicas
 ### Recursos
 1)  Arduino nano 33 IoT
   

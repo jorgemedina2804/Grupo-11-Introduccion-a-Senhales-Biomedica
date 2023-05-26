@@ -5,8 +5,14 @@
 * [Recursos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/README.md#recursos)
 * [Curso de Introducción a Señales Biomédicas](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/README.md#curso-de-introducci%C3%B3n-a-se%C3%B1ales-biom%C3%A9dicas)
 * [Docentes del curso](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/README.md#docentes-del-curso)
+* [Referencia]()
 
 ### Señales biomédicas
+Las señales biomédicas consisten en datos de un sistema fisiológico estudiado y su procesamiento tiene como objetivo principal extraer información relevante. Esta información puede mejorar las técnicas de inteligencia artificial basadas en datos, especialmente los algoritmos de Machine Learning, y se utiliza para respaldar el diagnóstico de diversas enfermedades [1]. 
+
+Ejemplos de señales biomédicas son electromiograma (EMG), electroencefalograma (EEG), electrocardiograma (ECG), electrooculograma (EOG), ritmo de la marcha (GR) e imágenes por resonancia magnética (IRM) [1].
+
+
 ### Recursos
 1)  Arduino nano 33 IoT
   
@@ -45,3 +51,6 @@ Este curso tiene por objetivo dar al estudiante una formación básica y sólida
 - Lewis de la Cruz - umbert.de.la.cruz@upch.pe
 - Moises Meza - moises.meza@upch.pe
 - José Alonso Cáceres - jo.alonsok@gmail.com
+  
+### Referencia
+  [1]. F. Fernandes et al., “Biomedical signals and machine learning in amyotrophic lateral sclerosis: A systematic review,” BioMedical Engineering OnLine, vol. 20, no. 1, 2021. doi:10.1186/s12938-021-00896-2 

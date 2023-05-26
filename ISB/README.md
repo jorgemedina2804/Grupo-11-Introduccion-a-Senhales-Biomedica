@@ -17,7 +17,7 @@ Se realizará un wearable que sea capaz de analizar y realizar la detección sem
 El equipo de trabajo está conformado por los siguientes estudiantes de Ingeniería Biomédica de la Pontificia Universidad Católica del Perú y la Universidad Peruana Cayetano Heredia:
 
 <p align="center">
-<img src="Imagenes/integrantes.jpg" alt="Integrantes del proyecto" width="70%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/d30d4cc5-f191-4ad5-9e7b-6637fc89b91f)" width="70%">
 
 * Erika Paola Uchuya Trocones (colaborador) - erika.uchuya@upch.pe
 * Hector Dair Alegria Cortez (colaborador) - hector.alegria@upch.pe

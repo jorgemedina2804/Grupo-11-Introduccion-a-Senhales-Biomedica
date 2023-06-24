@@ -5,16 +5,12 @@
 
 ### Resultados: Video e imagen
 
-| Estado Basal | Mantener la respiración por 10 segundos |
-| ------------ |  :------------------------------------: |
-| <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/f9ce94ee-0237-4b4d-8e4b-de6d40038143" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/232174661-61f3257b-a256-4d2d-a317-1dbb4e3f99ae.mp4" width="200" /> |
+| Estado Basal 
+| ------------ | 
+| <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/f9ce94ee-0237-4b4d-8e4b-de6d40038143" width="200" /> 
 </div>
 
-| Después de una actividad física   |        
-| ------------ |  
-|<video width="200"  src="https://user-images.githubusercontent.com/111662394/232174661-61f3257b-a256-4d2d-a317-1dbb4e3f99ae.mp4">|
 
-  </div>
 
   
 <p align="center">

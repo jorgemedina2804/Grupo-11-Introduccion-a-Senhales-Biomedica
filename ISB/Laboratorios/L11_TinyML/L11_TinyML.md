@@ -21,6 +21,7 @@
   
   <img width="800" height="600" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/749403e5-4017-4d9a-bec6-58ead3c44fb3">
   
+  <img width="800" height="600" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/1c454cac-e2d0-4686-8990-131611dd2d50">
   
   <img width="800" height="600" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/732cfd57-a09f-45e6-baee-a9c4e3ef85bc">
   

@@ -11,6 +11,9 @@
   
 <p align="center">
 <img width="600" height="600" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/28edfadd-b900-4b35-ac2e-f1438c817435">
+
+<p align="center">
+<img width="600" height="600" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/10c16f00-9791-4add-aa47-084ab36d09fd">  
   
 ### Entrenamiento del modelo de ML
 </p>

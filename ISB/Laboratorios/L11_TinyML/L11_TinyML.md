@@ -7,9 +7,9 @@
 
 <p align="center">
 <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/72137f13-f8d6-4d33-9af2-4a1f9c50e683"> 
-</div>
 
-
+  
+<p align="center">
 <img width="600" height="600" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/28edfadd-b900-4b35-ac2e-f1438c817435">
   
 ### Entrenamiento del modelo de ML

@@ -5,6 +5,7 @@
 ### Video 
 <p align="center">
 <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/52fd6832-449a-434b-9e02-8e0263579bdf"  width="30%">
+  
 ### Entrenamiento del modelo de ML
 ### Dataset usado en el entrenamiento del modelo de Machine Learning
 [Dataset usado para el entrenamiento del modelo de Machine Learning](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main/ISB/Laboratorios/L11_TinyML/Dataset)

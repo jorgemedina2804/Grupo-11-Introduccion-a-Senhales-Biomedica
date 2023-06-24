@@ -5,8 +5,10 @@
 
 ### Resultados: Video e imagen
 
-<p align="center">
-<video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/Laboratorios/L11_TinyML/TinyML.mp4"> 
+| ------------ |  
+|<video width="200"  src="https://user-images.githubusercontent.com/111662394/232174661-61f3257b-a256-4d2d-a317-1dbb4e3f99ae.mp4">|
+
+  </div>
 
   
 <p align="center">

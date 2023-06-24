@@ -11,7 +11,7 @@
   
 ### Entrenamiento del modelo de ML
 |----------|----------|
-| <img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/780c076a-3b52-4885-98f7-c542868573ff"> |<img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/c9fd9720-9039-44a7-942b-6f59eb7ac730"> | 
+| <img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/1ba7a675-5efe-4386-bf24-f3d37fbabd26"> |<img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/c9fd9720-9039-44a7-942b-6f59eb7ac730"> | 
 
 </div>
 

@@ -6,7 +6,7 @@
 ### Resultados: Video e imagen
 
 <p align="center">
-| <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/72137f13-f8d6-4d33-9af2-4a1f9c50e683" width="200" /> 
+<video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/72137f13-f8d6-4d33-9af2-4a1f9c50e683"> 
 
 <p align="center">
   

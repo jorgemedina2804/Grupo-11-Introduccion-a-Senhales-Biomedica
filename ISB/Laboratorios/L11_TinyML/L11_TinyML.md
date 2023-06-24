@@ -5,8 +5,7 @@
 
 ### Resultados: Video e imagen
 
-| Estado Basal| 
-| <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/f9ce94ee-0237-4b4d-8e4b-de6d40038143" width="200" /> |
+<video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/f9ce94ee-0237-4b4d-8e4b-de6d40038143" width="200" /> 
 </div>
 
 

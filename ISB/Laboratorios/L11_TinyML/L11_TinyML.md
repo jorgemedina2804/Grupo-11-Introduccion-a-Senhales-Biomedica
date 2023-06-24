@@ -4,9 +4,8 @@
 
 
 ### Resultados: Video e imagen
-| Video de demostración de funcionamiento |
-| ------------ | 
-| <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/f9ce94ee-0237-4b4d-8e4b-de6d40038143" width="600" />|
+
+https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/f9ce94ee-0237-4b4d-8e4b-de6d40038143
 
 </p>
 </div>

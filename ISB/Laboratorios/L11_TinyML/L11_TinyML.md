@@ -18,10 +18,10 @@
   
   
   
-  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/732cfd57-a09f-45e6-baee-a9c4e3ef85bc">
+  <img width="600" height="600" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/732cfd57-a09f-45e6-baee-a9c4e3ef85bc">
   
   
-  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/40d28b83-5361-4e39-a7e7-7702d6acad8a">
+  <img width="600" height="600" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/3e50967c-d037-493f-92e1-792f4d154fe7">
   
 </p>
 <p align="center">

@@ -8,6 +8,8 @@
 <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/f9ce94ee-0237-4b4d-8e4b-de6d40038143" width="600" /> 
 
 
+</p>
+</div>
 <p align="center">
 <img width="800" height="600" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/28edfadd-b900-4b35-ac2e-f1438c817435">
 

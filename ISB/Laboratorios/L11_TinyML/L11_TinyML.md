@@ -10,10 +10,19 @@
 
   
 ### Entrenamiento del modelo de ML
-|----------|----------|
-| <img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/1ba7a675-5efe-4386-bf24-f3d37fbabd26"> |<img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/c9fd9720-9039-44a7-942b-6f59eb7ac730"> | 
-
-</div>
+</p>
+<p align="center">
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/890b97c0-7926-4424-8d18-c0887904af9b">
+  
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/b73981a1-895d-4e5d-983f-313ca2ef4a90">
+  
+  
+  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/40d28b83-5361-4e39-a7e7-7702d6acad8a">
+  
+</p>
+<p align="center">
 
 ### Dataset usado en el entrenamiento del modelo de Machine Learning
 [Dataset usado para el entrenamiento del modelo de Machine Learning](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main/ISB/Laboratorios/L11_TinyML/Dataset)

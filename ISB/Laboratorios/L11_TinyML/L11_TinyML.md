@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   
-  <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/28edfadd-b900-4b35-ac2e-f1438c817435">
+  <img width="600" height="600" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/28edfadd-b900-4b35-ac2e-f1438c817435">
   
   
   <img width="300" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/b73981a1-895d-4e5d-983f-313ca2ef4a90">

@@ -34,6 +34,8 @@ https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/as
   
 </p>
 <p align="center">
-
+  
+### Link para acceder al proyecto 
+[Link usado para realizar el modelo de Machine Learning](https://studio.edgeimpulse.com/public/243778/latest)
 ### Dataset usado en el entrenamiento del modelo de Machine Learning
 [Dataset usado para el entrenamiento del modelo de Machine Learning](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main/ISB/Laboratorios/L11_TinyML/Dataset)

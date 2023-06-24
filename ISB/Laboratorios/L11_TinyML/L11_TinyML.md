@@ -4,12 +4,14 @@
 
 ### Video 
 <p align="center">
-<video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/52fd6832-449a-434b-9e02-8e0263579bdf"  width="30%">
+| <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/72137f13-f8d6-4d33-9af2-4a1f9c50e683" width="200" /> | <video src="https://user-images.githubusercontent.com/111662394/233757252-d2a2b67d-350c-4cf1-bf2d-aa650f22e1df.mp4" width="100" /> |
+
   
 ### Entrenamiento del modelo de ML
-
 |----------|----------|
 | <img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/780c076a-3b52-4885-98f7-c542868573ff"> |<img width="400" height="400" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/c9fd9720-9039-44a7-942b-6f59eb7ac730"> | 
+
+</div>
 
 ### Dataset usado en el entrenamiento del modelo de Machine Learning
 [Dataset usado para el entrenamiento del modelo de Machine Learning](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main/ISB/Laboratorios/L11_TinyML/Dataset)

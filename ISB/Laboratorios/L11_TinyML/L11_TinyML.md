@@ -3,6 +3,7 @@
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/31391b98-6493-4d2b-86a2-dac82a324c45" width="50%"> 
 
 ### Video 
+|:-------------:|
 <p align="center">
 | <video src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/72137f13-f8d6-4d33-9af2-4a1f9c50e683" width="200" /> 
 

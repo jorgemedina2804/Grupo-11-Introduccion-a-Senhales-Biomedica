@@ -53,6 +53,8 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
   
 <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/2d945753-a40b-4efe-9e52-deb6eea81b6f" alt="Arduino Nano" width="30%">
+
+  
 ### Documentación
 
 Se resume en esta sección los avances semanales del proyecto.

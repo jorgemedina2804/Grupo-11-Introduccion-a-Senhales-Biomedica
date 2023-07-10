@@ -11,7 +11,7 @@ Bienvenidos al repositorio del grupo 11 del curso "Introducción a Señales Biom
 - [Resumen](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main#resumen)
 - [Motivación](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main#motivaci%C3%B3n)
 - [Principales hallazgos](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main#principales-hallazgos)
-- [Referencia al entregable 1]()
+- [Referencia al entregable 1](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/README.md#referencia-al-entregable-1)
 - [Referencias]()
 
 ### Resumen:

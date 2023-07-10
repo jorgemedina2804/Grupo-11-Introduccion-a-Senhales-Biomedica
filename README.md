@@ -69,6 +69,6 @@ Se resume en esta sección la documentación tanto a nivel de software como a ni
 
 [Código para realizar la GUI](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Software/GUI_2.0.py)
 
-[Código de entrenamiento al Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Software/Training_model.ipynb)
+[Código Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Software/Training_model.ipynb)
 
-[Código que realiza la predicción de arritmias - Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Software/autoencoder.h5)
+[Código que exporta el modelo entrenado - Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Software/autoencoder.h5)

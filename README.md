@@ -67,6 +67,19 @@ Se resume en esta sección la documentación tanto a nivel de software como a ni
 
 #### Software
 
+1. Adquisición de la señal ECG haciendo uso del módulo AD8232 conectado al Arduino UNO
+   <p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/88c9df7d-e2f6-428b-af64-41071b340034" width="30%">
+
+3. Aplicación del filtro pasabajo
+4. Señal ECG post filtro pasabajo
+5. Picos de la señal ECG
+6. Verificación de los latidos post downsampling
+7. Mean Absolute Error
+8. Interfaz gráfica interactiva 
+
+
+
 [Código para realizar la GUI](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Software/GUI_2.0.py)
 
 [Código Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Software/Training_model.ipynb)

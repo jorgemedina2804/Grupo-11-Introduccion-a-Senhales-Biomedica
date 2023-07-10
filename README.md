@@ -26,6 +26,11 @@ Se cuenta con un LED verde que se encenderá una vez que el dispositivo se prend
 ### Motivación:
 
 ### Principales hallazgos:
+<p align="justify">
+Respecto a los hallazgos al término del proyecto, se pudo observar una especificidad del 80% en la obtención de los resultados del dispositivo, ya que al momento de ser probado en diferentes sujetos de prueba que cumplieron adecuadamente los requisitos necesarios para una adecuada toma de datos (mantenerse quietos durante la toma de datos y tener colocados los electrodos de manera correcta) el dispositivo funciona de manera correcta, detectando la presencia o ausencia de las arritmias cardíacas. Esto se da gracias al uso de la técnica de Machine Learning empleada, en este caso los autoencoders los cuales son redes neuronales utilizadas en el proyecto para que realicen un aprendizaje automático de la señal de electrocardiograma propia de una persona y de una persona que presenta algún tipo de arritmia cardíaca. 
+<p align="justify">
+Otro tema importante a recalcar es la velocidad con la que se puede conseguir la predicción de la arritmia cardíaca, ya que todo el proceso de recolección de la señal, procesamiento y análisis mediante Machine Learning dura menos de 1 minuto, con lo cual se logra el objetivo principal del proyecto el cual es ser poder obtener un dispositivo de bajo costo que pueda realizar la predicción de arritmias en corto tiempo para así poder emitir una primera alerta hacia un potencial paciente arrítmico. 
+
 
 ### Referencia al entregable 1:
 [Entregable 1](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/Laboratorios/L1_Sobre%20Nosotros/L1.md)

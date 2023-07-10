@@ -45,4 +45,10 @@ Otro tema importante a recalcar es la velocidad con la que se puede conseguir la
 [Entregable 1](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/Laboratorios/L1_Sobre%20Nosotros/L1.md)
 
 ### Referencias:
+[1]. “Cardiovascular diseases (CVDs).”https://www.who.int/news-room/fact-
+sheets/detail/cardiovascular-diseases-(cvds) (accessed Jul.07, 2023)
 
+[2]. D. Chambergo-Michilot, B. Velit-Rios, and A. Cueva-Parra, “Prevalencia de Enfermedades cardiovasculares en el hospital Nacional dos de Mayo de Perú,” Revista Mexicana de Angiología, vol. 48, no. 3, 2020. doi:10.24875/rma.20000012.
+[3]. “Perú tiene un déficit de 6 mil 398 Médicos Especialistas,” RPP, https://rpp.pe/lima/actualidad/peru-tiene-un-deficit-de-6-mil-398-medicos-especialistas-noticia-840351?ref=rpp (accessed Jul. 5, 2023).
+[4]. "La deficiente atención de salud en área rural,"" (JAIME MORÁN Secretario del Interior del Colegio Médico del Perú),
+"https://revistaideele.com/ideele/content/la-deficiente-atención-de-salud-en-área-rural.

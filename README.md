@@ -42,17 +42,17 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 3)  Electrodos
   
 <p align="center">
-<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/d90c6f27-b9e3-4a48-becc-48c65e589eba)" alt="Arduino Nano" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/6ca780f5-916c-4248-8b5e-b72ca67d2feb" alt="Arduino Nano" width="30%">
 
 4)  Protoboard
   
 <p align="center">
-<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/d90c6f27-b9e3-4a48-becc-48c65e589eba)" alt="Arduino Nano" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/b9cf64d1-504d-4287-9d97-1629d49fd95f" alt="Arduino Nano" width="30%">
 
-5)  Computadora
+5)  Laptopt
   
 <p align="center">
-<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/d90c6f27-b9e3-4a48-becc-48c65e589eba)" alt="Arduino Nano" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/2d945753-a40b-4efe-9e52-deb6eea81b6f" alt="Arduino Nano" width="30%">
 ### Documentación
 
 Se resume en esta sección los avances semanales del proyecto.

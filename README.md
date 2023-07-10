@@ -26,6 +26,13 @@ Se cuenta con un LED verde que se encenderá una vez que el dispositivo se prend
 
 
 ### Motivación:
+<p align="justify">
+Las arritmias cardíacas son trastornos del ritmo cardíaco que afectan a millones de personas en todo el mundo. Según la Organización Mundial de la Salud, las enfermedades cardiovasculares, incluyendo las arritmias, son la principal causa de muerte en todo el mundo, representando el 31% de todas las muertes [1]. En caso del Perú, el 17,49% de pacientes ingresados al servicio de cardiología de un hospital público del Perú padecen esta condición por lo que es importante prestar atención a la incidencia de arritmias cardíacas [2]. 
+<p align="justify">
+Se decidió concentrar a nuestro público objetivo en las zonas rurales debido a que el Perú ostenta un déficit de 6 mil 398 médicos especialistas, entre los que destacan la especialidad de cardiología [3]. Además, otro factor a tener en cuenta es el centralismo presente en el Perú, sobre todo en el sector salud. De cada diez médicos colegiados, seis se concentran en Lima y Callao. El 40% restante se distribuye también inequitativamente entre algunas regiones [4]. 
+
+Ante todas estas evidencias es que se optó por realizar este proyecto. 
+
 
 ### Principales hallazgos:
 <p align="justify">

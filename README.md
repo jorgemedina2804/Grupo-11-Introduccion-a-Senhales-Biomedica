@@ -1,9 +1,11 @@
 # Grupo 11 - Introducción a Señales Biomédicas
 Bienvenidos al repositorio del grupo 11 del curso "Introducción a Señales Biomédicas" del ciclo 2023-1
 
-## Nombre del proyecto: Detección semiautomática de arritmias utilizando la señal de ECG
+## Nombre del proyecto: Detector semiautomático de arritmias de bajo costo utilizando la señal de ECG
 
 Se realizará un dispositivo que sea capaz de analizar y realizar la detección semiautomática de arritmias a través de la señal de ECG. Se obtendrá, preprocesará y extraerá la información haciendo uso de los conocimientos proporcionados por el curso.
+
+El objetivo de este proyecto es poder proveer un sistema de bajo costo que pueda ser usado en los centros de salud de zonas rurales para realizar procedimientos predictivos de arritmias cardíacas a la población. Para esto se contará con un algoritmo de Machine Learning basado en el uso de autoencoders
 
 ### Tabla de contenidos
 - [Integrantes](#Integrantes)
@@ -27,22 +29,30 @@ El equipo de trabajo está conformado por los siguientes estudiantes de Ingenier
 
 Lista de materiales necesarios para la adquisición de las señales y el procesamiento inicial de tales datos.
 
-1)  Arduino nano 33 IoT
+1)  Arduino UNO
   
 <p align="center">
-<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/ab4b75c2-717e-45a3-b116-e177d1a44233)" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/c65b1e9a-f7d6-46b7-9a4a-6c98823b7c68" width="30%">
   
-2)  Fluke ProSim 4
+2)  Sensor AD8232  
   
 <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/df01c5a5-a111-4707-87ae-5d5f07b0297c" alt="Arduino Nano" width="30%">
 
-3)  BiTalino
+3)  Electrodos
   
 <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/d90c6f27-b9e3-4a48-becc-48c65e589eba)" alt="Arduino Nano" width="30%">
 
+4)  Protoboard
+  
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/d90c6f27-b9e3-4a48-becc-48c65e589eba)" alt="Arduino Nano" width="30%">
 
+5)  Computadora
+  
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/d90c6f27-b9e3-4a48-becc-48c65e589eba)" alt="Arduino Nano" width="30%">
 ### Documentación
 
 Se resume en esta sección los avances semanales del proyecto.

@@ -61,7 +61,8 @@ Se resume en esta sección la documentación tanto a nivel de software como a ni
 #### Hardware
 
 
-[Plano de la carcasa del Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Hardware/Plano%20centro%20de%20control%20Predictor%20ECG250.ai)
+[Plano de la carcasa del Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Hardware/Plano%20centro%20de%20control%20Predictor%20ECG250.ai)}
+[Circuito esquemático del proyecto](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Hardware/Circuito%20esquem%C3%A1tico%20Predictor%20ECG250.JPG)
 
 #### Software
 

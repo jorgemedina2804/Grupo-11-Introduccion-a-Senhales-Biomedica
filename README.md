@@ -8,9 +8,9 @@ Se realizará un dispositivo que sea capaz de analizar y realizar la detección 
 El objetivo de este proyecto es poder proveer un sistema de bajo costo que pueda ser usado en los centros de salud de zonas rurales para realizar procedimientos predictivos de arritmias cardíacas a la población. Para esto se contará con un algoritmo de Machine Learning basado en el uso de autoencoders.
 
 ### Tabla de contenidos
-- [Integrantes](#Integrantes)
-- [Materiales](#Materiales)
-- [Documentacion](#Documentacion)
+- [Integrantes](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main#integrantes)
+- [Materiales](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main#materiales)
+- [Documentacion](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main#documentaci%C3%B3n)
 
 ### Integrantes:
 

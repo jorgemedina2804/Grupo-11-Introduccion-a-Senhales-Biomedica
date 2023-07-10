@@ -71,14 +71,31 @@ Se resume en esta sección la documentación tanto a nivel de software como a ni
    <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/88c9df7d-e2f6-428b-af64-41071b340034" >
 
-3. Aplicación del filtro pasabajo
-4. Señal ECG post filtro pasabajo
-5. Picos de la señal ECG
-6. Verificación de los latidos post downsampling
-7. Mean Absolute Error
-8. Interfaz gráfica interactiva 
+2. Aplicación del filtro pasabajo
 
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/313f80f6-b9a3-42e1-8998-3daf72d05d39" >
 
+3. Señal ECG post filtro pasabajo
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/7f80027e-3def-4a8c-9e9d-2f536ab8fc97" >
+   
+4. Picos de la señal ECG
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/8b636648-dfc5-4e76-94c3-b2e9c20b2ffd" >
+   
+5. Verificación de los latidos post downsampling
+
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/b9b17156-6fb2-4633-9e74-2a2cca10a284" >
+
+6. Mean Absolute Error
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/44a432c2-24ee-4a50-af96-96b297e15366" >  
+
+7. Interfaz gráfica interactiva 
+<p align="center">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/168d8869-090a-4f4d-9e58-2ad3501c7747" >  
 
 [Código para realizar la GUI](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Software/GUI_2.0.py)
 

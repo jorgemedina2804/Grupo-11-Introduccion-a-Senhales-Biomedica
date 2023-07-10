@@ -26,3 +26,6 @@ Se cuenta con un LED verde que se encenderá una vez que el dispositivo se prend
 ### Motivación:
 
 ### Principales hallazgos:
+
+### Referencia al entregable 1:
+[Entregable 1](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/tree/main/ISB/Laboratorios/L1_Sobre%20Nosotros)

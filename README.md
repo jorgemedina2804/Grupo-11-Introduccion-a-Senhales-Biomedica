@@ -58,5 +58,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 ### Documentación
 
 Se resume en esta sección la documentación tanto a nivel de software como a nivel de hardware del proyecto.
+#### Hardware
 
+#### Software
 

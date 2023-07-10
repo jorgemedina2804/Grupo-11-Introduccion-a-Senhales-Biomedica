@@ -49,7 +49,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/b9cf64d1-504d-4287-9d97-1629d49fd95f" alt="Arduino Nano" width="30%">
 
-5)  Laptopt
+5)  Laptop
   
 <p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/2d945753-a40b-4efe-9e52-deb6eea81b6f" alt="Arduino Nano" width="30%">

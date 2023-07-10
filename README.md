@@ -65,7 +65,9 @@ Se resume en esta sección la documentación tanto a nivel de software como a ni
 
 2. Indicadores visuales del Predictor ECG 250:
    LED Verde: indica que el dispositivo está listo para ser usado
+   
    LED Azul: Mientras está encendido significa que se encuentra recolectando los datos del usuario
+   
 <p align="center">
 <img width="400" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/453a0cf8-eea6-47be-bda7-8a4c79a4ca9a)" >
 

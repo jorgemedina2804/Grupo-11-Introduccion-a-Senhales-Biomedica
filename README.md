@@ -36,3 +36,6 @@ Otro tema importante a recalcar es la velocidad con la que se puede conseguir la
 
 ### Referencia al entregable 1:
 [Entregable 1](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/ISB/Laboratorios/L1_Sobre%20Nosotros/L1.md)
+
+### Referencias:
+

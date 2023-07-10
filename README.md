@@ -37,7 +37,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 2)  Sensor AD8232  
   
 <p align="center">
-<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/df01c5a5-a111-4707-87ae-5d5f07b0297c" alt="Arduino Nano" width="30%">
+<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/02731d09-bf9f-486f-a7d2-d514992b236f" alt="Arduino Nano" width="30%">
 
 3)  Electrodos
   

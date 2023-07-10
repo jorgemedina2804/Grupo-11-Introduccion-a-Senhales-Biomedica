@@ -61,7 +61,7 @@ Se resume en esta sección la documentación tanto a nivel de software como a ni
 #### Hardware
 1. Predictor ECG 250 ensamblado
  <p align="center">
-<img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/071bf1d5-0b1d-48eb-81bd-a4262a52d9b0" >
+<img width="400" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/071bf1d5-0b1d-48eb-81bd-a4262a52d9b0" >
 
 
 
@@ -72,7 +72,7 @@ Se resume en esta sección la documentación tanto a nivel de software como a ni
 #### Software
 
 1. Adquisición de la señal ECG haciendo uso del módulo AD8232 conectado al Arduino UNO
-   <p align="center">
+<p align="center">
 <img src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/88c9df7d-e2f6-428b-af64-41071b340034" >
 
 2. Aplicación del filtro pasabajo

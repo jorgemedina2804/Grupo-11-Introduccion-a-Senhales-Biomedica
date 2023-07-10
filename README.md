@@ -74,10 +74,10 @@ Se resume en esta sección la documentación tanto a nivel de software como a ni
 
 3. Prueba del Predictor ECG 250 en el primer sujeto de prueba
 <p align="center">
-<img width="400" height="300" src="(https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/ac90a259-4485-4f59-a478-f1437d828cff)" >
+<img width="400" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/ac90a259-4485-4f59-a478-f1437d828cff" >
    
 4. Prueba del Predictor ECG 250 en el segundo sujeto de prueba
-<img width="400" height="300" src="(https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/1846af42-5744-4b20-b89a-cfc6fe80443d)" >
+<img width="400" height="300" src="https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/assets/111662394/1846af42-5744-4b20-b89a-cfc6fe80443d" >
    
 
 [Plano de la carcasa del Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Hardware/Plano%20centro%20de%20control%20Predictor%20ECG250.ai)

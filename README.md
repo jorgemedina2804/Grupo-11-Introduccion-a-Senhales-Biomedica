@@ -102,3 +102,5 @@ Se resume en esta sección la documentación tanto a nivel de software como a ni
 [Código Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Software/Training_model.ipynb)
 
 [Código que exporta el modelo entrenado - Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Software/autoencoder.h5)
+
+#### Paper del proyecto 

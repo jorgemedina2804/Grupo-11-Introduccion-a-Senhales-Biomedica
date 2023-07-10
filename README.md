@@ -60,5 +60,7 @@ Lista de materiales necesarios para la adquisición de las señales y el procesa
 Se resume en esta sección la documentación tanto a nivel de software como a nivel de hardware del proyecto.
 #### Hardware
 
+
+[Plano de la carcasa del Predictor ECG 250](https://github.com/jorgemedina2804/Grupo-11-Introduccion-a-Senhales-Biomedica/blob/main/Hardware/Plano%20centro%20de%20control%20Predictor%20ECG250.ai)
 #### Software
 
